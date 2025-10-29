@@ -1,4 +1,297 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Ancient Jar
+rules_text: When Ancient Jar enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{X}, {T}, Sacrifice Ancient Jar: Create an X/X black Horror creature token with deathtouch. => When Ancient Jar enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{X}, {T}, Sacrifice Ancient Jar: Create an X/X black Horror creature token with deathtouch. Activate only as a sorcery.
+
+
+VERSION 6 CHANGELOG
+====================
+
+
+
+Labyrinth Wall
+rules_text: Emerge {5} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash, defender
+{T}: Untap target attacking creature and remove it from combat. => Emerge {5} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Defender
+{T}: Untap target attacking creature and remove it from combat.
+
+Launcher Spider
+rules_text: Emerge {6} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash, reach
+When Launcher Spider enters, if you cast it for its emerge cost, you may have it deal damage equal to its power to target creature an opponent controls with flying. => Emerge {6} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Reach
+When Launcher Spider enters you may have it deal damage equal to its power to target creature an opponent controls with flying.
+
+Sonic Maid
+rules_text: Flash, first strike => Flash
+Reach
+
+Warrior of Tradition
+rules_text: Fusion {1}{B}{G} — Two Warriors
+Flash, vigilance
+When Warrior of Tradition attacks, return up to one target creature from your graveyard to your hand. => Fusion {1}{B}{G} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Vigilance, reach
+When Warrior of Tradition attacks, return up to one target creature from your graveyard to your hand.
+
+Gate Guardian
+rules_text: Fusion {2}{G}{W}{U} — Three Warriors
+Flash, vigilance, reach
+{2}{W}: Prevent all damage that would be dealt by target creature this turn.
+{3}{G}: Gate Guardian fights target creature.
+{4}{U}: Draw 2 cards. => Fusion {2}{G}{W}{U} — Three Warriors
+Flash
+Vigilance, reach
+{2}{W}: Prevent all damage that would be dealt by target creature this turn.
+{3}{G}: Gate Guardian fights target creature.
+{4}{U}: Draw 2 cards.
+
+Barrier Statue of the Drought
+rules_text: Flash, defender
+When Barrier Statue of the Drought enters or is turned face-up, creatures you control gain indestructible until end of turn. => Flash
+Defender
+When Barrier Statue of the Drought enters or is turned face-up, creatures you control gain indestructible until end of turn.
+
+The All-Seeing White Tiger
+cost: {2}{GW} => {1}{G}{W}
+rules_text: Trample, first strike
+Divide {1}{GW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => First strike, trample
+Divide {1}{GW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Flower Wolf
+rules_text: Fusion {1}{BG}{BG} — A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+First strike, wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i] => Fusion {1}{BG}{BG} — A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, wither [i](This creature can't be blocked except by two or more creatures. This deals damage to creatures in the form of -1/-1 counters.)[/i]
+
+Silver Fang
+rules_text: Flash, first strike => Flash
+First strike
+
+Master of Oz
+rules_text: Fusion {4}{RG}{RG}{RG} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flash, trample, reach => Fusion {4}{RG}{RG}{RG} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Trample, reach
+
+Necro Fleur
+rules_text: When Necro Fleur dies, you may search your library for a plant creature card and put it into your graveyard, then shuffle.
+Divide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When Necro Fleur dies, you may search your library for a Plant creature card and put it into your graveyard, then shuffle.
+Divide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Hinotama Soul
+rules_text: Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i] => Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Hinotama Soul enters, it deals 2 damage to you.
+
+Fireyarou
+rules_text: Flash, double strike
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flash
+Double strike
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Petit Dragon
+rules_text: Flying
+Whenever a creature you control attacks alone, Petit Dragon deals 1 damage to target player. => Flying
+Whenever a creature you control attacks alone you may pay {R}. If you do, Petit Dragon deals 1 damage to target player.
+
+Solar Flare Dragon
+rules_text: Flying, lifelink, riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i] => Flying
+When Solar Flare Dragon enters, if you spent {W} to cast it, put a lifelink counter on it. If you spent {R} to cast it, it gains haste.
+
+Barrier Statue of the Inferno
+rules_text: Flash, defender
+When Barrier Statue of the Inferno enters or is turned face choose target creature you control. It deals damage equal to its power to each other creature. => Flash
+Defender
+When Barrier Statue of the Inferno enters or is turned face choose target creature you control. It deals damage equal to its power to each other creature.
+
+Ocubeam
+rules_text: Flash, flying
+{1}{W}: You may look at target face-down card an opponent controls. => Flash
+Flying
+{1}{W}: You may look at target face-down card an opponent controls.
+
+Eco, Mystical Spirit of the Forest
+rules_text: Flash, riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+The next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco, Mystical Spirit of the Forest deals damage equal to the damage prevented this way to the source's controller. => Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+The next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco, Mystical Spirit of the Forest deals damage equal to the damage prevented this way to the source's controller.
+
+Charubin the Fire Knight
+rules_text: Fusion {RW}{BR} — An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flash, riot
+When Charubin the Fire Knight enters, destroy target creature an opponent controls. => Fusion {RW}{BR} — An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Charubin the Fire Knight enters, destroy target creature an opponent controls.
+
+Barrier Statue of the Heavens
+rules_text: Flash, defender
+When Barrier Statue of the Heavens enters or is turned face-up, for each creature you control create a 1/1 white Angel creature token with flying, then creatures you control get +0/+4 until end of turn. => Flash
+Defender
+When Barrier Statue of the Heavens enters or is turned face-up, for each creature you control create a 1/1 white Angel creature token with flying, then creatures you control get +0/+4 until end of turn.
+
+Dragon Seeker
+rules_text: Emerge {4}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash, flying
+When Dragon Seeker enters or is turned face-up, destroy target non-black, non-artifact creature. If it was a dragon, draw a card. => Emerge {4}{B}
+Flash
+Flying
+When Dragon Seeker enters or is turned face-up, destroy target non-black, non-artifact creature. If it was a dragon, draw a card.
+
+Invitation to a Dark Sleep
+rules_text: Defense position {2}{UB} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Invitation to a Dark Sleep enters or is turned face-up, tap target creature an opponent controls and put two stun counters on it. => Defense position {2}{U}
+Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+When Invitation to a Dark Sleep is turned face up for its defense position cost, tap target creature an opponent controls and put two stun counters on it.
+
+The Drdek
+rules_text: Whenever The Drdek blocks a creature, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Whenever The Drdek blocks, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Dark Jeroid
+rules_text: Flash, fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+When Dark Jeroid enters, target creature an opponent controls gets -2/-0 until end of turn. => Flash
+Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+When Dark Jeroid enters, target creature an opponent controls gets -2/-0 until end of turn.
+
+Lekunga
+rules_text: Flash, reach
+{1}, Exile target creature from your graveyard: Create a 2/2 green Plant creature token. => Flash
+Reach
+{2}, Exile target creature from your graveyard: Create a 2/2 green Plant creature token. Activate only once each turn.
+
+Barrier Statue of the Abyss
+rules_text: Flash, defender
+When Barrier Statue of the Abyss enters or is turned face-up, choose target creature card in a graveyard. Put that card onto the battlefield under your control. => Flash
+Defender
+When Barrier Statue of the Abyss enters or is turned face-up, choose target creature card in a graveyard. Put that card onto the battlefield under your control.
+
+Barrier Statue of the Stormwinds
+rules_text: Flash, defender
+When Barrier Statue of the Stormwinds enters or is turned face-up, creatures you control get +2/+2 and gain reach and trample until end of turn. => Flash
+Defender
+When Barrier Statue of the Stormwinds enters or is turned face-up, creatures you control get +2/+2 and gain reach and trample until end of turn.
+
+Barrier Statue of the Torrent
+rules_text: Flash, defender
+When Barrier Statue of the Torrent enters or is turned face-up, draw three cards. => Flash
+Defender
+When Barrier Statue of the Torrent enters or is turned face-up, draw three cards.
+
+Volcanic Rat
+rules_text: Haste, lifelink
+[i](This token's mana cost is {RW}.)[/i] => Haste
+[i](This token's mana cost is {RW}.)[/i]
+
+Piranha Army
+rules_text: Flash, shroud [i](This creature can't be the target of spells or abilities.)[/i]
+When Piranha Army attacks and is not blocked, double its power until end of turn. => Flash
+Menace
+When Piranha Army attacks and is not blocked, double its power until end of turn.
+
+Leogun
+rules_text: Flash, first strike
+Divide {2}{W} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Flash
+First strike
+Divide {2}{W} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Ekibyo Drakmord
+rules_text: Flash, vanishing 2
+Enchant creature
+Enchanted creature can't attack and its activated abilities can't be activated.
+When the last vanishing counter is removed from Ekibyo Drakmord, destroy enchanted creature and return Ekibyo Drakmord to its owner's hand. => Flash
+Vanishing 2
+Enchant creature
+Enchanted creature can't attack and its activated abilities can't be activated.
+When the last vanishing counter is removed from Ekibyo Drakmord, destroy enchanted creature and return Ekibyo Drakmord to its owner's hand.
+
+Mirage Knight
+rules_text: Emerge from white creature {5}{W}{W}
+Flash, flying, first strike
+Whenever Mirage Knight attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures defending player controls. At end of combat, exile Mirage Knight.
+You may cast Mirage Knight from exile. => Emerge from white creature {5}{W}{W}
+Flash
+Flying, first strike
+Whenever Mirage Knight attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures defending player controls. At end of combat, exile Mirage Knight.
+You may cast Mirage Knight from exile.
+
+Inferno
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: Flash, riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+Players can't gain life.
+Damage can't be prevented.
+You may pay 2 life and exile an elemental creature card from your graveyard rather than pay this spell's mana cost. => You may pay 2 life and exile an elemental creature card from your graveyard rather than pay this spell's mana cost.
+Flash
+Players can't gain life.
+Damage can't be prevented.
+pt: 3/4 => 2/2
+
+Panther Warrior
+rules_text: Flash, vigilance
+When Panther Warrior dies, create a 3/2 green Wolf creature token. => Flash
+Vigilance
+When Panther Warrior dies, create a 3/2 green Wolf creature token.
+
+Nutrient Z
+rules_text: If you have taken 5 or more damage this turn, you may pay {G} rather than pay this spell's mana cost.
+Gain 10 life.
+Draw a card. => If you have taken 5 or more damage this turn, you may pay {1}{G} rather than pay this spell's mana cost.
+Gain 10 life.
+Draw a card.
+
+Sasuke Samurai
+rules_text: Flash, double strike
+When Sasuke Samurai is blocked by a face-down creature, destroy that creature. => Flash
+Double strike
+When Sasuke Samurai is blocked by a face-down creature, destroy that creature.
+
+Lord Poison
+rules_text: Flash, wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When Lord Poison dies, return another target plant creature card from your graveyard to the battlefield tapped. => Flash
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When Lord Poison dies, return another target plant creature card from your graveyard to the battlefield tapped.
+
+Blaze Accelerator
+type: Enchantment => Artifact
+rules_text: {R}, Discard a card: Exile the top two cards of your library. You may play one of those cards this turn. Activate this ability only once each turn. => {R}, {T}, Discard a card: Exile the top two cards of your library. Choose one of them. Until end of turn, you may play that card.
+
+A Feather of the Phoenix
+rules_text: As an additional cost to cast this spell, discard a card.
+Return two creatures at random from your graveyard to your hand. => As an additional cost to cast this spell, discard a card.
+Return two creature cards at random from your graveyard to your hand.
+
+Leogun
+rules_text: Flash, first strike
+[i](This token's mana cost is {4}{W}.)[/i] => Flash
+First strike
+[i](This token's mana cost is {4}{W}.)[/i]
+
+The All-Seeing White Tiger
+cost: {2}{GW} => {1}{G}{W}
+rules_text: Trample, first strike
+[i](This token's mana cost is {2}{GW}.)[/i] => First strike, trample
+[i](This token's mana cost is {1}{G}{W}.)[/i]
+
+The Drdek
+rules_text: Whenever The Drdek blocks a creature, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+[i](This token's mana cost is {UB}.)[/i] => Whenever The Drdek blocks surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+[i](This token's mana cost is {UB}.)[/i]
+
+Volcanic Rat
+rules_text: Haste, lifelink
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Haste
+Divide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Mother Grizzly
+rules_text: Divide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Divide {1}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

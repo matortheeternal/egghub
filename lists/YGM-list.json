@@ -1274,84 +1274,84 @@
     "a->gold",
     {
         "card_name": "Exxod, Master of the Guard",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "YGM",
         "position": "41"
     },
     {
         "card_name": "Cosmo Queen",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "YGM",
         "position": "136"
     },
     {
         "card_name": "Berserk Dragon",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "YGM",
         "position": "187"
     },
     {
         "card_name": "Behemoth, the King of All Animals",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "YGM",
         "position": "72"
     },
     {
         "card_name": "Simorgh, Bird of Divinity",
-        "number": 248,
+        "number": 249,
         "shape": "normal",
         "set": "YGM",
         "position": "87"
     },
     {
         "card_name": "Gonogo",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "YGM",
         "position": "53"
     },
     {
         "card_name": "Brain Jacker",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "YGM",
         "position": "275"
     },
     {
         "card_name": "Invasion of Flames",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "YGM",
         "position": "101"
     },
     {
         "card_name": "Giant Germ",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "YGM",
         "position": "34"
     },
     {
         "card_name": "Spirit of the Breeze",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "YGM",
         "position": "349"
     },
     {
         "card_name": "Muka Muka",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "YGM",
         "position": "272"
     },
     {
         "card_name": "Fiber Jar",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "YGM",
         "position": "76"
@@ -1365,182 +1365,182 @@
     },
     {
         "card_name": "Gyaku-Gire Panda",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "YGM",
         "position": "312"
     },
     {
         "card_name": "Giltia the D. Knight",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "YGM",
         "position": "288"
     },
     {
         "card_name": "Guardian Sphinx",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "YGM",
         "position": "35"
     },
     {
         "card_name": "Dark Necrofear",
-        "number": 199,
+        "number": 200,
         "shape": "transform double faced",
         "set": "YGM",
         "position": "131"
     },
     {
         "card_name": "Judge Man",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "YGM",
         "position": "36"
     },
     {
         "card_name": "Twinheaded Beast",
-        "number": 257,
+        "number": 258,
         "shape": "normal",
         "set": "YGM",
         "position": "313"
     },
     {
         "card_name": "Gyakutenno Megami",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "YGM",
         "position": "114"
     },
     {
         "card_name": "Ordeal of a Traveler",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "YGM",
         "position": "49"
     },
     {
         "card_name": "Guarded Treasure",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "YGM",
         "position": "314"
     },
     {
         "card_name": "Skull Invitation",
-        "number": 249,
+        "number": 250,
         "shape": "normal",
         "set": "YGM",
         "position": "255"
     },
     {
         "card_name": "Meteorain",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "YGM",
         "position": "256"
     },
     {
         "card_name": "Aqua Chorus",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "YGM",
         "position": "254"
     },
     {
         "card_name": "Torrential Tribute",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "YGM",
         "position": "264"
     },
     {
         "card_name": "Exchange of the Spirit",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "YGM",
         "position": "262"
     },
     {
         "card_name": "The Grave of Enkindling",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "YGM",
         "position": "318"
     },
     {
         "card_name": "A Feather of the Phoenix",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "YGM",
         "position": "317"
     },
     {
         "card_name": "Tricky Spell 4",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "YGM",
         "position": "294"
     },
     {
         "card_name": "Maharaghi",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "YGM",
         "position": "273"
     },
     {
         "card_name": "Revival Jam",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "YGM",
         "position": "263"
     },
     {
         "card_name": "Shadowknight Archfiend",
-        "number": 245,
+        "number": 246,
         "shape": "normal",
         "set": "YGM",
         "position": "210"
     },
     {
         "card_name": "Master of Oz",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "YGM",
         "position": "71"
     },
     {
         "card_name": "The All-Seeing White Tiger",
-        "number": 264,
+        "number": 183,
         "shape": "normal",
         "set": "YGM",
         "position": "65"
     },
     {
         "card_name": "Shield & Sword",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "YGM",
         "position": "194"
     },
     {
         "card_name": "Mystic Box",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "YGM",
         "position": "274"
     },
     {
         "card_name": "Final Destiny",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "YGM",
         "position": "296"
     },
     {
         "card_name": "Wild Nature's Release",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "YGM",
         "position": "299"
@@ -1617,7 +1617,7 @@
     },
     {
         "card_name": "Airknight Parshath",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "YGM",
         "position": "117"
@@ -1674,70 +1674,70 @@
     },
     {
         "card_name": "Archlord Zerato",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "YGM",
         "position": "120"
     },
     {
         "card_name": "Frost and Flame Dragon",
-        "number": 210,
+        "number": 211,
         "shape": "normal",
         "set": "YGM",
         "position": "244"
     },
     {
         "card_name": "Gigaplant",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "YGM",
         "position": "80"
     },
     {
         "card_name": "The Creator",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "YGM",
         "position": "245"
     },
     {
         "card_name": "Gogiga Gagagigo",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "YGM",
         "position": "175"
     },
     {
         "card_name": "Souls of the Forgotten",
-        "number": 250,
+        "number": 251,
         "shape": "normal",
         "set": "YGM",
         "position": "348"
     },
     {
         "card_name": "Ameba",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "YGM",
         "position": "33"
     },
     {
         "card_name": "Bubonic Vermin",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "YGM",
         "position": "64"
     },
     {
         "card_name": "Burning Algae",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "YGM",
         "position": "346"
     },
     {
         "card_name": "Dreamsprite",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "YGM",
         "position": "85"
@@ -1751,98 +1751,98 @@
     },
     {
         "card_name": "Raging Flame Sprite",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "YGM",
         "position": "103"
     },
     {
         "card_name": "Lord Poison",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "YGM",
         "position": "306"
     },
     {
         "card_name": "Fire Princess",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "YGM",
         "position": "280"
     },
     {
         "card_name": "Humanoid Worm Drake",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "YGM",
         "position": "289"
     },
     {
         "card_name": "St. Joan",
-        "number": 252,
+        "number": 253,
         "shape": "normal",
         "set": "YGM",
         "position": "107"
     },
     {
         "card_name": "Twin-Headed Fire Dragon",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "YGM",
         "position": "95"
     },
     {
         "card_name": "Warrior of Tradition",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "YGM",
         "position": "37"
     },
     {
         "card_name": "Castle Gate",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "YGM",
         "position": "309"
     },
     {
         "card_name": "Deepsea Shark",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "YGM",
         "position": "282"
     },
     {
         "card_name": "Human-Wave Tactics",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "YGM",
         "position": "307"
     },
     {
         "card_name": "Destructive Draw",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "YGM",
         "position": "257"
     },
     {
         "card_name": "Germ Infection",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "YGM",
         "position": "18"
     },
     {
         "card_name": "Blessings of the Nile",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "YGM",
         "position": "236"
     },
     {
         "card_name": "The World Tree",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "YGM",
         "position": "283"
@@ -1856,7 +1856,7 @@
     },
     {
         "card_name": "Lightning Vortex",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "YGM",
         "position": "295"
@@ -1870,28 +1870,28 @@
     },
     {
         "card_name": "Needle Ceiling",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "YGM",
         "position": "297"
     },
     {
         "card_name": "Zero Gravity",
-        "number": 261,
+        "number": 262,
         "shape": "normal",
         "set": "YGM",
         "position": "253"
     },
     {
         "card_name": "Abyss Flower",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "YGM",
         "position": "350"
     },
     {
         "card_name": "Giant Red Seasnake",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "YGM",
         "position": "290"
@@ -1905,7 +1905,7 @@
     },
     {
         "card_name": "Sasuke Samurai",
-        "number": 244,
+        "number": 245,
         "shape": "normal",
         "set": "YGM",
         "position": "279"
@@ -1919,35 +1919,35 @@
     },
     {
         "card_name": "Dark Cure",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "YGM",
         "position": "305"
     },
     {
         "card_name": "Option Hunter",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "YGM",
         "position": "298"
     },
     {
         "card_name": "Silent Doom",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "YGM",
         "position": "261"
     },
     {
         "card_name": "Rock Bombardment",
-        "number": 243,
+        "number": 244,
         "shape": "normal",
         "set": "YGM",
         "position": "192"
     },
     {
         "card_name": "Trap Jammer",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "YGM",
         "position": "252"
@@ -2074,56 +2074,56 @@
     },
     {
         "card_name": "Gate Guardian",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "YGM",
         "position": "39"
     },
     {
         "card_name": "Possessed Dark Soul",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "YGM",
         "position": "151"
     },
     {
         "card_name": "Charubin the Fire Knight",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "YGM",
         "position": "126"
     },
     {
         "card_name": "Eco, Mystical Spirit of the Forest",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "YGM",
         "position": "125"
     },
     {
         "card_name": "The Masked Beast",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "YGM",
         "position": "132"
     },
     {
         "card_name": "Performance of Sword",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "YGM",
         "position": "380"
     },
     {
         "card_name": "Commencement Dance",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "YGM",
         "position": "381"
     },
     {
         "card_name": "Curse of the Masked Beast",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "YGM",
         "position": "133"
@@ -2727,70 +2727,70 @@
     },
     {
         "card_name": "Ameba",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "YGM",
         "position": "343"
     },
     {
         "card_name": "Bubonic Vermin",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "YGM",
         "position": "344"
     },
     {
         "card_name": "Burning Algae",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "YGM",
         "position": "99"
     },
     {
         "card_name": "Giant Germ",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "YGM",
         "position": "345"
     },
     {
         "card_name": "Invasion of Flames",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "YGM",
         "position": "347"
     },
     {
         "card_name": "Souls of the Forgotten",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "YGM",
         "position": "153"
     },
     {
         "card_name": "Spirit of the Breeze",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "YGM",
         "position": "116"
     },
     {
-        "card_name": "Abyss Flower",
-        "number": 26,
-        "shape": "token",
-        "set": "YGM",
-        "position": "81"
-    },
-    {
         "card_name": "The All-Seeing White Tiger",
-        "number": 27,
+        "number": 18,
         "shape": "token",
         "set": "YGM",
         "position": "351"
     },
     {
+        "card_name": "Abyss Flower",
+        "number": 27,
+        "shape": "token",
+        "set": "YGM",
+        "position": "81"
+    },
+    {
         "card_name": "Slime",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "YGM",
         "position": "359"
