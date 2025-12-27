@@ -335,7 +335,8 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	
+	<p>This set is developed by Jawnie from <a href="https://www.youtube.com/@ItsNotGoodShow">It's Not Good</a>.</p>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/XqmPFT4GfkE?si=C48wmTtLKHyxUNQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -394,8 +395,8 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-			
-		setCardView();
+					buttons.style.display = 'grid';
+				switchView('splash');
 		});
 
 		document.getElementById("sort-by").onchange = displayChangeListener;
