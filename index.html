@@ -1,6 +1,7 @@
 ﻿<html>
 	<head>
 		<title>MSE Set Hub</title>
+		<base href="/egghub/">
 		<link rel="icon" type="image/x-icon" href="/img/favicon.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
@@ -183,7 +184,7 @@
 	}
 	@media ( max-width: 750px ) {
 		.item-container {
-			width: 95%;	
+			width: 95%;
 		}
 		.search-grid {
 			width: 95%;
@@ -344,8 +345,8 @@
 			// if this doesn't work, blame Gemini
 			function reallyRand(x) {
 				const date = new Date();
-				const seed = date.getFullYear() * 10000 + 
-							 date.getMonth() * 100 + 
+				const seed = date.getFullYear() * 10000 +
+							 date.getMonth() * 100 +
 							 date.getDate();
 
 				const a = 1103515245;
@@ -375,7 +376,7 @@
 				{
 					localStorage.setItem("gradient", document.getElementById("color-select").value);
 				}
-				
+
 				gradient = localStorage.getItem("gradient");
 
 				gradTop = "#000000";
@@ -388,7 +389,7 @@
 						gradBottom = grad.color2;
 					}
 				}
-				
+
 				if (initial_gradient)
 				{
 					document.getElementById("color-select").value = gradient;
