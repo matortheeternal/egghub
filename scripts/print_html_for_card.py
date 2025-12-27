@@ -20,7 +20,7 @@ def generateHTML():
 <style>
 	@font-face {
 		font-family: Beleren;
-		src: url('/resources/beleren.ttf');
+		src: url('resources/beleren.ttf');
 	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;
@@ -120,7 +120,7 @@ def generateHTML():
 		border-radius: 5.1%;
 	}
 	.img-container .btn {
-		background: url('/img/flip.png') no-repeat;
+		background: url('img/flip.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 15%;
@@ -134,7 +134,7 @@ def generateHTML():
 		opacity: 0.5;
 	}
 	.img-container .btn:hover {
-		background: url('/img/flip-hover.png') no-repeat;
+		background: url('img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 	}

@@ -31,11 +31,11 @@ def generateHTML(code):
 <style>
 	@font-face {
 		font-family: 'Beleren Small Caps';
-		src: url('/resources/beleren-caps.ttf');
+		src: url('resources/beleren-caps.ttf');
 	}
 	@font-face {
 		font-family: Beleren;
-		src: url('/resources/beleren.ttf');
+		src: url('resources/beleren.ttf');
 	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;
@@ -207,7 +207,7 @@ def generateHTML(code):
 		border-radius: 5.1%;
 	}
 	.img-container .btn {
-		background: url('/img/flip.png') no-repeat;
+		background: url('img/flip.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 15%;
@@ -221,7 +221,7 @@ def generateHTML(code):
 		opacity: 0.5;
 	}
 	.img-container .btn:hover {
-		background: url('/img/flip-hover.png') no-repeat;
+		background: url('img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 	}
@@ -262,7 +262,7 @@ def generateHTML(code):
 		font-size: 34px;
 	}
 	.close-btn {
-		background: url('/img/close.png') no-repeat;
+		background: url('img/close.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 50px;
@@ -271,7 +271,7 @@ def generateHTML(code):
 		cursor: pointer;
 	}
 	.copy-btn {
-		background: url('/img/copy.png') no-repeat;
+		background: url('img/copy.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 50px;
@@ -334,7 +334,7 @@ def generateHTML(code):
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/''' + code + '''-files/icon.png">
+				<img class="set-logo" src="sets/''' + code + '''-files/icon.png">
 				<div class="banner-text">
 					<div class="set-title">''' + set_name + '''</div>
 					<div class="extras-container">'''
