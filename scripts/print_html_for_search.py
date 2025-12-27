@@ -20,7 +20,7 @@ def generateHTML(codes):
 <style>
 	@font-face {
 		font-family: Beleren;
-		src: url('/resources/beleren.ttf');
+		src: url('resources/beleren.ttf');
 	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;

@@ -64,7 +64,7 @@ def generateHTML(setCode):
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -110,7 +110,7 @@ def generateHTML(setCode):
 			border-radius: 5.1%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -121,7 +121,7 @@ def generateHTML(setCode):
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -166,7 +166,7 @@ def generateHTML(setCode):
 			border-radius: 5.1%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -180,7 +180,7 @@ def generateHTML(setCode):
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -236,16 +236,16 @@ def generateHTML(setCode):
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/''' + setCode + '''-files/logo.png" />
+	<img class="preload-hidden" src="img/dot.png" />
+	<img class="preload-hidden" src="sets/''' + setCode + '''-files/logo.png" />
 	'''
 
 	for code in codes:
-		html_content += '''<img class="preload-hidden" src="/sets/''' + code + '''-files/icon.png" />
+		html_content += '''<img class="preload-hidden" src="sets/''' + code + '''-files/icon.png" />
 		'''
 
 	if os.path.exists(os.path.join('sets', setCode + '-files', 'bg.png')):
-		html_content +='''<img class="preload-hidden" id="bg" src="/sets/''' + setCode + '''-files/bg.png" />
+		html_content +='''<img class="preload-hidden" id="bg" src="sets/''' + setCode + '''-files/bg.png" />
 
 		'''
 
@@ -261,7 +261,7 @@ def generateHTML(setCode):
 
 	count = 0
 	html_content += f'''
-		<a class="set-bar" href="{setCode}"><img src="/sets/{setCode}-files/icon.png">{set_name}</a>
+		<a class="set-bar" href="{setCode}"><img src="sets/{setCode}-files/icon.png">{set_name}</a>
 	'''
 	for code in codes:
 		if code == setCode:
@@ -269,14 +269,14 @@ def generateHTML(setCode):
 		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
 			js = json.load(j)
 		html_content += f'''
-		<a class="set-bar inactive" href="{code}"><img src="/sets/{code}-files/icon.png">{js['name']}</a>
+		<a class="set-bar inactive" href="{code}"><img src="sets/{code}-files/icon.png">{js['name']}</a>
 	'''
 	'''
 	for code in codes:
 		prev_path = os.path.join('sets', setCode + '-files', 'prev_icon.png')
 		if count != 0:
-			html_content += '		 <div class="dot"><img src="/img/dot.png"></img></div>\n'
-		html_content += f'		<div class="icon"><a href="{code}"><img src="/sets/{code}-files/' + ('prev_' if os.path.isfile(prev_path) else '') + 'icon.png"></img></a></div>\n'
+			html_content += '		 <div class="dot"><img src="img/dot.png"></img></div>\n'
+		html_content += f'		<div class="icon"><a href="{code}"><img src="sets/{code}-files/' + ('prev_' if os.path.isfile(prev_path) else '') + 'icon.png"></img></a></div>\n'
 		count += 1
 		if count == header_length:
 			count = 0
@@ -285,7 +285,7 @@ def generateHTML(setCode):
 	html_content += '''
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/''' + setCode + '''-files/logo.png">
+		<img class="logo" src="sets/''' + setCode + '''-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
@@ -299,7 +299,7 @@ def generateHTML(setCode):
 		if 'l->' in card:
 			html_content += f'''			</div>
 			<div class="banner">
-					<img id="{card[3:]}-logo" class="logo" src="/sets/{card[3:]}-files/logo.png">
+					<img id="{card[3:]}-logo" class="logo" src="sets/{card[3:]}-files/logo.png">
 			</div>
 			<div class="grid-container">
 '''
@@ -376,7 +376,7 @@ def generateHTML(setCode):
 
 		#F: if the flag is @XD, add something to html_content to get the front and back images, otherwise add something else
 		if flag == '@XD':
-			html_content += f'				<div class="container"><img loading="lazy" data-alt_src="/{dfc_back_img_path}" alt="/{dfc_front_img_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"><button class="flip-btn" onclick="imgFlip(\'{card_name_cleaned}\')"></button></div>\n'
+			html_content += f'				<div class="container"><img loading="lazy" data-alt_src="{dfc_back_img_path}" alt="/{dfc_front_img_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"><button class="flip-btn" onclick="imgFlip(\'{card_name_cleaned}\')"></button></div>\n'
 		else:
 			html_content += f'				<div class="container"><img loading="lazy" alt="/{image_path}" id="{card_name_cleaned}" data-flag="{flag}" onclick="openSidebar(\'{card_name_cleaned}\',{rotated})"></div>\n'
 
@@ -385,7 +385,7 @@ def generateHTML(setCode):
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
