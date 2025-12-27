@@ -335,7 +335,7 @@
 	</div>
 
 	<div class="splash-container" id="splash">
-	
+
 	</div>
 
 	<div class="grid-container" id="grid">
@@ -394,7 +394,7 @@
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
 			}
-			
+
 		setCardView();
 		});
 
@@ -669,7 +669,7 @@
 			{
 				return -1;
 			}
-			
+
 			if (sortMode == 'set-code')
 			{
 				if (a.set === b.set)
@@ -794,7 +794,7 @@
 					}
 					else {
 						return (a_color_index < b_color_index) ? -1 : 1;
-					}		
+					}
 				}
 				else {
 					return (a_rarity_index < b_rarity_index) ? -1 : 1;
@@ -1057,7 +1057,7 @@
 
 			const link = document.createElement("a");
 
-			const url = new URL('card', window.location.origin);
+			const url = new URL('card', document.baseURI);
 			const params = {
 				set: card_stats.set,
 				num: card_stats.number,
@@ -1191,7 +1191,7 @@
 		});
 
 		function search() {
-			const url = new URL('search', window.location.origin);
+			const url = new URL('search', document.baseURI);
 			url.searchParams.append('search', document.getElementById("search").value);
 			window.location.href = url;
 		}
@@ -1208,7 +1208,7 @@
 			let i = Math.floor(Math.random() * (set_card_list.length + 1));
 			let random_card = set_card_list[i];
 
-			const url = new URL('card', window.location.origin);
+			const url = new URL('card', document.baseURI);
 			const params = {
 				set: random_card.set,
 				num: random_card.number,
@@ -1225,7 +1225,7 @@
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL('card', document.baseURI);
 				const params = {
 					set: random_card.set,
 					num: random_card.number,

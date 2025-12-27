@@ -255,7 +255,7 @@ def generateHTML():
 					const setlink = document.createElement("a");
 					setlink.innerText = printing.set;
 
-					const url = new URL('card', window.location.origin);
+					const url = new URL('card', document.baseURI);
 					const params = {
 						set: printing.set,
 						num: printing.number,
@@ -309,7 +309,7 @@ def generateHTML():
 		});
 
 		function search() {
-			const url = new URL('search', window.location.origin);
+			const url = new URL('search', document.baseURI);
 			url.searchParams.append('search', document.getElementById("search").value);
 			window.location.href = url;
 		}

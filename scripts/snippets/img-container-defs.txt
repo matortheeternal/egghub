@@ -126,7 +126,7 @@
 
 			const link = document.createElement("a");
 
-			const url = new URL('card', window.location.origin);
+			const url = new URL('card', document.baseURI);
 			const params = {
 				set: card_stats.set,
 				num: card_stats.number,

@@ -745,7 +745,7 @@ def generateHTML(code):
 		});
 
 		function search() {
-			const url = new URL('search', window.location.origin);
+			const url = new URL('search', document.baseURI);
 			url.searchParams.append('search', document.getElementById("search").value);
 			window.location.href = url;
 		}
@@ -762,7 +762,7 @@ def generateHTML(code):
 			let i = Math.floor(Math.random() * (set_card_list.length + 1));
 			let random_card = set_card_list[i];
 
-			const url = new URL('card', window.location.origin);
+			const url = new URL('card', document.baseURI);
 			const params = {
 				set: random_card.set,
 				num: random_card.number,
