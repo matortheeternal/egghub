@@ -8,7 +8,7 @@
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -54,7 +54,7 @@
 			border-radius: 5.1%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -65,7 +65,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -110,7 +110,7 @@
 			border-radius: 5.1%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -124,7 +124,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -180,10 +180,10 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/YGM-files/logo.png" />
-	<img class="preload-hidden" src="/sets/YGM-files/icon.png" />
-		<img class="preload-hidden" src="/sets/YGO-files/icon.png" />
+	<img class="preload-hidden" src="img/dot.png" />
+	<img class="preload-hidden" src="sets/YGM-files/logo.png" />
+	<img class="preload-hidden" src="sets/YGM-files/icon.png" />
+		<img class="preload-hidden" src="sets/YGO-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -197,13 +197,13 @@
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="YGM"><img src="/sets/YGM-files/icon.png">Yugioh: Mystical Monsters</a>
+		<a class="set-bar" href="YGM"><img src="sets/YGM-files/icon.png">Yugioh: Mystical Monsters</a>
 	
-		<a class="set-bar inactive" href="YGO"><img src="/sets/YGO-files/icon.png">Yugioh as MTG</a>
+		<a class="set-bar inactive" href="YGO"><img src="sets/YGO-files/icon.png">Yugioh as MTG</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/YGM-files/logo.png">
+		<img class="logo" src="sets/YGM-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
@@ -403,7 +403,7 @@
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\317.jpg" id="317" data-flag="@X" onclick="openSidebar('317',false)"></div>
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\254.jpg" id="254" data-flag="@X" onclick="openSidebar('254',false)"></div>
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\35.jpg" id="35" data-flag="@X" onclick="openSidebar('35',false)"></div>
-				<div class="container"><img loading="lazy" data-alt_src="/sets\YGM-files\img\131_back.jpg" alt="/sets\YGM-files\img\131_front.jpg" id="131" data-flag="@XD" onclick="openSidebar('131',false)"><button class="flip-btn" onclick="imgFlip('131')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\YGM-files\img\131_back.jpg" alt="/sets\YGM-files\img\131_front.jpg" id="131" data-flag="@XD" onclick="openSidebar('131',false)"><button class="flip-btn" onclick="imgFlip('131')"></button></div>
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\101.jpg" id="101" data-flag="@X" onclick="openSidebar('101',false)"></div>
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\34.jpg" id="34" data-flag="@X" onclick="openSidebar('34',false)"></div>
 				<div class="container"><img loading="lazy" alt="/sets\YGM-files\img\288.jpg" id="288" data-flag="@X" onclick="openSidebar('288',false)"></div>
@@ -651,7 +651,7 @@
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img" src="img/er.png">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
