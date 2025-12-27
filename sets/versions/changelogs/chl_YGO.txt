@@ -1,4 +1,118 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Mad Sword Beast
+rules_text: Trample
+Whenever this creature enters or dies, put a +1/+1 counter on target creature.
+Forestcycling {1} [i]({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+Whenever this creature enters or dies, put a +1/+1 counter on target creature.
+Forestcycling {1}
+
+Relinquished
+rules_text: This creature enters with a shield counter on it if it wasn't cast. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever this creature attacks, if it is tapped, exile target creature an opponent controls until this creature becomes untapped. This creature becomes a copy of the exiled creature until it becomes untapped. => This creature enters with a shield counter on it if it wasn't cast.
+Whenever this creature attacks, if it is tapped, exile target creature an opponent controls until this creature becomes untapped. This creature becomes a copy of the exiled creature until it becomes untapped.
+
+Lady of Faith
+rules_text: Vigilance
+When this creature enters or dies, put a lifelink counter on target creature.
+Plainscycling {1} [i]({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+When this creature enters or dies, put a lifelink counter on target creature.
+Plainscycling {1}
+
+Burst Stream of Destruction
+rules_text: As an additional cost to cast this spell, behold a Dragon or pay {2}. [i](To behold a Dragon or pay {2}., choose a Dragon or pay {2}. you control or reveal a Dragon or pay {2}. card from your hand.)[/i]
+Destroy all non-Dragon creatures. => As an additional cost to cast this spell, behold a Dragon or pay {2}.
+Destroy all non-Dragon creatures.
+
+Dark Magic Attack
+rules_text: As an additional cost to cast this spell, behold a Wizard or pay {2}. [i](To behold a Wizard or pay {2}., choose a Wizard or pay {2}. you control or reveal a Wizard or pay {2}. card from your hand.)[/i]
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library. => As an additional cost to cast this spell, behold a Wizard or pay {2}.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+
+Thousand Knives
+rules_text: As an additional cost to cast this spell, behold a Wizard or pay {2}. [i](To behold a Wizard or pay {2}., choose a Wizard or pay {2}. you control or reveal a Wizard or pay {2}. card from your hand.)[/i]
+Target creature gets -5/-5 until end of turn. Its controller loses 2 life. => As an additional cost to cast this spell, behold a Wizard or pay {2}.
+Target creature gets -5/-5 until end of turn. Its controller loses 2 life.
+
+Destined Rivals
+rules_text: Flash
+Creatures lose all abilities.
+At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon. [i](To behold a Wizard or a Dragon., choose a Wizard or a Dragon. you control or reveal a Wizard or a Dragon. card from your hand.)[/i] => Flash
+Creatures lose all abilities.
+At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon.
+
+Inferno Fire Blast
+rules_text: As an additional cost to cast this spell, you may behold a dragon. [i](To behold a dragon., choose a dragon. you control or reveal a dragon. card from your hand.)[/i]
+Inferno Fire Blast deals 4 damage to any target. If you beheld a Dragon, Inferno Fire Blast deals damage equal to the power of that Dragon to any target instead. => As an additional cost to cast this spell, you may behold a dragon.
+Inferno Fire Blast deals 4 damage to any target. If you beheld a Dragon, Inferno Fire Blast deals damage equal to the power of that Dragon to any target instead.
+
+Pinch Hopper
+rules_text: Reach
+When this creature dies, put an Insect card from your hand onto the battlefield.
+Insectcycling {1}{BG} [i]({1}{BG}, Discard this card: Search your library for an Insect card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature dies, put an Insect card from your hand onto the battlefield.
+Insectcycling {1}{BG}
+
+La Jinn the Mystical Genie of the Lamp
+rules_text: Flying
+When this creature enters or dies, return target creature an opponent controls to its owner's hand.
+Islandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters or dies, return target creature an opponent controls to its owner's hand.
+Islandcycling {1}
+
+King Tiger Wanghu
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, you may have Wanghu fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{R}{G}: Return target land card in your graveyard to your hand. => [i]Landfall[/i] — Whenever a land enters under your control, you may have Wanghu fight target creature you don't control.
+{R}{G}: Return target land card in your graveyard to your hand.
+
+Blackland Fire Dragon
+rules_text: Flying
+You may exile this card from your graveyard as fusion material to cast a spell with Fusion.
+Dragoncycling {1}{BR} [i]({1}{BR}, Discard this card: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+You may exile this card from your graveyard as fusion material to cast a spell with Fusion.
+Dragoncycling {1}{BR}
+
+Dragon Zombie
+rules_text: Flying
+When this creature enters or dies, mill three cards. You gain 1 life for each creature card milled this way.
+Swampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters or dies, mill three cards. You gain 1 life for each creature card milled this way.
+Swampcycling {1}
+
+Magicians' Souls
+rules_text: As an additional cost to cast this spell, you may discard up to two instant and/or sorcery cards. This spell costs {2} less to cast for each discarded this way.
+When this creature enters, you draw two cards and lose 2 life.
+Wizardcycling {1}{UB} [i]({1}{UB}, Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle.)[/i] => As an additional cost to cast this spell, you may discard up to two instant and/or sorcery cards. This spell costs {2} less to cast for each discarded this way.
+When this creature enters, you draw two cards and lose 2 life.
+Wizardcycling {1}{UB}
+
+Rage of Kairyu-Shin
+rules_text: As an additional cost to cast this spell, behold a Dragon or pay {2}. [i](To behold a Dragon or pay {2}., choose a Dragon or pay {2}. you control or reveal a Dragon or pay {2}. card from your hand.)[/i]
+Tap target creature or artifact. Put a number of stun counters on that permanent equal to the number of Island cards in your graveyard plus the number of Islands you control. => As an additional cost to cast this spell, behold a Dragon or pay {2}.
+Tap target creature or artifact. Put a number of stun counters on that permanent equal to the number of Island cards in your graveyard plus the number of Islands you control.
+
+Tiger Axe
+rules_text: Haste
+Whenever this creature enters or dies, create a Treasure token.
+Mountaincycling {1} [i]({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Haste
+Whenever this creature enters or dies, create a Treasure token.
+Mountaincycling {1}
+
+The Ultimate Creature of Destruction
+rules_text: As an additional cost to cast this spell, behold a dragon or pay {2}. [i](To behold a dragon or pay {2}., choose a dragon or pay {2}. you control or reveal a dragon or pay {2}. card from your hand.)[/i]
+Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. [i](While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)[/i] => As an additional cost to cast this spell, behold a dragon or pay {2}.
+Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. [i](While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)[/i]
+
+Advance Draw
+rules_text: As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay {2}. [i](To behold a blue creature with mana value 8 or greater or pay {2}., choose a blue creature with mana value 8 or greater or pay {2}. you control or reveal a blue creature with mana value 8 or greater or pay {2}. card from your hand.)[/i]
+Draw four cards. => As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay {2}.
+Draw four cards.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Gozuki added.

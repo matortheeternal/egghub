@@ -328,7 +328,7 @@
 			{
 				return -1;
 			}
-
+			
 			if (sortMode == 'set-code')
 			{
 				if (a.set === b.set)
@@ -453,7 +453,7 @@
 					}
 					else {
 						return (a_color_index < b_color_index) ? -1 : 1;
-					}
+					}		
 				}
 				else {
 					return (a_rarity_index < b_rarity_index) ? -1 : 1;
@@ -721,7 +721,7 @@
 		function convertToMV(cost)
 		{
 			let mv = 0;
-
+			
 			costTokens = cost.substring(1, cost.length - 1).replaceAll("}{"," ").split(' ');
 			for (const token of costTokens)
 			{
@@ -929,7 +929,7 @@
 							}
 							else
 							{
-								return card_color.length > 1;
+								return card_color.length > 1;							
 							}
 						}
 						else if (modifier == "!" || modifier == "=")
@@ -1763,6 +1763,7 @@
 
 				window.location.href = url;
 			}
+
 	</script>
 </body>
 </html>
