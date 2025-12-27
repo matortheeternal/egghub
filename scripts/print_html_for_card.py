@@ -189,7 +189,7 @@ def generateHTML():
 		html_content += snippet
 
 	html_content += '''
-			await fetch('/lists/all-sets.json')
+			await fetch('lists/all-sets.json')
 					.then(response => response.json())
 					.then(json => {
 						set_list = json;
@@ -211,7 +211,7 @@ def generateHTML():
 			}
 
 			var link = document.querySelector("link[rel~='icon']");
-			link.href = '/sets/' + set + '-files/icon.png';
+			link.href = 'sets/' + set + '-files/icon.png';
 
 			document.title = name;
 
@@ -219,8 +219,8 @@ def generateHTML():
 			const banner_logo = document.getElementById("set-banner-logo");
 			const banner_title = document.getElementById("set-banner-title");
 
-			banner.href = '/sets/' + set;
-			banner_logo.src = '/sets/' + set + '-files/icon.png';
+			banner.href = 'sets/' + set;
+			banner_logo.src = 'sets/' + set + '-files/icon.png';
 
 			for (const set_stats of set_list.sets)
 			{

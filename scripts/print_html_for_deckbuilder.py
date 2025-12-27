@@ -536,7 +536,7 @@ def generateHTML(codes):
 
 	html_content += '''
 
-			await fetch('/lists/all-sets.json')
+			await fetch('lists/all-sets.json')
 					.then(response => response.json())
 					.then(data => {
 						sets_json = data;
@@ -998,13 +998,13 @@ def generateHTML(codes):
 
 							if (key == "sideboard")
 							{
-								del_btn.src = "/img/sb-delete.png";
+								del_btn.src = "img/sb-delete.png";
 								del_btn.onclick = function() {
 									sideboard.splice(sideboard.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/sb-add.png";
+								add_btn.src = "img/sb-add.png";
 								add_btn.onclick = function() {
 									sideboard.push(card);
 									processDeck();
@@ -1017,13 +1017,13 @@ def generateHTML(codes):
 							}
 							else
 							{
-								del_btn.src = "/img/delete.png";
+								del_btn.src = "img/delete.png";
 								del_btn.onclick = function() {
 									deck.splice(deck.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/add.png";
+								add_btn.src = "img/add.png";
 								add_btn.onclick = function() {
 									deck.push(card);
 									processDeck();
@@ -1059,7 +1059,7 @@ def generateHTML(codes):
 							}
 
 							card_img = document.createElement("img");
-							card_img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + "_" + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+							card_img.src = "sets/" + card_stats.set + "-files/img/" + card_stats.number + "_" + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
 							card_img.style.cursor = "pointer";
 							card_img.onmouseover = function() {
 								cgc = document.getElementById("card-grid-container");
@@ -1089,13 +1089,13 @@ def generateHTML(codes):
 
 							if (key == "sideboard")
 							{
-								del_btn.src = "/img/sb-delete.png";
+								del_btn.src = "img/sb-delete.png";
 								del_btn.onclick = function() {
 									sideboard.splice(sideboard.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/sb-add.png";
+								add_btn.src = "img/sb-add.png";
 								add_btn.onclick = function() {
 									sideboard.push(card);
 									processDeck();
@@ -1108,13 +1108,13 @@ def generateHTML(codes):
 							}
 							else
 							{
-								del_btn.src = "/img/delete.png";
+								del_btn.src = "img/delete.png";
 								del_btn.onclick = function() {
 									deck.splice(deck.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/add.png";
+								add_btn.src = "img/add.png";
 								add_btn.onclick = function() {
 									deck.push(card);
 									processDeck();
@@ -1217,7 +1217,7 @@ def generateHTML(codes):
 		}
 
 		function goToSearch() {
-			window.location = ("/search");
+			window.location = new URL("search", document.baseURI);
 		}
 
 		document.getElementById("search").addEventListener("keypress", function(event) {

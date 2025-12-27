@@ -327,11 +327,11 @@ def generateHTML():
 
 				if ("position" in card_stats)
 				{
-					img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.position + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+					img.src = 'sets/' + card_stats.set + '-files/img/' + card_stats.position + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
 				}
 				else
 				{
-					img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+					img.src = 'sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
 				}
 
 				a.append(img);
@@ -421,11 +421,11 @@ def generateHTML():
 			}
 
 			function goToSets() {
-				window.location = ("/all-sets");
+				window.location = new URL("all-sets", document.baseURI);
 			}
 
 			function goToDeckbuilder() {
-				window.location = ("/deckbuilder");
+				window.location = new URL("deckbuilder", document.baseURI);
 			}
 
 			function search() {

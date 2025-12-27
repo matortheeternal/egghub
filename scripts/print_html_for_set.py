@@ -373,16 +373,16 @@ def generateHTML(code):
 		for img_name in re.findall(img_re, md_html):
 			img_name_re = r'%' + img_name + '%'
 			if img_name == 'logo' or img_name == 'icon' or img_name == 'bg':
-				img_path = '/'.join([ '/sets', code + '-files', img_name + '.png' ])
+				img_path = '/'.join([ 'sets', code + '-files', img_name + '.png' ])
 			else:
 				with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 					set_json = json.load(f)
 				for card in set_json['cards']:
 					if card['card_name'] == img_name:
 						if 'image_name' in set_json and set_json['image_name'] == 'position':
-							img_path = '/'.join([ '/sets', code + '-files', 'img', card['position'] + '.png' ])
+							img_path = '/'.join([ 'sets', code + '-files', 'img', card['position'] + '.png' ])
 						else:
-							img_path = '/'.join([ '/sets', code + '-files', 'img', str(card['number']) + ('t' if 'token' in card['shape'] else '') + '_' + img_name + '.png' ])
+							img_path = '/'.join([ 'sets', code + '-files', 'img', str(card['number']) + ('t' if 'token' in card['shape'] else '') + '_' + img_name + '.png' ])
 						break
 					img_path = 'missing'
 			md_html = re.sub(img_name_re, img_path, md_html)
@@ -425,7 +425,7 @@ def generateHTML(code):
 
 	html_content += '''
 
-			await fetch('/sets/''' + code + '''-files/''' + code + '''-draft.txt')
+			await fetch('sets/''' + code + '''-files/''' + code + '''-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\\n\\t]/g, '}\\n\\t]');

@@ -237,7 +237,7 @@ def generateHTML(codes):
 
 	html_content += '''
 
-			await fetch('/lists/all-sets.json')
+			await fetch('lists/all-sets.json')
 					.then(response => response.json())
 					.then(data => {
 						sets_json = data;
