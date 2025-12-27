@@ -261,7 +261,7 @@ def generateHTML(setCode):
 
 	count = 0
 	html_content += f'''
-		<a class="set-bar" href="{setCode}"><img src="sets/{setCode}-files/icon.png">{set_name}</a>
+		<a class="set-bar" href="previews/{setCode}"><img src="sets/{setCode}-files/icon.png">{set_name}</a>
 	'''
 	for code in codes:
 		if code == setCode:
@@ -269,7 +269,7 @@ def generateHTML(setCode):
 		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
 			js = json.load(j)
 		html_content += f'''
-		<a class="set-bar inactive" href="{code}"><img src="sets/{code}-files/icon.png">{js['name']}</a>
+		<a class="set-bar inactive" href="previews/{code}"><img src="sets/{code}-files/icon.png">{js['name']}</a>
 	'''
 	'''
 	for code in codes:
