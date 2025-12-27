@@ -3,6 +3,8 @@ import sys
 import json
 import re
 
+GITHUB_BASE = 'matortheeternal.github.io/'
+
 #F = Fungustober's notes
 def filtered(card, filters):
 	for f in filters:
@@ -23,7 +25,8 @@ def generateFile(code):
 	filters = []
 	booster = {}
 
-	github_path = os.path.split(os.getcwd())[1] # this gets the current working directory, so it's an easy failcase
+	subpath = os.path.split(os.getcwd())[1]
+	github_path =  GITHUB_BASE + subpath
 
 	for slot in structure:
 		booster[slot['name']] = []
@@ -85,7 +88,7 @@ def generateFile(code):
 	draft_string += ''']
 
 '''
-	
+
 	p1p1 = []
 	for slot in structure:
 		slot_list = []
