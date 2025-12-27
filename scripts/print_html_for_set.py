@@ -23,10 +23,10 @@ def generateHTML(code):
 <head>
   <title>''' + set_name + '''</title>
   <base href="/egghub/">
-  <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
-  <link rel="stylesheet" href="/resources/mana.css">
-  <link rel="stylesheet" href="/resources/header.css">
-  <link rel="stylesheet" href="/resources/card-text.css">
+  <link rel="icon" type="image/x-icon" href="sets/''' + code + '''-files/icon.png">
+  <link rel="stylesheet" href="resources/mana.css">
+  <link rel="stylesheet" href="resources/header.css">
+  <link rel="stylesheet" href="resources/card-text.css">
 </head>
 <style>
 	@font-face {
@@ -341,7 +341,7 @@ def generateHTML(code):
 
 	#F: sets/SET-files/SET-draft.txt
 	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')) and not previewing:
-		html_content += '''<a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a><div class="dot"> • </div>
+		html_content += '''<a href="sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a><div class="dot"> • </div>
 			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
 '''
 	html_content += '''			<a onclick="randomSetCard()">I'm Feeling Lucky</a>

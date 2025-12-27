@@ -12,10 +12,10 @@ def generateHTML():
 <head>
 	<title>Card</title>
 	<base href="/egghub/">
-	<link rel="icon" type="image/x-icon" href="/img/favicon.png">
-	<link rel="stylesheet" href="/resources/mana.css">
-	<link rel="stylesheet" href="/resources/header.css">
-	<link rel="stylesheet" href="/resources/card-text.css">
+	<link rel="icon" type="image/x-icon" href="img/favicon.png">
+	<link rel="stylesheet" href="resources/mana.css">
+	<link rel="stylesheet" href="resources/header.css">
+	<link rel="stylesheet" href="resources/card-text.css">
 </head>
 <style>
 	@font-face {

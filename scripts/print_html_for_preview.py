@@ -58,8 +58,8 @@ def generateHTML(setCode):
 <html lang="en">
 <head>
 	<base href="/egghub/">
-	<link rel="icon" type="image/png" href="/sets/''' + setCode + '''-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="sets/''' + setCode + '''-files/icon.png"/>
+	<link rel="stylesheet" href="resources/header.css">
 	<title>''' + setCode + ''' visual preview</title>
 	<style>
 		@font-face {
