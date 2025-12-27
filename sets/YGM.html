@@ -378,7 +378,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/YGM-files/YGM-draft.txt')
+			await fetch('sets/YGM-files/YGM-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
