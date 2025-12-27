@@ -10,9 +10,9 @@ def generateHTML():
 	<head>
 	  <title>All Sets</title>
 	  <base href="/egghub/">
-	  <link rel="icon" type="image/x-icon" href="/img/sets.png">
-	  <link rel="stylesheet" href="/resources/mana.css">
-	  <link rel="stylesheet" href="/resources/header.css">
+	  <link rel="icon" type="image/x-icon" href="img/sets.png">
+	  <link rel="stylesheet" href="resources/mana.css">
+	  <link rel="stylesheet" href="resources/header.css">
 	</head>
 	<style>
 		@font-face {
@@ -131,7 +131,7 @@ def generateHTML():
 						set_count += 1
 
 			html_content += '''
-			<a href="/sets/''' + code + '''" class="set-row">
+			<a href="sets/''' + code + '''" class="set-row">
 				<img src="/sets/''' + code + '''-files/icon.png">
 				<div class="set-title">''' + set_name + '''</div>
 				<div>''' + code + '''</div>

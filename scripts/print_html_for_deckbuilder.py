@@ -9,10 +9,10 @@ def generateHTML(codes):
 <head>
 	<title>Deckbuilder</title>
 	<base href="/egghub/">
-	<link rel="icon" type="image/x-icon" href="/img/deck.png">
+	<link rel="icon" type="image/x-icon" href="img/deck.png">
 	<link rel="stylesheet" href="resources/mana.css">
-	<link rel="stylesheet" href="/resources/header.css">
-	<link rel="stylesheet" href="/resources/card-text.css">
+	<link rel="stylesheet" href="resources/header.css">
+	<link rel="stylesheet" href="resources/card-text.css">
 </head>
 <style>
 	@font-face {
@@ -398,10 +398,10 @@ def generateHTML(codes):
 <body>
 	<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<a href=""><img class="sg-logo" src="/img/banner.png"></a>
 			<img class="sg-icon" src="/img/search.png" onclick="goToSearch()">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a href="all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>

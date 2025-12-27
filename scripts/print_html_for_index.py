@@ -10,7 +10,7 @@ def generateHTML():
 	<head>
 		<title>MSE Set Hub</title>
 		<base href="/egghub/">
-		<link rel="icon" type="image/x-icon" href="/img/favicon.png">
+		<link rel="icon" type="image/x-icon" href="img/favicon.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<style>
