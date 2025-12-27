@@ -9,6 +9,7 @@ def generateHTML():
 	html_content = '''<html>
 	<head>
 		<title>MSE Set Hub</title>
+		<base href="/egghub/">
 		<link rel="icon" type="image/x-icon" href="/img/favicon.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
@@ -191,7 +192,7 @@ def generateHTML():
 	}
 	@media ( max-width: 750px ) {
 		.item-container {
-			width: 95%;	
+			width: 95%;
 		}
 		.search-grid {
 			width: 95%;
@@ -247,7 +248,7 @@ def generateHTML():
 				'''
 		html_content += '''					</div>
 		'''
-	
+
 	html_content += '''
 				</div>
 				<div class="card-container" id="cotd-image">
@@ -279,7 +280,7 @@ def generateHTML():
 	with open(os.path.join('scripts', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
-	
+
 	html_content += '''
 				card_list_cleaned = [];
 
@@ -365,8 +366,8 @@ def generateHTML():
 			// if this doesn't work, blame Gemini
 			function reallyRand(x) {
 				const date = new Date();
-				const seed = date.getFullYear() * 10000 + 
-							 date.getMonth() * 100 + 
+				const seed = date.getFullYear() * 10000 +
+							 date.getMonth() * 100 +
 							 date.getDate();
 
 				const a = 1103515245;
@@ -396,7 +397,7 @@ def generateHTML():
 				{
 					localStorage.setItem("gradient", document.getElementById("color-select").value);
 				}
-				
+
 				gradient = localStorage.getItem("gradient");
 
 				gradTop = "#000000";
@@ -409,7 +410,7 @@ def generateHTML():
 						gradBottom = grad.color2;
 					}
 				}
-				
+
 				if (initial_gradient)
 				{
 					document.getElementById("color-select").value = gradient;

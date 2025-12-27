@@ -11,6 +11,7 @@ def generateHTML(codes):
 	html_content = '''<html>
 <head>
 	<title>Search</title>
+	<base href="/egghub/">
 	<link rel="icon" type="image/x-icon" href="/img/search.png">
 	<link rel="stylesheet" href="resources/mana.css">
 	<link rel="stylesheet" href="/resources/header.css">

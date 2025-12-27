@@ -57,6 +57,7 @@ def generateHTML(setCode):
 	html_content = '''<!DOCTYPE html>
 <html lang="en">
 <head>
+	<base href="/egghub/">
 	<link rel="icon" type="image/png" href="/sets/''' + setCode + '''-files/icon.png"/>
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>''' + setCode + ''' visual preview</title>

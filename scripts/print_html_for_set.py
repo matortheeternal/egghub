@@ -22,6 +22,7 @@ def generateHTML(code):
 	html_content = '''<html>
 <head>
   <title>''' + set_name + '''</title>
+  <base href="/egghub/">
   <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
