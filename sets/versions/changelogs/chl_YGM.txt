@@ -1,4 +1,353 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Deal of Phantom added.
+Temple of the Sun added.
+Murmur of the Forest added.
+The Fountain in the Sky added.
+Ebon Sun added.
+Lost Paradise added.
+Sunset Beat added.
+Worm Call added.
+Temple of the Six added.
+The Hidden City added.
+Chaos Zone added.
+Dreamsprite added.
+Mother Grizzly added.
+Illusionist Faceless Mage added.
+Sword added.
+Armory Call added.
+
+Different Dimension Gate removed.
+
+Gigaplant
+rules_text: Emerge from Plant or Insect {5}{BG}
+Persist, reach
+While Gigaplant has a counter on it, during each of your turns, you may cast an insect and a plant creature from your graveyard.
+When a creature you control dies, target opponent loses 1 life and you gain 1 life. => Emerge from Plant or Insect {5}{BG}
+Persist, reach
+While Gigaplant has a counter on it, during each of your turns, you may cast an insect and a plant creature card from your graveyard without paying their mana costs.
+When a creature you control dies, target opponent loses 1 life and you gain 1 life.
+
+Dreamsprite
+rules_text: {G}{G}: Copy target spell or ability that targets a creature you control. The copy targets Dreamsprite.
+{U}{U}: Change the target of target spell or ability that targets a creature you control to Dreamsprite.
+Divide {GU} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Flying
+Whenever one or more +1/+1 counters are put on Dreamsprite, you may create a 1/1 green Plant creature token.
+Divide {1}{GU} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Cosmo Queen
+rules_text: You may cast Cosmo Queen from your graveyard. If you do, it enters with a finality counter on it.
+Flying, ward {2}
+Whenever Cosmo Queen enters or a creature is put into a graveyard from anywhere, surveil 1, then draw a card. => You may cast Cosmo Queen from your graveyard. If you do, it enters with a finality counter on it.
+Flying, ward {2}
+Whenever a creature is put into a graveyard from anywhere, surveil 1, then draw a card.
+
+Mirage Knight
+rules_text: Emerge from white creature {5}{W}{W}
+Flash
+Flying, first strike
+Whenever Mirage Knight attacks, exile it at the beginning of your next end phase, then draw a card.
+You may cast Mirage Knight from exile. => Emerge from white creature {5}{W}{W}
+Flash
+Flying, first strike
+When Mirage Knight enters, draw 2 cards.
+At the beginning of each end step, if Mirage Knight attacked or blocked this turn, exile it.
+You may cast Mirage Knight from exile.
+
+Revival Jam
+rules_text: When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+When Revival Jam dies you may pay 2 life. If you do, return it to the battlefield tapped at the beginning of the next end step. => When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+When Revival Jam dies you may pay 2 life. If you do, return it to the battlefield at the beginning of the next end step.
+
+Torrential Tribute
+rules_text: If two or more creatures have entered the battlefield under an opponent's control this turn, you may pay {1}{W}{U} rather than pay this spell's mana cost.
+Return all creatures to their owner's hands. => If two or more creatures have entered the battlefield under an opponent's control this turn, you may pay {1}{W}{U} rather than pay this spell's mana cost.
+Return all nonland permanents to their owner's hands.
+
+Sasuke Samurai
+
+Fire Princess
+
+Demise of the Land
+cost: {3} => {4}
+rules_text: If a creature with mana value 4 or greater entered the battlefield under an opponent's control this turn, you may pay {1} rather than pay this spell's mana cost.
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => If an opponent played a nonbasic land this turn, you may pay {2} rather than pay this spell's mana cost.
+Destroy target land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+
+Deepsea Shark
+
+The World Tree
+
+Goblin's Secret Remedy
+
+Tower of Babel
+
+Ceal, Shooting Star Bow
+
+Giltia the D. Knight
+
+Humanoid Worm Drake
+
+Giant Red Seasnake
+
+Graydle Split
+
+Ancient Lizard Warrior
+
+Multiply
+
+Tricky Spell 4
+
+Lightning Vortex
+
+Final Destiny
+
+Needle Ceiling
+
+Wild Nature's Release
+
+Forced Back
+
+Rain Storm
+
+Time-Space Trap Hole
+
+Royal Surrender
+
+Mind Crush
+
+Dark Cure
+
+Lord Poison
+
+Human-Wave Tactics
+
+Sand Stone
+
+Castle Gate
+
+Blaze Accelerator
+
+Banner of Courage
+
+Gyaku-Gire Panda
+
+Twinheaded Beast
+
+Guarded Treasure
+
+Kaiser Glider
+
+Gather Your Mind
+
+A Feather of the Phoenix
+
+The Grave of Enkindling
+
+Raregold Armor
+rules_text: Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +0/+6.
+Equip {3} => Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +0/+6 and has Lifelink.
+Equip {3}
+
+The Tricky
+
+Magic Planter
+
+Dragon's Gunfire
+
+Patrol Robo
+
+Kaiser Colosseum
+
+Time Machine
+
+Token Thanksgiving
+
+Copy
+
+Angel
+
+Warrior
+
+Leogun
+
+Watapon
+
+Change Slime
+
+Dupe Frog
+
+Space Mambo
+
+Evil Thorn
+
+Invader from Another Dimension
+
+Big Koala
+
+Fairy King Truesdale
+
+Nimble Momonga
+
+Plant
+
+Wolf
+
+Mokey Mokey
+
+Ameba
+rules_text: Ameba can't be blocked.
+If a player were to gain control of Ameba, Ameba deals 5 damage to that player instead.
+[i](This token's mana cost is {U}{R}.)[/i] => Ameba can't be blocked.
+At the beginning of your upkeep, if you are not Ameba's owner, Ameba deals 4 damage to you.
+[i](This token's mana cost is {U}{R}.)[/i]
+
+Bubonic Vermin
+
+Giant Germ
+
+Burning Algae
+
+Invasion of Flames
+
+Souls of the Forgotten
+
+Spirit of the Breeze
+
+Abyss Flower
+
+The All-Seeing White Tiger
+
+Anti-Aircraft Flower
+
+The Drdek
+
+Flame Viper
+
+Necro Fleur
+
+Slime Toad
+
+Volcanic Rat
+
+Compass
+
+Slime
+
+Robot
+
+Bat Construct
+
+Steel Scorpion
+
+Phyrexian Germ
+
+Giga-Tech Wolf
+
+Robotic Knight
+
+Ancient Jar
+
+Legendary Sword
+
+Maha Vailo
+
+Sonic Bird
+
+Spear Cretin
+
+Mother Grizzly
+type: Creature — Bear => Token Creature — Bear
+rules_text: Divide {1}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => [i](This token's mana cost is {1}{G})[/i]
+
+Firewing Pegasus
+
+Eternal Rest
+
+Cold Wave
+
+Fairy Meteor Crush
+
+Wingbeat of a Giant Dragon
+
+After the Struggle
+
+Cyber Soldier
+rules_text: Trample
+Tap two artifacts you control: Cyber Soldier gets +4/+4 until end of turn. => Trample
+Tap two artifacts you control: Cyber Soldier gets +4/+4 until end of turn. Activate this ability only once each turn.
+
+Performance of Sword
+
+Commencement Dance
+
+Arcane Barrier
+
+Mask of Weakness
+
+Pharaoh's Treasure
+
+Horror
+
+Mystik Wok
+
+Bait Doll
+
+Hercules Beetle
+
+Token Collector
+
+Monster Reincarnation
+
+Divine Wrath
+
+Dark Core
+
+Hallowed Life Barrier
+
+Cost Down
+
+Return of the Doomed
+
+Beckoning Light
+
+Raigeki Break
+
+Serial Spell
+
+Dark Deal
+cost: {U}{B} => {2}{U}{B}
+rules_text: As an additional cost to cast this spell, pay {2} or pay 4 life.
+Counter target noncreature spell. If a spell is countered this way, each player discards a card. => You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.
+Counter target creature spell. Its controller discards a card.
+
+Double Spell
+
+Nobleman of Extermination
+
+Dust Tornado
+
+Sinister Seeds
+
+Smashing Ground
+
+Plant
+
+Illusion
+
+Weapon Change
+
+Rising Energy
+
+Seed Cannon
+
+Empress Mantis
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Rope of Life added.
