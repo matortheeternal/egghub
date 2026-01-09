@@ -1,4 +1,90 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Launcher Spider
+rules_text: Emerge {6}
+Flash
+Reach
+When Launcher Spider enters you may have it deal damage equal to its power to target creature an opponent controls with flying. => Defense position {5} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Flash
+Reach
+When Launcher Spider enters you may have it deal damage equal to its power to target creature an opponent controls with flying.
+
+Twin-Headed Fire Dragon
+cost: {U}{U}{R}{R} => {UR}{UR}{UR}{UR}
+
+St. Joan
+rules_text: Fusion {3}{WB}{WB} — A Cleric and an Angel [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Lifelink
+Exhaust — Pay X life: Return target creature card with mana value X from your graveyard to the battlefield. => Fusion {3}{W}{B} — A Cleric and an Angel [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Lifelink
+Exhaust — Pay X life: Return target creature card with mana value X from your graveyard to the battlefield.
+
+Charubin the Fire Knight
+rules_text: Fusion {RW}{BR} — An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Charubin the Fire Knight enters, destroy target creature an opponent controls. => Fusion {WB}{R} — An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Charubin the Fire Knight enters, destroy target creature an opponent controls.
+
+Rock Bombardment
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Rock Bombardment deals damage equal to the sacrificed creature's toughness to any target. => As an additional cost to cast this spell, sacrifice a creature.
+Rock Bombardment deals damage equal to the sacrificed creature's toughness to any target.
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Sasuke Samurai
+rules_text: Flash
+Double strike
+Whenever Sasuke Samurai blocks or becomes blocked by a face-down creature, destroy that creature. => Haste, double strike
+Whenever Sasuke Samurai blocks or becomes blocked by a face-down creature, destroy that creature.
+
+Deepsea Shark
+rules_text: Fusion {2}{GU} — Two Fish [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Graft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When one or more counters are moved off of Deepsea Shark, draw a card. => Fusion {1}{G}{U} — Two Fish [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Graft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When one or more counters are moved off of Deepsea Shark, draw a card.
+
+Final Destiny
+cost: {1}{B}{R} => {BR}{BR}{BR}
+
+Wild Nature's Release
+cost: {2}{R}{G} => {1}{R}{G}
+
+Twinheaded Beast
+rules_text: Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Twinheaded Beast attacks, you may pay {3}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+Madness {R}{R}{G}{G} => Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Twinheaded Beast attacks, you may pay {3}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+Madness {RG}{RG}{RG}{RG}
+
+A Feather of the Phoenix
+rules_text: As an additional cost to cast this spell, discard a card.
+Return two creature cards at random from your graveyard to your hand. => As an additional cost to cast this spell, discard a card.
+Return two creature cards at random from your graveyard to your hand.
+Madness {RG} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+The Grave of Enkindling
+rules_text: If a creature you control died this turn after being dealt damage by a creature controlled by an opponent, you may pay {B}{R} rather than pay this spell's mana cost.
+Return target creature from your graveyard to the battlefield. Target opponent may pay 2 life. If they do, they may copy this spell and choose a new target for the copy. => If a creature you control died this turn after being dealt damage by a source controlled by an opponent, you may pay {BR}{BR} rather than pay this spell's mana cost.
+Return target creature from your graveyard to the battlefield. Target opponent may pay 2 life. If they do, they may copy this spell and choose a new target for the copy.
+
+Double Spell
+rules_text: You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost. If that spell would be put into their graveyard, exile it instead.
+Flashback {U}{U}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost. If that spell would be put into their graveyard, exile it instead.
+Flashback {2}{UR}{UR} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Typhone #2
+rules_text: Flying, lifelink, first strike
+Whenever you cast a noncreature spell, Typhone #2 deals damage equal to its power to any target. => Flying, lifelink, first strike
+Whenever you cast a noncreature spell, Typhone #2 deals damage equal to its power to any target.
+Madness {RW}{RW}{RW}{RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Doma The Angel of Silence added.
