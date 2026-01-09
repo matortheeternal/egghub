@@ -1281,30 +1281,13 @@
 			}
 		},
 		{
-			"name": "Dark Necrofear",
-			"rarity": "rare",
-			"mana_cost": "{6}{U}{B}",
-			"type": "Creature — Horror",
-			"collector_number": "201",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/128_back.jpg"
-				}
-			},
-			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/128_front.jpg"
-			}
-		},
-		{
 			"name": "The Masked Beast",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{G}{U}",
 			"type": "Legendary Creature — Demon Beast",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/129.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/128.jpg"
 			}
 		},
 		{
@@ -1314,7 +1297,7 @@
 			"type": "Sorcery — Ritual",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/130.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/129.jpg"
 			}
 		},
 		{
@@ -1324,7 +1307,7 @@
 			"type": "Creature — Illusion",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/131.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/130.jpg"
 			}
 		},
 		{
@@ -1334,7 +1317,7 @@
 			"type": "Legendary Creature — Alien Warlock",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/132.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/131.jpg"
 			}
 		},
 		{
@@ -1344,7 +1327,7 @@
 			"type": "Creature — Elf Warlock",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/133.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/132.jpg"
 			}
 		},
 		{
@@ -1354,7 +1337,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/134.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/133.jpg"
 			}
 		},
 		{
@@ -1364,7 +1347,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/135.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/134.jpg"
 			}
 		},
 		{
@@ -1374,7 +1357,7 @@
 			"type": "Creature — Alien Horror",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/136.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/135.jpg"
 			}
 		},
 		{
@@ -1384,7 +1367,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/137.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/136.jpg"
 			}
 		},
 		{
@@ -1394,7 +1377,7 @@
 			"type": "Creature — Alien Plant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/138.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/137.jpg"
 			}
 		},
 		{
@@ -1404,7 +1387,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/139.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/138.jpg"
 			}
 		},
 		{
@@ -1414,7 +1397,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/140.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/139.jpg"
 			}
 		},
 		{
@@ -1424,7 +1407,7 @@
 			"type": "Creature — Beast Warrior",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/141.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/140.jpg"
 			}
 		},
 		{
@@ -1434,7 +1417,7 @@
 			"type": "Creature — Dragon Egg",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/142.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/141.jpg"
 			}
 		},
 		{
@@ -1444,7 +1427,7 @@
 			"type": "Creature — Fish Beast",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/143.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/142.jpg"
 			}
 		},
 		{
@@ -1454,7 +1437,7 @@
 			"type": "Artifact Creature — Fish Construct",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/144.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/143.jpg"
 			}
 		},
 		{
@@ -1464,7 +1447,7 @@
 			"type": "Creature — Alien Insect",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/145.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/144.jpg"
 			}
 		},
 		{
@@ -1474,7 +1457,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/146.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/145.jpg"
 			}
 		},
 		{
@@ -1484,7 +1467,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/147.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/146.jpg"
 			}
 		},
 		{
@@ -1494,7 +1477,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/148.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/147.jpg"
 			}
 		},
 		{
@@ -1504,7 +1487,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/149.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/148.jpg"
 			}
 		},
 		{
@@ -1514,7 +1497,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/150.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/149.jpg"
 			}
 		},
 		{
@@ -1524,7 +1507,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/151.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/150.jpg"
 			}
 		},
 		{
@@ -1534,7 +1517,7 @@
 			"type": "Legendary Creature — Demon Noble",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/152.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/151.jpg"
 			}
 		},
 		{
@@ -1544,7 +1527,7 @@
 			"type": "Creature — Demon Warlock",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/153.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/152.jpg"
 			}
 		},
 		{
@@ -1554,7 +1537,7 @@
 			"type": "Legendary Creature — Faerie Warrior",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/154.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/153.jpg"
 			}
 		},
 		{
@@ -1564,7 +1547,7 @@
 			"type": "Legendary Creature — Bird Warrior",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/155.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/154.jpg"
 			}
 		},
 		{
@@ -1574,7 +1557,7 @@
 			"type": "Creature — Goblin Warlock",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/156.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/155.jpg"
 			}
 		},
 		{
@@ -1584,7 +1567,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/157.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/156.jpg"
 			}
 		},
 		{
@@ -1594,7 +1577,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/158.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/157.jpg"
 			}
 		},
 		{
@@ -1604,7 +1587,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/159.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/158.jpg"
 			}
 		},
 		{
@@ -1614,7 +1597,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/160.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/159.jpg"
 			}
 		},
 		{
@@ -1624,7 +1607,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/161.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/160.jpg"
 			}
 		},
 		{
@@ -1634,7 +1617,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/162.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/161.jpg"
 			}
 		},
 		{
@@ -1644,7 +1627,7 @@
 			"type": "Creature — Illusion Wall",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/163.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/162.jpg"
 			}
 		},
 		{
@@ -1654,7 +1637,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/164.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/163.jpg"
 			}
 		},
 		{
@@ -1664,7 +1647,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/165.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/164.jpg"
 			}
 		},
 		{
@@ -1674,7 +1657,7 @@
 			"type": "Legendary Creature — Lizard Leviathan",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/166.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/165.jpg"
 			}
 		},
 		{
@@ -1684,7 +1667,7 @@
 			"type": "Legendary Artifact Creature — Construct",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/167.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/166.jpg"
 			}
 		},
 		{
@@ -1694,7 +1677,7 @@
 			"type": "Artifact Land",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/168.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/167.jpg"
 			}
 		},
 		{
@@ -1704,7 +1687,7 @@
 			"type": "Land",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/169.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/168.jpg"
 			}
 		},
 		{
@@ -1714,7 +1697,7 @@
 			"type": "Land Creature — Island Turtle",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/170.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/169.jpg"
 			}
 		},
 		{
@@ -1724,7 +1707,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/171.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/170.jpg"
 			}
 		},
 		{
@@ -1734,7 +1717,7 @@
 			"type": "Creature — Frog",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/172.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/171.jpg"
 			}
 		},
 		{
@@ -1744,7 +1727,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/173.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/172.jpg"
 			}
 		},
 		{
@@ -1754,7 +1737,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/174.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/173.jpg"
 			}
 		},
 		{
@@ -1764,7 +1747,7 @@
 			"type": "Creature — Giant Warrior",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/175.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/174.jpg"
 			}
 		},
 		{
@@ -1774,7 +1757,7 @@
 			"type": "Creature — Starfish",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/176.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/175.jpg"
 			}
 		},
 		{
@@ -1784,7 +1767,7 @@
 			"type": "Legendary Creature — Zombie Dragon",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/177.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/176.jpg"
 			}
 		},
 		{
@@ -1794,7 +1777,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/178.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/177.jpg"
 			}
 		},
 		{
@@ -1804,7 +1787,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/179.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/178.jpg"
 			}
 		},
 		{
@@ -1814,7 +1797,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/180.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/179.jpg"
 			}
 		},
 		{
@@ -1824,7 +1807,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/181.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/180.jpg"
 			}
 		},
 		{
@@ -1834,7 +1817,7 @@
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/182.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/181.jpg"
 			}
 		},
 		{
@@ -1844,7 +1827,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/183.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/182.jpg"
 			}
 		},
 		{
@@ -1854,7 +1837,7 @@
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/184.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/183.jpg"
 			}
 		},
 		{
@@ -1864,7 +1847,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/185.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/184.jpg"
 			}
 		},
 		{
@@ -1874,7 +1857,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/186.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/185.jpg"
 			}
 		},
 		{
@@ -1884,7 +1867,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/187.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/186.jpg"
 			}
 		},
 		{
@@ -1894,7 +1877,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/188.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/187.jpg"
 			}
 		},
 		{
@@ -1904,7 +1887,7 @@
 			"type": "Artifact Creature — Fish Construct",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/189.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/188.jpg"
 			}
 		},
 		{
@@ -1914,7 +1897,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/190.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/189.jpg"
 			}
 		},
 		{
@@ -1924,7 +1907,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/191.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/190.jpg"
 			}
 		},
 		{
@@ -1934,7 +1917,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/192.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/191.jpg"
 			}
 		},
 		{
@@ -1944,7 +1927,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/193.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/192.jpg"
 			}
 		},
 		{
@@ -1954,7 +1937,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/194.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/193.jpg"
 			}
 		},
 		{
@@ -1964,7 +1947,7 @@
 			"type": "Creature — Demon Knight",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/195.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/194.jpg"
 			}
 		},
 		{
@@ -1974,7 +1957,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/196.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/195.jpg"
 			}
 		},
 		{
@@ -1984,7 +1967,7 @@
 			"type": "Artifact Creature — Demon Construct",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/197.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/196.jpg"
 			}
 		},
 		{
@@ -1994,7 +1977,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/198.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/197.jpg"
 			}
 		},
 		{
@@ -2004,7 +1987,7 @@
 			"type": "Legendary Creature — Demon Warrior",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/199.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/198.jpg"
 			}
 		},
 		{
@@ -2014,7 +1997,7 @@
 			"type": "Enchantment",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/200.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/199.jpg"
 			}
 		},
 		{
@@ -2024,7 +2007,7 @@
 			"type": "Legendary Creature — Elemental Dragon",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/201.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/200.jpg"
 			}
 		},
 		{
@@ -2034,7 +2017,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/202.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/201.jpg"
 			}
 		},
 		{
@@ -2044,7 +2027,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/203.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/202.jpg"
 			}
 		},
 		{
@@ -2054,7 +2037,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/204.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/203.jpg"
 			}
 		},
 		{
@@ -2064,7 +2047,7 @@
 			"type": "Creature — Elemental Squid",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/205.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/204.jpg"
 			}
 		},
 		{
@@ -2074,7 +2057,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/206.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/205.jpg"
 			}
 		},
 		{
@@ -2084,7 +2067,7 @@
 			"type": "Creature — Beast Warrior",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/207.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/206.jpg"
 			}
 		},
 		{
@@ -2094,7 +2077,7 @@
 			"type": "Creature — Plant Noble",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/208.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/207.jpg"
 			}
 		},
 		{
@@ -2104,7 +2087,7 @@
 			"type": "Creature — Dinosaur",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/209.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/208.jpg"
 			}
 		},
 		{
@@ -2114,7 +2097,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/210.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/209.jpg"
 			}
 		},
 		{
@@ -2124,7 +2107,7 @@
 			"type": "Creature — Elemental Warrior",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/211.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/210.jpg"
 			}
 		},
 		{
@@ -2134,7 +2117,7 @@
 			"type": "Artifact Creature — Lizard Construct",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/212.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/211.jpg"
 			}
 		},
 		{
@@ -2144,7 +2127,7 @@
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/213.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/212.jpg"
 			}
 		},
 		{
@@ -2154,7 +2137,7 @@
 			"type": "Creature — Beast Warrior",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/214.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/213.jpg"
 			}
 		},
 		{
@@ -2164,7 +2147,7 @@
 			"type": "Legendary Creature — Dinosaur",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/215.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/214.jpg"
 			}
 		},
 		{
@@ -2174,7 +2157,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/216.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/215.jpg"
 			}
 		},
 		{
@@ -2184,7 +2167,7 @@
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/217.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/216.jpg"
 			}
 		},
 		{
@@ -2194,7 +2177,7 @@
 			"type": "Enchantment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/218.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/217.jpg"
 			}
 		},
 		{
@@ -2204,7 +2187,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/219.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/218.jpg"
 			}
 		},
 		{
@@ -2214,7 +2197,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/220.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/219.jpg"
 			}
 		},
 		{
@@ -2224,7 +2207,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/221.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/220.jpg"
 			}
 		},
 		{
@@ -2234,7 +2217,7 @@
 			"type": "Artifact",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/222.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/221.jpg"
 			}
 		},
 		{
@@ -2244,7 +2227,7 @@
 			"type": "Artifact Creature — Warrior Construct",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/223.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/222.jpg"
 			}
 		},
 		{
@@ -2254,7 +2237,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/224.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/223.jpg"
 			}
 		},
 		{
@@ -2264,7 +2247,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/225.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/224.jpg"
 			}
 		},
 		{
@@ -2274,7 +2257,7 @@
 			"type": "Legendary Creature — Elemental Dragon",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/226.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/225.jpg"
 			}
 		},
 		{
@@ -2284,7 +2267,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/227.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/226.jpg"
 			}
 		},
 		{
@@ -2294,7 +2277,7 @@
 			"type": "Legendary Artifact Creature — Golem",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/228.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/227.jpg"
 			}
 		},
 		{
@@ -2304,7 +2287,7 @@
 			"type": "Artifact",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/229.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/228.jpg"
 			}
 		},
 		{
@@ -2314,7 +2297,7 @@
 			"type": "Artifact",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/230.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/229.jpg"
 			}
 		},
 		{
@@ -2324,7 +2307,7 @@
 			"type": "Artifact",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/231.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/230.jpg"
 			}
 		},
 		{
@@ -2334,7 +2317,7 @@
 			"type": "Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/232.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/231.jpg"
 			}
 		},
 		{
@@ -2344,7 +2327,7 @@
 			"type": "Artifact",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/233.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/232.jpg"
 			}
 		},
 		{
@@ -2354,7 +2337,7 @@
 			"type": "Instant",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/234.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/233.jpg"
 			}
 		},
 		{
@@ -2364,7 +2347,7 @@
 			"type": "Enchantment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/235.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/234.jpg"
 			}
 		},
 		{
@@ -2374,7 +2357,7 @@
 			"type": "Enchantment",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/236.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/235.jpg"
 			}
 		},
 		{
@@ -2384,7 +2367,7 @@
 			"type": "Enchantment",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/237.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/236.jpg"
 			}
 		},
 		{
@@ -2394,7 +2377,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/238.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/237.jpg"
 			}
 		},
 		{
@@ -2404,7 +2387,7 @@
 			"type": "Creature — Angel Cleric",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/239.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/238.jpg"
 			}
 		},
 		{
@@ -2414,7 +2397,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/240.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/239.jpg"
 			}
 		},
 		{
@@ -2424,7 +2407,7 @@
 			"type": "Sorcery",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/241.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/240.jpg"
 			}
 		},
 		{
@@ -2434,7 +2417,7 @@
 			"type": "Creature — Ooze Horror",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/242.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/241.jpg"
 			}
 		},
 		{
@@ -2444,7 +2427,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/243.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/242.jpg"
 			}
 		},
 		{
@@ -2454,7 +2437,7 @@
 			"type": "Artifact",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/244.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/243.jpg"
 			}
 		},
 		{
@@ -2464,7 +2447,7 @@
 			"type": "Artifact",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/245.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/244.jpg"
 			}
 		},
 		{
@@ -2474,7 +2457,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/246.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/245.jpg"
 			}
 		},
 		{
@@ -2484,7 +2467,7 @@
 			"type": "Instant",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/247.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/246.jpg"
 			}
 		},
 		{
@@ -2494,7 +2477,7 @@
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/248.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/247.jpg"
 			}
 		},
 		{
@@ -2504,7 +2487,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/249.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/248.jpg"
 			}
 		},
 		{
@@ -2514,7 +2497,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/250.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/249.jpg"
 			}
 		},
 		{
@@ -2524,7 +2507,7 @@
 			"type": "Instant",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/251.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/250.jpg"
 			}
 		},
 		{
@@ -2534,7 +2517,7 @@
 			"type": "Enchantment Creature — Horror",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/252.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/251.jpg"
 			}
 		},
 		{
@@ -2544,7 +2527,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/253.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/252.jpg"
 			}
 		},
 		{
@@ -2554,7 +2537,7 @@
 			"type": "Artifact Creature — Fish Construct",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/254.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/253.jpg"
 			}
 		},
 		{
@@ -2564,7 +2547,7 @@
 			"type": "Artifact Creature — Robot Warrior",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/255.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/254.jpg"
 			}
 		},
 		{
@@ -2574,7 +2557,7 @@
 			"type": "Creature — Human Noble Cleric",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/256.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/255.jpg"
 			}
 		},
 		{
@@ -2584,7 +2567,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/257.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/256.jpg"
 			}
 		},
 		{
@@ -2594,7 +2577,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/258.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/257.jpg"
 			}
 		},
 		{
@@ -2604,7 +2587,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/259.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/258.jpg"
 			}
 		},
 		{
@@ -2614,7 +2597,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/260.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/259.jpg"
 			}
 		},
 		{
@@ -2624,7 +2607,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/261.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/260.jpg"
 			}
 		},
 		{
@@ -2634,7 +2617,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/262.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/261.jpg"
 			}
 		},
 		{
@@ -2644,7 +2627,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/263.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/262.jpg"
 			}
 		},
 		{
@@ -2654,7 +2637,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/264.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/263.jpg"
 			}
 		},
 		{
@@ -2664,7 +2647,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/265.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/264.jpg"
 			}
 		},
 		{
@@ -2674,7 +2657,7 @@
 			"type": "Instant",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/266.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/265.jpg"
 			}
 		},
 		{
@@ -2684,7 +2667,7 @@
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/267.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/266.jpg"
 			}
 		},
 		{
@@ -2694,7 +2677,7 @@
 			"type": "Sorcery",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/268.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/267.jpg"
 			}
 		},
 		{
@@ -2704,7 +2687,7 @@
 			"type": "Instant",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/269.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/268.jpg"
 			}
 		},
 		{
@@ -2714,7 +2697,7 @@
 			"type": "Kindred Sorcery — Elemental",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/270.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/269.jpg"
 			}
 		},
 		{
@@ -2724,7 +2707,7 @@
 			"type": "Instant",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/271.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/270.jpg"
 			}
 		},
 		{
@@ -2734,7 +2717,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/272.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/271.jpg"
 			}
 		},
 		{
@@ -2744,7 +2727,7 @@
 			"type": "Instant",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/273.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/272.jpg"
 			}
 		},
 		{
@@ -2754,7 +2737,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/274.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/273.jpg"
 			}
 		},
 		{
@@ -2764,7 +2747,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/275.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/274.jpg"
 			}
 		},
 		{
@@ -2774,7 +2757,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/276.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/275.jpg"
 			}
 		},
 		{
@@ -2784,7 +2767,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/277.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/276.jpg"
 			}
 		},
 		{
@@ -2794,7 +2777,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/278.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/277.jpg"
 			}
 		},
 		{
@@ -2804,7 +2787,7 @@
 			"type": "Instant",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/279.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/278.jpg"
 			}
 		},
 		{
@@ -2814,7 +2797,7 @@
 			"type": "Legendary Creature — Plant Horror",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/280.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/279.jpg"
 			}
 		},
 		{
@@ -2824,7 +2807,7 @@
 			"type": "Enchantment",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/281.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/280.jpg"
 			}
 		},
 		{
@@ -2834,7 +2817,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/282.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/281.jpg"
 			}
 		},
 		{
@@ -2844,7 +2827,7 @@
 			"type": "Artifact",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/283.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/282.jpg"
 			}
 		},
 		{
@@ -2854,7 +2837,7 @@
 			"type": "Artifact",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/284.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/283.jpg"
 			}
 		},
 		{
@@ -2864,7 +2847,7 @@
 			"type": "Legendary Creature — Beast",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/285.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/284.jpg"
 			}
 		},
 		{
@@ -2874,7 +2857,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/286.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/285.jpg"
 			}
 		},
 		{
@@ -2884,7 +2867,7 @@
 			"type": "Enchantment",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/287.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/286.jpg"
 			}
 		},
 		{
@@ -2894,7 +2877,7 @@
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/288.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/287.jpg"
 			}
 		},
 		{
@@ -2904,7 +2887,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/289.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/288.jpg"
 			}
 		},
 		{
@@ -2914,7 +2897,7 @@
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/290.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/289.jpg"
 			}
 		},
 		{
@@ -2924,7 +2907,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/291.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/290.jpg"
 			}
 		},
 		{
@@ -2934,7 +2917,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/292.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/291.jpg"
 			}
 		},
 		{
@@ -2944,7 +2927,7 @@
 			"type": "Creature — Illusion Warlock",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/293.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/292.jpg"
 			}
 		},
 		{
@@ -2954,7 +2937,7 @@
 			"type": "Artifact",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/294.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/293.jpg"
 			}
 		},
 		{
@@ -2964,7 +2947,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/295.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/294.jpg"
 			}
 		},
 		{
@@ -2974,7 +2957,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/296.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/295.jpg"
 			}
 		},
 		{
@@ -2984,7 +2967,7 @@
 			"type": "Land",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/297.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/296.jpg"
 			}
 		},
 		{
@@ -2994,7 +2977,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/298.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/297.jpg"
 			}
 		},
 		{
@@ -3004,7 +2987,7 @@
 			"type": "Sorcery",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/299.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/298.jpg"
 			}
 		},
 		{
@@ -3014,7 +2997,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/300.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/299.jpg"
 			}
 		},
 		{
@@ -3024,7 +3007,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/301.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/300.jpg"
 			}
 		},
 		{
@@ -3034,7 +3017,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/302.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/301.jpg"
 			}
 		},
 		{
@@ -3044,7 +3027,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/303.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/302.jpg"
 			}
 		},
 		{
@@ -3054,7 +3037,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/304.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/303.jpg"
 			}
 		},
 		{
@@ -3064,7 +3047,7 @@
 			"type": "Token Creature — Shapeshifter",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/305.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/304.jpg"
 			}
 		},
 		{
@@ -3074,7 +3057,7 @@
 			"type": "Token Creature — Frog",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/306.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/305.jpg"
 			}
 		},
 		{
@@ -3084,7 +3067,7 @@
 			"type": "Token Artifact Creature — Fish Construct",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/307.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/306.jpg"
 			}
 		},
 		{
@@ -3094,7 +3077,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/308.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/307.jpg"
 			}
 		},
 		{
@@ -3104,7 +3087,7 @@
 			"type": "Token Creature — Alien Insect",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/309.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/308.jpg"
 			}
 		},
 		{
@@ -3114,7 +3097,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/310.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/309.jpg"
 			}
 		},
 		{
@@ -3124,7 +3107,7 @@
 			"type": "Creature — Plant Noble",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/311.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/310.jpg"
 			}
 		},
 		{
@@ -3134,7 +3117,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/312.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/311.jpg"
 			}
 		},
 		{
@@ -3144,7 +3127,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/313.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/312.jpg"
 			}
 		},
 		{
@@ -3154,7 +3137,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/314.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/313.jpg"
 			}
 		},
 		{
@@ -3164,7 +3147,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/315.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/314.jpg"
 			}
 		},
 		{
@@ -3174,7 +3157,7 @@
 			"type": "Token Creature — Germ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/316.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/315.jpg"
 			}
 		},
 		{
@@ -3184,7 +3167,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/317.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/316.jpg"
 			}
 		},
 		{
@@ -3194,7 +3177,7 @@
 			"type": "Token Creature — Germ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/318.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/317.jpg"
 			}
 		},
 		{
@@ -3204,7 +3187,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/319.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/318.jpg"
 			}
 		},
 		{
@@ -3214,7 +3197,7 @@
 			"type": "Token Creature — Elemental Demon",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/320.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/319.jpg"
 			}
 		},
 		{
@@ -3224,7 +3207,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/321.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/320.jpg"
 			}
 		},
 		{
@@ -3234,7 +3217,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/322.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/321.jpg"
 			}
 		},
 		{
@@ -3244,7 +3227,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/323.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/322.jpg"
 			}
 		},
 		{
@@ -3254,7 +3237,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/324.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/323.jpg"
 			}
 		},
 		{
@@ -3264,7 +3247,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/325.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/324.jpg"
 			}
 		},
 		{
@@ -3274,7 +3257,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/326.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/325.jpg"
 			}
 		},
 		{
@@ -3284,7 +3267,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/327.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/326.jpg"
 			}
 		},
 		{
@@ -3294,7 +3277,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/328.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/327.jpg"
 			}
 		},
 		{
@@ -3304,7 +3287,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/329.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/328.jpg"
 			}
 		},
 		{
@@ -3314,7 +3297,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/330.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/329.jpg"
 			}
 		},
 		{
@@ -3324,7 +3307,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/331.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/330.jpg"
 			}
 		},
 		{
@@ -3334,7 +3317,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/332.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/331.jpg"
 			}
 		},
 		{
@@ -3344,7 +3327,7 @@
 			"type": "Token Artifact Creature — Bat Construct",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/333.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/332.jpg"
 			}
 		},
 		{
@@ -3354,7 +3337,7 @@
 			"type": "Token Artifact Creature — Insect Construct",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/334.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/333.jpg"
 			}
 		},
 		{
@@ -3364,7 +3347,7 @@
 			"type": "Token Creature — Phyrexian Germ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/335.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/334.jpg"
 			}
 		},
 		{
@@ -3374,7 +3357,7 @@
 			"type": "Artifact Creature — Wolf Construct",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/336.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/335.jpg"
 			}
 		},
 		{
@@ -3384,7 +3367,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/337.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/336.jpg"
 			}
 		},
 		{
@@ -3394,7 +3377,7 @@
 			"type": "Artifact",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/338.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/337.jpg"
 			}
 		},
 		{
@@ -3404,7 +3387,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/339.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/338.jpg"
 			}
 		},
 		{
@@ -3414,7 +3397,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/340.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/339.jpg"
 			}
 		},
 		{
@@ -3424,7 +3407,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/341.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/340.jpg"
 			}
 		},
 		{
@@ -3434,7 +3417,7 @@
 			"type": "Creature — Imp",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/342.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/341.jpg"
 			}
 		},
 		{
@@ -3444,7 +3427,7 @@
 			"type": "Token Creature — Bear",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/343.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/342.jpg"
 			}
 		},
 		{
@@ -3454,7 +3437,7 @@
 			"type": "Creature — Elemental Pegasus",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/344.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/343.jpg"
 			}
 		},
 		{
@@ -3464,7 +3447,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/345.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/344.jpg"
 			}
 		},
 		{
@@ -3474,7 +3457,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/346.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/345.jpg"
 			}
 		},
 		{
@@ -3484,7 +3467,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/347.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/346.jpg"
 			}
 		},
 		{
@@ -3494,7 +3477,7 @@
 			"type": "Instant",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/348.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/347.jpg"
 			}
 		},
 		{
@@ -3504,7 +3487,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/349.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/348.jpg"
 			}
 		},
 		{
@@ -3514,7 +3497,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/350.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/349.jpg"
 			}
 		},
 		{
@@ -3524,7 +3507,7 @@
 			"type": "Legendary Creature — Illusion Warrior",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/351.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/350.jpg"
 			}
 		},
 		{
@@ -3534,7 +3517,7 @@
 			"type": "Sorcery — Ritual",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/352.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/351.jpg"
 			}
 		},
 		{
@@ -3544,7 +3527,7 @@
 			"type": "Artifact",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/353.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/352.jpg"
 			}
 		},
 		{
@@ -3554,7 +3537,7 @@
 			"type": "Artifact",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/354.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/353.jpg"
 			}
 		},
 		{
@@ -3564,7 +3547,7 @@
 			"type": "Artifact",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/355.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/354.jpg"
 			}
 		},
 		{
@@ -3574,7 +3557,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/356.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/355.jpg"
 			}
 		},
 		{
@@ -3584,7 +3567,7 @@
 			"type": "Artifact",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/357.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/356.jpg"
 			}
 		},
 		{
@@ -3594,7 +3577,7 @@
 			"type": "Artifact",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/358.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/357.jpg"
 			}
 		},
 		{
@@ -3604,7 +3587,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/359.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/358.jpg"
 			}
 		},
 		{
@@ -3614,7 +3597,7 @@
 			"type": "Creature — Goblin",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/360.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/359.jpg"
 			}
 		},
 		{
@@ -3624,7 +3607,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/361.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/360.jpg"
 			}
 		},
 		{
@@ -3634,7 +3617,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/362.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/361.jpg"
 			}
 		},
 		{
@@ -3644,7 +3627,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/363.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/362.jpg"
 			}
 		},
 		{
@@ -3654,7 +3637,7 @@
 			"type": "Instant",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/364.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/363.jpg"
 			}
 		},
 		{
@@ -3664,7 +3647,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/365.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/364.jpg"
 			}
 		},
 		{
@@ -3674,7 +3657,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/366.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/365.jpg"
 			}
 		},
 		{
@@ -3684,7 +3667,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/367.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/366.jpg"
 			}
 		},
 		{
@@ -3694,7 +3677,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/368.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/367.jpg"
 			}
 		},
 		{
@@ -3704,7 +3687,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/369.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/368.jpg"
 			}
 		},
 		{
@@ -3714,7 +3697,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/370.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/369.jpg"
 			}
 		},
 		{
@@ -3724,7 +3707,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/371.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/370.jpg"
 			}
 		},
 		{
@@ -3734,7 +3717,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/372.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/371.jpg"
 			}
 		},
 		{
@@ -3744,7 +3727,7 @@
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/373.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/372.jpg"
 			}
 		},
 		{
@@ -3754,7 +3737,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/374.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/373.jpg"
 			}
 		},
 		{
@@ -3764,7 +3747,7 @@
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/375.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/374.jpg"
 			}
 		},
 		{
@@ -3774,7 +3757,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/376.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/375.jpg"
 			}
 		},
 		{
@@ -3784,7 +3767,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/377.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/376.jpg"
 			}
 		},
 		{
@@ -3794,7 +3777,7 @@
 			"type": "Enchantment",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/378.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/377.jpg"
 			}
 		},
 		{
@@ -3804,7 +3787,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/379.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/378.jpg"
 			}
 		},
 		{
@@ -3814,7 +3797,7 @@
 			"type": "Kindred Instant — Plant",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/380.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/379.jpg"
 			}
 		},
 		{
@@ -3824,7 +3807,7 @@
 			"type": "Legendary Creature — Insect",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/381.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/380.jpg"
 			}
 		},
 		{
@@ -3834,7 +3817,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/382.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/381.jpg"
 			}
 		},
 		{
@@ -3844,7 +3827,7 @@
 			"type": "Land",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/383.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/382.jpg"
 			}
 		},
 		{
@@ -3854,7 +3837,7 @@
 			"type": "Land",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/384.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/383.jpg"
 			}
 		},
 		{
@@ -3864,7 +3847,7 @@
 			"type": "Land",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/385.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/384.jpg"
 			}
 		},
 		{
@@ -3874,7 +3857,7 @@
 			"type": "Land",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/386.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/385.jpg"
 			}
 		},
 		{
@@ -3884,7 +3867,7 @@
 			"type": "Land",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/387.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/386.jpg"
 			}
 		},
 		{
@@ -3894,7 +3877,7 @@
 			"type": "Land",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/388.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/387.jpg"
 			}
 		},
 		{
@@ -3904,7 +3887,7 @@
 			"type": "Land",
 			"collector_number": "360",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/389.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/388.jpg"
 			}
 		},
 		{
@@ -3914,7 +3897,7 @@
 			"type": "Land",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/390.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/389.jpg"
 			}
 		},
 		{
@@ -3924,7 +3907,7 @@
 			"type": "Land",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/391.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/390.jpg"
 			}
 		},
 		{
@@ -3934,7 +3917,7 @@
 			"type": "Land",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/392.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/391.jpg"
 			}
 		},
 		{
@@ -3944,7 +3927,7 @@
 			"type": "Token Creature — Faerie",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/393.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/392.jpg"
 			}
 		},
 		{
@@ -3954,7 +3937,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/394.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/393.jpg"
 			}
 		},
 		{
@@ -3964,7 +3947,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/395.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/394.jpg"
 			}
 		},
 		{
@@ -3974,7 +3957,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/396.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/395.jpg"
 			}
 		},
 		{
@@ -3984,7 +3967,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/397.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/396.jpg"
 			}
 		},
 		{
@@ -3994,7 +3977,7 @@
 			"type": "Creature — Angel Horror",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/398.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/397.jpg"
 			}
 		},
 		{
@@ -4004,7 +3987,7 @@
 			"type": "Instant",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/399.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/398.jpg"
 			}
 		},
 		{
@@ -4014,7 +3997,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/400.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/399.jpg"
 			}
 		},
 		{
@@ -4024,7 +4007,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/401.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/400.jpg"
 			}
 		},
 		{
@@ -4034,7 +4017,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/402.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/401.jpg"
 			}
 		},
 		{
@@ -4044,9 +4027,26 @@
 			"type": "Token Creature — Elemental Beast",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/403.jpg"
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/402.jpg"
 			}
-		}
+		},
+		{
+			"name": "Dark Necrofear",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/403_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/403_front.jpg"
+			}
+		},
 	]
 
 [rare(1)]
@@ -4087,7 +4087,6 @@
 	2 Charubin the Fire Knight
 	2 Barrier Statue of the Heavens
 	1 Demise, King of Armageddon
-	2 Dark Necrofear
 	2 The Masked Beast
 	1 Cosmo Queen
 	2 Dark Elf
@@ -4155,6 +4154,7 @@
 	2 Armory Call
 	2 Raging Mad Plants
 	2 Tyhone #2
+	2 Dark Necrofear
 [uncommon(3)]
 	4 Labyrinth Wall
 	4 Labyrinth Tank
@@ -4535,7 +4535,6 @@
 	1 Demise, King of Armageddon
 	6 End of the World
 	6 Dragon Seeker
-	2 Dark Necrofear
 	2 The Masked Beast
 	6 Curse of the Masked Beast
 	6 Jowls of Dark Demise
@@ -4773,6 +4772,7 @@
 	2 Tyhone #2
 	12 Eyearmor
 	12 Flamvell Poun
+	2 Dark Necrofear
 [wildcard(1)]
 	15 Labyrinth Wall
 	15 Labyrinth Tank
@@ -4896,7 +4896,6 @@
 	4 Demise, King of Armageddon
 	15 End of the World
 	15 Dragon Seeker
-	7 Dark Necrofear
 	7 The Masked Beast
 	15 Curse of the Masked Beast
 	15 Jowls of Dark Demise
@@ -5134,3 +5133,4 @@
 	7 Tyhone #2
 	6 Eyearmor
 	6 Flamvell Poun
+	7 Dark Necrofear

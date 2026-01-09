@@ -1,4 +1,565 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+The Masked Beast
+
+Curse of the Masked Beast
+
+Jowls of Dark Demise
+
+Cosmo Queen
+
+Dark Elf
+
+The Little Swordsman of Aile
+
+The Drdek
+
+Dark Jeroid
+
+Tribe-Infecting Virus
+
+Lekunga
+
+Man Eater
+
+Illusionist Faceless Mage
+
+Garnecia Elefantis
+
+Ryu-Ran
+
+Amphibian Beast
+
+Space Mambo
+
+Invader from Another Dimension
+
+Change Slime
+
+Possessed Dark Soul
+
+Fear from the Dark
+
+Souls of the Forgotten
+
+Prisman
+
+Flame Viper
+
+Dark King of the Abyss
+
+The Shadow Who Controls the Dark
+
+Swordsman of Landstar
+
+Hayabusa Knight
+
+Witch Doctor of Chaos
+
+Dark Gray
+
+Barrier Statue of the Abyss
+
+Barrier Statue of the Stormwinds
+
+Barrier Statue of the Torrent
+
+Hyozanryu
+
+Zoa
+
+Wall of Illusion
+
+Slime Toad
+
+Misairuzame
+
+Gogiga Gagagigo
+
+Perfect Machine King
+
+Geartown
+
+Neo Space
+
+Island Turtle
+
+7 Colored Fish
+
+Dupe Frog
+
+Piranha Army
+
+Bladefly
+
+Hitotsu-Me Giant
+
+Armored Starfish
+
+Berserk Dragon
+
+Leogun
+
+Goddess with the Third Eye
+
+Protector of the Throne
+
+United We Stand
+
+Rock Bombardment
+
+Release from Stone
+
+Shield & Sword
+
+Enchanted Javelin
+
+Ekibyo Drakmord
+
+Neo Aqua Madoor
+
+Spiral Serpent
+
+Metal Fish
+
+Spike Seadra
+
+Yomi Ship
+
+Buster Rancher
+
+Mind Wipe
+
+Ray of Hope
+
+Shadowknight Archfiend
+
+Cyber Soldier of Darkworld
+
+The Fiend Megacyber
+
+Swordstalker
+
+Mefist the Infernal General
+
+Gravekeeper's Servant
+
+Water Dragon
+
+Mirage Knight
+
+Burning Spear
+
+Oni Tank T-34
+
+Fire Kraken
+
+Inferno
+
+Gladiator Beast Andal
+
+Green Phantom King
+
+Dark Driceratops
+
+Sword Hunter
+
+The Rock Spirit
+
+Cyber-Tech Alligator
+
+Giga Gagagigo
+
+Panther Warrior
+
+Black Tyranno
+
+Overdrive
+
+Physical Double
+
+Blessings of the Nile
+
+Sword of the Soul-Eater
+
+Reckless Greed
+
+Good Goblin Housekeeping
+
+Mass Driver
+
+Gadget Soldier
+
+Gatekeeper
+
+Machine King
+
+Frost and Flame Dragon
+
+The Creator
+
+Ancient Gear Golem
+
+Gift of the Mystical Elf
+
+Jar of Greed
+
+Blast with Chain
+
+Dark World Grimoire
+
+Jam Breeding Machine
+
+Trap Jammer
+
+Aqua Chorus
+
+Skull Invitation
+
+Meteorain
+
+Destructive Draw
+
+Happy Lover
+
+Invigoration
+
+Rope of Life
+
+Revival Jam
+
+Torrential Tribute
+
+Nightmare's Steelcage
+
+Compulsory Evacuation Device
+
+The Big March of Animals
+
+Shift
+
+Graverobber
+
+Muka Muka
+
+Maharaghi
+
+Mystic Box
+
+Brain Jacker
+
+Great White
+
+Cyber Shark
+
+Sasuke Samurai
+
+Fire Princess
+
+Demise of the Land
+
+Deepsea Shark
+
+The World Tree
+
+Goblin's Secret Remedy
+
+Tower of Babel
+
+Ceal, Shooting Star Bow
+
+Giltia the D. Knight
+
+Humanoid Worm Drake
+
+Giant Red Seasnake
+
+Graydle Split
+
+Ancient Lizard Warrior
+
+Multiply
+
+Tricky Spell 4
+
+Lightning Vortex
+
+Final Destiny
+
+Needle Ceiling
+
+Wild Nature's Release
+
+Forced Back
+
+Rain Storm
+
+Time-Space Trap Hole
+
+Royal Surrender
+
+Mind Crush
+
+Dark Cure
+
+Lord Poison
+
+Human-Wave Tactics
+
+Sand Stone
+
+Blaze Accelerator
+
+Banner of Courage
+
+Gyaku-Gire Panda
+
+Twinheaded Beast
+
+Guarded Treasure
+
+Kaiser Glider
+
+Gather Your Mind
+
+A Feather of the Phoenix
+
+The Grave of Enkindling
+
+Raregold Armor
+
+The Tricky
+
+Magic Planter
+
+Dragon's Gunfire
+
+Patrol Robo
+
+Kaiser Colosseum
+
+Time Machine
+
+Token Thanksgiving
+
+Copy
+
+Angel
+
+Warrior
+
+Leogun
+
+Watapon
+
+Change Slime
+
+Dupe Frog
+
+Space Mambo
+
+Evil Thorn
+
+Invader from Another Dimension
+
+Big Koala
+
+Fairy King Truesdale
+
+Nimble Momonga
+
+Plant
+
+Wolf
+
+Mokey Mokey
+
+Ameba
+
+Bubonic Vermin
+
+Giant Germ
+
+Burning Algae
+
+Invasion of Flames
+
+Souls of the Forgotten
+
+Spirit of the Breeze
+
+Abyss Flower
+
+The All-Seeing White Tiger
+
+Anti-Aircraft Flower
+
+The Drdek
+
+Flame Viper
+
+Necro Fleur
+
+Slime Toad
+
+Compass
+
+Slime
+
+Robot
+
+Bat Construct
+
+Steel Scorpion
+
+Phyrexian Germ
+
+Giga-Tech Wolf
+
+Robotic Knight
+
+Ancient Jar
+
+Legendary Sword
+
+Maha Vailo
+
+Sonic Bird
+
+Spear Cretin
+
+Mother Grizzly
+
+Firewing Pegasus
+
+Eternal Rest
+
+Cold Wave
+
+Fairy Meteor Crush
+
+Wingbeat of a Giant Dragon
+
+After the Struggle
+
+Cyber Soldier
+
+Performance of Sword
+
+Commencement Dance
+
+Arcane Barrier
+
+Mask of Weakness
+
+Pharaoh's Treasure
+
+Horror
+
+Mystik Wok
+
+Bait Doll
+
+Hercules Beetle
+
+Token Collector
+
+Monster Reincarnation
+
+Divine Wrath
+
+Dark Core
+
+Hallowed Life Barrier
+
+Cost Down
+
+Return of the Doomed
+
+Beckoning Light
+
+Raigeki Break
+
+Serial Spell
+
+Dark Deal
+rules_text: You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.
+Counter target creature spell. Its controller discards a card. => You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.
+Change the text of target instant or sorcery spell to “Discard a card.”
+
+Double Spell
+
+Nobleman of Extermination
+
+Dust Tornado
+
+Sinister Seeds
+
+Smashing Ground
+
+Plant
+
+Illusion
+
+Weapon Change
+
+Rising Energy
+
+Seed Cannon
+
+Empress Mantis
+
+Deal of Phantom
+
+Temple of the Sun
+
+Murmur of the Forest
+
+The Fountain in the Sky
+
+Ebon Sun
+
+Lost Paradise
+
+Sunset Beat
+
+Worm Call
+
+Temple of the Six
+
+The Hidden City
+
+Chaos Zone
+
+Dreamsprite
+
+Mother Grizzly
+
+Illusionist Faceless Mage
+
+Sword
+
+Armory Call
+
+Doma The Angel of Silence
+
+Raging Mad Plants
+
+Tyhone #2
+
+Eyearmor
+
+Flamvell Poun
+
+Flamvell Poun
+
+Dark Necrofear
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Tyhone #2 added.

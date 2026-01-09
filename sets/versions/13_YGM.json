@@ -2569,37 +2569,6 @@
             "notes": "Modeled after Dark Hatchling, Dalek Drone, Dakmor Lancer, and Black Dragon. This could be modified to destroy a creature an opponent controls that was dealt damage this turn, as another way to adjust its effect to be more conditional, and to make the flash feel more relevant to its play-pattern (that would probably replace the non-black & non-artifact restriction).\n\nThis creature is strong in Orzhov, as it gives as way to destroy enemy flyers, while also giving you a flyer. It is also strong in rakdos. This creature has some use in dimir as a way to control the board, and is least impactful in golgari (though removal is always strong, tbf).\n\nThis card excels against decks that play dragons. Dragons in my set are all in red and blue, so this guy is often a really strong play against izzet players."
         },
         {
-            "card_name": "Dark Necrofear",
-            "color": "UB",
-            "rarity": "rare",
-            "type": "Creature \u2014 Horror",
-            "number": 201,
-            "color_identity": "UB",
-            "cost": "{6}{U}{B}",
-            "rules_text": "You may pay {U}{U}{B}{B} and exile a blue and a black card from your graveyard rather than pay this spell's mana cost.\nWhenenever Dark Necrofear enters or attacks each opponent returns a creature they control to its owner's hand, then discards a card. \nDisturb {3}{U}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "5/7",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "128",
-            "card_name2": "Dark Embrace",
-            "color2": "UB",
-            "type2": "Enchantment \u2014 Aura",
-            "cost2": "",
-            "rules_text2": "Enchant creature\nYou control enchanted creature.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias2": "",
-            "notes": ""
-        },
-        {
             "card_name": "The Masked Beast",
             "color": "UBG",
             "rarity": "rare",
@@ -2616,7 +2585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": ""
         },
         {
@@ -2636,7 +2605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": ""
         },
         {
@@ -2656,7 +2625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2676,7 +2645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2696,7 +2665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": ""
         },
         {
@@ -2716,7 +2685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": ""
         },
         {
@@ -2736,7 +2705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": ""
         },
         {
@@ -2756,7 +2725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": ""
         },
         {
@@ -2776,7 +2745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": ""
         },
         {
@@ -2796,7 +2765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": ""
         },
         {
@@ -2816,7 +2785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "This is a golgari staple."
         },
         {
@@ -2836,7 +2805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2856,7 +2825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "[archetype:combat-efficiency] [archetype:toughness-tribal]"
         },
         {
@@ -2876,7 +2845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2896,7 +2865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2916,7 +2885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2936,7 +2905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": ""
         },
         {
@@ -2956,7 +2925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": ""
         },
         {
@@ -2976,7 +2945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2996,7 +2965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "This is a dimir staple."
         },
         {
@@ -3016,7 +2985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": ""
         },
         {
@@ -3036,7 +3005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": ""
         },
         {
@@ -3056,7 +3025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": ""
         },
         {
@@ -3076,7 +3045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": "This is one of the strongest sacrifice outlets in my set, because it doesn't have a mana cost. You can use it to get stats after blockers are declared, or to enable a big emerge. It's strongest in orzhov, which can produce a lot of token fodder for this guy to gobble up, but it also has power in rakdos as a way to put pressure on the board as a 3/2 for 2 that can get bigger and enable bigger emerges."
         },
         {
@@ -3096,7 +3065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": ""
         },
         {
@@ -3116,7 +3085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "[archetype:toughness-tribal]\n[archetype:combat-efficiency]"
         },
         {
@@ -3136,7 +3105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": ""
         },
         {
@@ -3156,7 +3125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": ""
         },
         {
@@ -3176,7 +3145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": ""
         },
         {
@@ -3196,7 +3165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": ""
         },
         {
@@ -3216,7 +3185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3236,7 +3205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3256,7 +3225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": ""
         },
         {
@@ -3276,7 +3245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": ""
         },
         {
@@ -3296,7 +3265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3316,7 +3285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3336,7 +3305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3356,7 +3325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3376,7 +3345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3396,7 +3365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3416,7 +3385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3436,7 +3405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3456,7 +3425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": "This guy has received a lot of iteration. It's super iconic and familiar to me as one of the 1800-atk normal monsters from yugioh. I decided to make him into a filter fish here. The ward was suggested by a friend who pointed out \"bolting the bird\".\n\nThe exact mana counts for his ability have gone through several iterations."
         },
         {
@@ -3476,7 +3445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3496,7 +3465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3516,7 +3485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "Bradley"
         },
         {
@@ -3536,7 +3505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3556,7 +3525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3576,7 +3545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": ""
         },
         {
@@ -3596,7 +3565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "[archetype:toughness-tribal] [archetype:combat-efficiency]"
         },
         {
@@ -3616,7 +3585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": "Plainscycling common. This card is really useful if you play it, so cycling it will feel like a bit of a loss (it can be used in any fusion cost, or played for a lot of topdeck control). I like this because it makes the trade-off feel meaningful. Her stats are garbage though, which makes sense for a card that has this much utility in common."
         },
         {
@@ -3636,7 +3605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "[archetype:go-wide-tokens]\n[archetype:token-sacrifice]"
         },
         {
@@ -3656,7 +3625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "[archetype:go-wide-tokens]"
         },
         {
@@ -3676,7 +3645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3696,7 +3665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "[archetype:toughness-tribal]"
         },
         {
@@ -3716,7 +3685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3736,7 +3705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "A really strong combat trick for white, a great way to ensure a trade goes well. Getting the reduced cost can be difficult, which is intentional because of its power level."
         },
         {
@@ -3756,7 +3725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": ""
         },
         {
@@ -3776,7 +3745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": ""
         },
         {
@@ -3796,7 +3765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3816,7 +3785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": ""
         },
         {
@@ -3836,7 +3805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": ""
         },
         {
@@ -3856,7 +3825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": ""
         },
         {
@@ -3876,7 +3845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": ""
         },
         {
@@ -3896,7 +3865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": ""
         },
         {
@@ -3916,7 +3885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": ""
         },
         {
@@ -3936,7 +3905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3956,7 +3925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3976,7 +3945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3996,7 +3965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": ""
         },
         {
@@ -4016,7 +3985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": ""
         },
         {
@@ -4036,7 +4005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": ""
         },
         {
@@ -4056,7 +4025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "notes": ""
         },
         {
@@ -4076,7 +4045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": ""
         },
         {
@@ -4096,7 +4065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4116,7 +4085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4136,7 +4105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "notes": ""
         },
         {
@@ -4156,7 +4125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "notes": ""
         },
         {
@@ -4176,7 +4145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "notes": ""
         },
         {
@@ -4196,7 +4165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "notes": ""
         },
         {
@@ -4216,7 +4185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "notes": ""
         },
         {
@@ -4236,7 +4205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "notes": ""
         },
         {
@@ -4256,7 +4225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": ""
         },
         {
@@ -4276,7 +4245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": ""
         },
         {
@@ -4296,7 +4265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": ""
         },
         {
@@ -4316,7 +4285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": ""
         },
         {
@@ -4336,7 +4305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": ""
         },
         {
@@ -4356,7 +4325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4376,7 +4345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": ""
         },
         {
@@ -4396,7 +4365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4416,7 +4385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": ""
         },
         {
@@ -4436,7 +4405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": ""
         },
         {
@@ -4456,7 +4425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4476,7 +4445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4496,7 +4465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4516,7 +4485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4536,7 +4505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4556,7 +4525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4576,7 +4545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4596,7 +4565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": ""
         },
         {
@@ -4616,7 +4585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4636,7 +4605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4656,7 +4625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4676,7 +4645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4696,7 +4665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4716,7 +4685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4736,7 +4705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4756,7 +4725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4776,7 +4745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4796,7 +4765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4816,7 +4785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4836,7 +4805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4856,7 +4825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4876,7 +4845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": ""
         },
         {
@@ -4896,7 +4865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4916,7 +4885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": ""
         },
         {
@@ -4936,7 +4905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4956,7 +4925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4976,7 +4945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": ""
         },
         {
@@ -4996,7 +4965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": ""
         },
         {
@@ -5016,7 +4985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": ""
         },
         {
@@ -5036,7 +5005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": ""
         },
         {
@@ -5056,7 +5025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": ""
         },
         {
@@ -5076,7 +5045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": ""
         },
         {
@@ -5096,7 +5065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": ""
         },
         {
@@ -5116,7 +5085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": ""
         },
         {
@@ -5136,7 +5105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5156,7 +5125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": ""
         },
         {
@@ -5176,7 +5145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": ""
         },
         {
@@ -5196,7 +5165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": ""
         },
         {
@@ -5216,7 +5185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5236,7 +5205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": ""
         },
         {
@@ -5256,7 +5225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": ""
         },
         {
@@ -5276,7 +5245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5296,7 +5265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5316,7 +5285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": ""
         },
         {
@@ -5336,7 +5305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5356,7 +5325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": ""
         },
         {
@@ -5376,7 +5345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5396,7 +5365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5416,7 +5385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": ""
         },
         {
@@ -5436,7 +5405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": ""
         },
         {
@@ -5456,7 +5425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": ""
         },
         {
@@ -5476,7 +5445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5496,7 +5465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5516,7 +5485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5536,7 +5505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": ""
         },
         {
@@ -5556,7 +5525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "This card can be played for its discounted cost when a player reanimates a creature, when they emerge a creature, or when they cast a creature for another alternative cost. It's especially good against token decks that do one of these things and then flood the board in the same turn, but can also be effective against aggro decks.\n\nStrong when playing control."
         },
         {
@@ -5576,7 +5545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Exclude",
-            "position": "277",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5596,7 +5565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Cabal Therapy",
-            "position": "278",
+            "position": "277",
             "notes": "This is a dimir staple."
         },
         {
@@ -5616,7 +5585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5636,7 +5605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5656,7 +5625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": ""
         },
         {
@@ -5676,7 +5645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5696,7 +5665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5716,7 +5685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Heraldic Banner",
-            "position": "284",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5736,7 +5705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5756,7 +5725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5776,7 +5745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5796,7 +5765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5816,7 +5785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": ""
         },
         {
@@ -5836,7 +5805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5856,7 +5825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": ""
         },
         {
@@ -5876,7 +5845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Slagwurm Armor",
-            "position": "292",
+            "position": "291",
             "notes": ""
         },
         {
@@ -5896,7 +5865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": ""
         },
         {
@@ -5916,7 +5885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": ""
         },
         {
@@ -5936,7 +5905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": ""
         },
         {
@@ -5956,7 +5925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": ""
         },
         {
@@ -5976,7 +5945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": ""
         },
         {
@@ -5996,7 +5965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6016,7 +5985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6036,7 +6005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6056,7 +6025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": ""
         },
         {
@@ -6076,7 +6045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": ""
         },
         {
@@ -6096,7 +6065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": ""
         },
         {
@@ -6116,7 +6085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": ""
         },
         {
@@ -6136,7 +6105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": ""
         },
         {
@@ -6156,7 +6125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6176,7 +6145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": ""
         },
         {
@@ -6196,7 +6165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": ""
         },
         {
@@ -6216,7 +6185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": ""
         },
         {
@@ -6236,7 +6205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": ""
         },
         {
@@ -6256,7 +6225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": ""
         },
         {
@@ -6276,7 +6245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": ""
         },
         {
@@ -6296,7 +6265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6316,7 +6285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": ""
         },
         {
@@ -6336,7 +6305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": ""
         },
         {
@@ -6356,7 +6325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6376,7 +6345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": ""
         },
         {
@@ -6396,7 +6365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": ""
         },
         {
@@ -6416,7 +6385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": ""
         },
         {
@@ -6436,7 +6405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": ""
         },
         {
@@ -6456,7 +6425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": ""
         },
         {
@@ -6476,7 +6445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": ""
         },
         {
@@ -6496,7 +6465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": ""
         },
         {
@@ -6516,7 +6485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": ""
         },
         {
@@ -6536,7 +6505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": ""
         },
         {
@@ -6556,7 +6525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "notes": ""
         },
         {
@@ -6576,7 +6545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "notes": ""
         },
         {
@@ -6596,7 +6565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "notes": ""
         },
         {
@@ -6616,7 +6585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "notes": ""
         },
         {
@@ -6636,7 +6605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "330",
+            "position": "329",
             "notes": ""
         },
         {
@@ -6656,7 +6625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "331",
+            "position": "330",
             "notes": ""
         },
         {
@@ -6676,7 +6645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "332",
+            "position": "331",
             "notes": ""
         },
         {
@@ -6696,7 +6665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "333",
+            "position": "332",
             "notes": ""
         },
         {
@@ -6716,7 +6685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "334",
+            "position": "333",
             "notes": ""
         },
         {
@@ -6736,7 +6705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "335",
+            "position": "334",
             "notes": ""
         },
         {
@@ -6756,7 +6725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "336",
+            "position": "335",
             "notes": ""
         },
         {
@@ -6776,7 +6745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "337",
+            "position": "336",
             "notes": ""
         },
         {
@@ -6796,7 +6765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "338",
+            "position": "337",
             "notes": ""
         },
         {
@@ -6816,7 +6785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "339",
+            "position": "338",
             "notes": ""
         },
         {
@@ -6836,7 +6805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "340",
+            "position": "339",
             "notes": "[archetype:combat-efficiency]"
         },
         {
@@ -6856,7 +6825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "341",
+            "position": "340",
             "notes": ""
         },
         {
@@ -6876,7 +6845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "342",
+            "position": "341",
             "notes": ""
         },
         {
@@ -6896,7 +6865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "343",
+            "position": "342",
             "notes": ""
         },
         {
@@ -6916,7 +6885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "344",
+            "position": "343",
             "notes": ""
         },
         {
@@ -6936,7 +6905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "345",
+            "position": "344",
             "notes": ""
         },
         {
@@ -6956,7 +6925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "346",
+            "position": "345",
             "notes": ""
         },
         {
@@ -6976,7 +6945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "347",
+            "position": "346",
             "notes": ""
         },
         {
@@ -6996,7 +6965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "348",
+            "position": "347",
             "notes": ""
         },
         {
@@ -7016,7 +6985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "349",
+            "position": "348",
             "notes": ""
         },
         {
@@ -7036,7 +7005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "350",
+            "position": "349",
             "notes": ""
         },
         {
@@ -7056,7 +7025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "351",
+            "position": "350",
             "notes": ""
         },
         {
@@ -7076,7 +7045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "352",
+            "position": "351",
             "notes": ""
         },
         {
@@ -7096,7 +7065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "353",
+            "position": "352",
             "notes": ""
         },
         {
@@ -7116,7 +7085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "354",
+            "position": "353",
             "notes": ""
         },
         {
@@ -7136,7 +7105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "355",
+            "position": "354",
             "notes": ""
         },
         {
@@ -7156,7 +7125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "356",
+            "position": "355",
             "notes": ""
         },
         {
@@ -7176,7 +7145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "357",
+            "position": "356",
             "notes": ""
         },
         {
@@ -7196,7 +7165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "358",
+            "position": "357",
             "notes": ""
         },
         {
@@ -7216,7 +7185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "359",
+            "position": "358",
             "notes": ""
         },
         {
@@ -7236,7 +7205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "360",
+            "position": "359",
             "notes": ""
         },
         {
@@ -7256,7 +7225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "361",
+            "position": "360",
             "notes": ""
         },
         {
@@ -7276,7 +7245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "362",
+            "position": "361",
             "notes": ""
         },
         {
@@ -7296,7 +7265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "363",
+            "position": "362",
             "notes": ""
         },
         {
@@ -7316,7 +7285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "364",
+            "position": "363",
             "notes": ""
         },
         {
@@ -7336,7 +7305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "365",
+            "position": "364",
             "notes": ""
         },
         {
@@ -7356,7 +7325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "366",
+            "position": "365",
             "notes": ""
         },
         {
@@ -7376,7 +7345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "367",
+            "position": "366",
             "notes": ""
         },
         {
@@ -7396,7 +7365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "368",
+            "position": "367",
             "notes": ""
         },
         {
@@ -7416,7 +7385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "369",
+            "position": "368",
             "notes": ""
         },
         {
@@ -7427,7 +7396,7 @@
             "number": 200,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.\nCounter target creature spell. Its controller discards a card.",
+            "rules_text": "You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.\nChange the text of target instant or sorcery spell to \u201cDiscard a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7436,7 +7405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "370",
+            "position": "369",
             "notes": ""
         },
         {
@@ -7456,7 +7425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "371",
+            "position": "370",
             "notes": ""
         },
         {
@@ -7476,7 +7445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "372",
+            "position": "371",
             "notes": ""
         },
         {
@@ -7496,7 +7465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "373",
+            "position": "372",
             "notes": ""
         },
         {
@@ -7516,7 +7485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "374",
+            "position": "373",
             "notes": ""
         },
         {
@@ -7536,7 +7505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "375",
+            "position": "374",
             "notes": ""
         },
         {
@@ -7556,7 +7525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "376",
+            "position": "375",
             "notes": ""
         },
         {
@@ -7576,7 +7545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "377",
+            "position": "376",
             "notes": ""
         },
         {
@@ -7596,7 +7565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "378",
+            "position": "377",
             "notes": "[archetype:toughness-tribal]"
         },
         {
@@ -7616,7 +7585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "379",
+            "position": "378",
             "notes": ""
         },
         {
@@ -7636,7 +7605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "380",
+            "position": "379",
             "notes": ""
         },
         {
@@ -7656,7 +7625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "381",
+            "position": "380",
             "notes": ""
         },
         {
@@ -7676,7 +7645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "382",
+            "position": "381",
             "notes": ""
         },
         {
@@ -7696,7 +7665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "383",
+            "position": "382",
             "notes": ""
         },
         {
@@ -7716,7 +7685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "384",
+            "position": "383",
             "notes": ""
         },
         {
@@ -7736,7 +7705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "385",
+            "position": "384",
             "notes": ""
         },
         {
@@ -7756,7 +7725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "386",
+            "position": "385",
             "notes": ""
         },
         {
@@ -7776,7 +7745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "387",
+            "position": "386",
             "notes": ""
         },
         {
@@ -7796,7 +7765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "388",
+            "position": "387",
             "notes": ""
         },
         {
@@ -7816,7 +7785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "389",
+            "position": "388",
             "notes": ""
         },
         {
@@ -7836,7 +7805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "390",
+            "position": "389",
             "notes": ""
         },
         {
@@ -7856,7 +7825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "391",
+            "position": "390",
             "notes": ""
         },
         {
@@ -7876,7 +7845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "392",
+            "position": "391",
             "notes": ""
         },
         {
@@ -7896,7 +7865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "393",
+            "position": "392",
             "notes": ""
         },
         {
@@ -7916,7 +7885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "394",
+            "position": "393",
             "notes": ""
         },
         {
@@ -7936,7 +7905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "395",
+            "position": "394",
             "notes": ""
         },
         {
@@ -7956,7 +7925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "396",
+            "position": "395",
             "notes": ""
         },
         {
@@ -7976,7 +7945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "397",
+            "position": "396",
             "notes": ""
         },
         {
@@ -7996,7 +7965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "398",
+            "position": "397",
             "notes": ""
         },
         {
@@ -8016,7 +7985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "399",
+            "position": "398",
             "notes": ""
         },
         {
@@ -8036,7 +8005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "400",
+            "position": "399",
             "notes": ""
         },
         {
@@ -8048,7 +8017,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen Eyearmor enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{3}{U}: Create a token copy of this creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]This warrior transforms into various creatures to confuse enemies in battle.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -8056,7 +8025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "401",
+            "position": "400",
             "notes": ""
         },
         {
@@ -8076,7 +8045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "402",
+            "position": "401",
             "notes": ""
         },
         {
@@ -8096,7 +8065,38 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
+            "position": "402",
+            "notes": ""
+        },
+        {
+            "card_name": "Dark Necrofear",
+            "color": "UB",
+            "rarity": "rare",
+            "type": "Creature \u2014 Horror",
+            "number": 201,
+            "color_identity": "UB",
+            "cost": "{6}{U}{B}",
+            "rules_text": "You may pay {U}{U}{B}{B} and exile a blue and a black card from your graveyard rather than pay this spell's mana cost.\nWhenenever Dark Necrofear enters or attacks each opponent returns a creature they control to its owner's hand, then discards a card. \nDisturb {3}{U}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "5/7",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
             "position": "403",
+            "card_name2": "Dark Embrace",
+            "color2": "UB",
+            "type2": "Enchantment \u2014 Aura",
+            "cost2": "",
+            "rules_text2": "Enchant creature\nYou control enchanted creature.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias2": "",
             "notes": ""
         }
     ]
