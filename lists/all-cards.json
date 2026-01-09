@@ -885,7 +885,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 294,
+            "number": 295,
             "color_identity": "UB",
             "cost": "{UB}",
             "rules_text": "When you discard a card, you may pay {1}{B}. If you do, set it.\n{1}{U}: Exile any number of creatures you control in a face-down pile, shuffle that pile, then set them. Activate only as a sorcery. [i](To set a card, put it onto the battlefield face down as a 2/2 creature with defender. Turn it face up any time for its mana cost if it's a creature card.)[/i]",
@@ -1435,7 +1435,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Plant Beast",
-            "number": 274,
+            "number": 275,
             "color_identity": "BG",
             "cost": "{3}{BG}{BG}",
             "rules_text": "Fusion {1}{BG}{BG} \u2013 A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nMenace, wither [i](This creature can't be blocked except by two or more creatures. This deals damage to creatures in the form of -1/-1 counters.)[/i]",
@@ -1633,7 +1633,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Creature \u2013 Plant",
-            "number": 298,
+            "number": 299,
             "color_identity": "BG",
             "cost": "{4}{BG}",
             "rules_text": "Defender, persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]",
@@ -1677,7 +1677,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Creature \u2013 Plant",
-            "number": 287,
+            "number": 288,
             "color_identity": "BG",
             "cost": "{BG}",
             "rules_text": "When Necro Fleur dies, you may search your library for a Plant creature card and put it into your graveyard, then shuffle.\nDivide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -1702,7 +1702,7 @@
             "number": 104,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Lifelink\nWhenever a Plant you control dies, you may return Revival Rose from your graveyard to the battlefield.\nSwampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Lifelink\nWhenever a Plant you control dies, you may return Revival Rose from your graveyard to the battlefield tapped.\nSwampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1831,7 +1831,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Creature \u2013 Plant Noble",
-            "number": 292,
+            "number": 293,
             "color_identity": "RG",
             "cost": "{4}{RG}",
             "rules_text": "{T}: Add {R}{G}.",
@@ -2073,7 +2073,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature \u2013 Dragon",
-            "number": 299,
+            "number": 300,
             "color_identity": "UR",
             "cost": "{UR}{UR}{UR}{UR}",
             "rules_text": "Flying\n{U}{U}: Target creature you control gains flying until end of turn.\n{R}{R}: Target creature you control gets +2/+0 until end of turn.",
@@ -2095,7 +2095,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Creature \u2013 Dragon",
-            "number": 289,
+            "number": 290,
             "color_identity": "UR",
             "cost": "{UR}",
             "rules_text": "Flying\nWhenever a creature you control attacks alone you may pay {R}. If you do, Petit Dragon deals 1 damage to target player.",
@@ -2183,7 +2183,7 @@
             "color": "WR",
             "rarity": "common",
             "type": "Creature \u2013 Dragon",
-            "number": 296,
+            "number": 297,
             "color_identity": "WR",
             "cost": "{4}{RW}",
             "rules_text": "Flying\nWhen Solar Flare Dragon enters, it deals 3 damage to target tapped creature.",
@@ -2469,7 +2469,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2013 Demon",
-            "number": 288,
+            "number": 289,
             "color_identity": "WB",
             "cost": "{4}{WB}",
             "rules_text": "Flying\n{2}: Choose a card in an opponents hand or a face-down card they control. That player reveals that card.",
@@ -2601,7 +2601,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2013 Angel",
-            "number": 282,
+            "number": 283,
             "color_identity": "WB",
             "cost": "{WB}",
             "rules_text": "Flying\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -2645,7 +2645,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Angel",
-            "number": 283,
+            "number": 284,
             "color_identity": "WB",
             "cost": "{2}{WB}{WB}{WB}",
             "rules_text": "Fusion {WB}{WB}{WB} \u2013 Three Angels [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nFlying\nWhen Mokey Mokey King enters or dies, create four 1/1 black and white Angel creature tokens with flying named Mokey Mokey.",
@@ -3316,7 +3316,7 @@
             "color": "WU",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Golem",
-            "number": 291,
+            "number": 292,
             "color_identity": "WU",
             "cost": "{WU}",
             "rules_text": "Defender\nExhaust \u2013 {2}{W}, {T}: Return target attacking creature to its owner's hand.",
@@ -3382,7 +3382,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Creature \u2013 Demon Warlock",
-            "number": 293,
+            "number": 294,
             "color_identity": "BR",
             "cost": "{BR}",
             "rules_text": "Menace\nExhaust \u2013 {1}{BR}: Target creature can't block this turn. [i](Activate each exhaust ability only once.)[/i]",
@@ -3620,33 +3620,11 @@
             "v_mana": ""
         },
         {
-            "card_name": "Volcanic Rat",
-            "color": "WR",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Beast",
-            "number": 39,
-            "color_identity": "WR",
-            "cost": "{RW}",
-            "rules_text": "Haste\n[i](This token's mana cost is {RW}.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "164",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
             "card_name": "Slime Toad",
             "color": "UG",
             "rarity": "common",
             "type": "Creature \u2013 Ooze",
-            "number": 295,
+            "number": 296,
             "color_identity": "UG",
             "cost": "{GU}",
             "rules_text": "Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -3658,7 +3636,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3668,7 +3646,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Creature \u2013 Fish",
-            "number": 281,
+            "number": 282,
             "color_identity": "UG",
             "cost": "{4}{GU}",
             "rules_text": "Graft 4 [i](This creature enters with four +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nReach [i](This creature can block creatures with flying.)[/i]",
@@ -3680,7 +3658,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3702,7 +3680,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3724,7 +3702,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3746,7 +3724,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3768,7 +3746,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3790,7 +3768,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3812,7 +3790,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": "This guy has received a lot of iteration. It's super iconic and familiar to me as one of the 1800-atk normal monsters from yugioh. I decided to make him into a filter fish here. The ward was suggested by a friend who pointed out \"bolting the bird\".\n\nThe exact mana counts for his ability have gone through several iterations.",
             "image_type": "jpg",
             "v_mana": ""
@@ -3834,7 +3812,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3856,7 +3834,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3878,7 +3856,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": "Bradley",
             "image_type": "jpg",
             "v_mana": ""
@@ -3900,7 +3878,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3922,7 +3900,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3944,7 +3922,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -3966,7 +3944,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": "[archetype:toughness-tribal] [archetype:combat-efficiency]",
             "image_type": "jpg",
             "v_mana": ""
@@ -3988,7 +3966,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "Plainscycling common. This card is really useful if you play it, so cycling it will feel like a bit of a loss (it can be used in any fusion cost, or played for a lot of topdeck control). I like this because it makes the trade-off feel meaningful. Her stats are garbage though, which makes sense for a card that has this much utility in common.",
             "image_type": "jpg",
             "v_mana": ""
@@ -4001,7 +3979,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "{1}{W}, {T}: Create a 1/1 white Warrior creature token.",
+            "rules_text": "{1}{W}, {T}: Create a 1/1 white Warrior creature token.\nMadness {W}{W} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i]While the king is away, this queen protects his throne with a mighty defense.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4010,7 +3988,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "[archetype:go-wide-tokens]\n[archetype:token-sacrifice]",
             "image_type": "jpg",
             "v_mana": ""
@@ -4032,7 +4010,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "[archetype:go-wide-tokens]",
             "image_type": "jpg",
             "v_mana": ""
@@ -4054,7 +4032,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4076,7 +4054,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": "[archetype:toughness-tribal]",
             "image_type": "jpg",
             "v_mana": ""
@@ -4098,7 +4076,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4120,7 +4098,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "A really strong combat trick for white, a great way to ensure a trade goes well. Getting the reduced cost can be difficult, which is intentional because of its power level.",
             "image_type": "jpg",
             "v_mana": ""
@@ -4142,7 +4120,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4164,7 +4142,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4186,7 +4164,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4208,7 +4186,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4230,7 +4208,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4252,7 +4230,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4274,7 +4252,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4296,7 +4274,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4318,7 +4296,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4340,7 +4318,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4362,7 +4340,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4384,7 +4362,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4406,7 +4384,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4428,7 +4406,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4450,7 +4428,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4472,7 +4450,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4494,7 +4472,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4516,7 +4494,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4538,7 +4516,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4560,7 +4538,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4582,7 +4560,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4604,7 +4582,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4626,7 +4604,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4648,7 +4626,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4670,7 +4648,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4692,7 +4670,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4714,7 +4692,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4736,7 +4714,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4758,7 +4736,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4780,7 +4758,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4802,7 +4780,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4824,7 +4802,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4846,7 +4824,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4868,7 +4846,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4890,7 +4868,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4912,7 +4890,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4934,7 +4912,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4956,7 +4934,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -4978,7 +4956,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5000,7 +4978,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5013,7 +4991,7 @@
             "number": 211,
             "color_identity": "UR",
             "cost": "{5}{U}{R}",
-            "rules_text": "Emerge from Elemental or Dragon {5}{UR}\nFlying, double strike\nWhen Frost and Flame Dragon attacks, tap up to one target creature an opponent controls and put a stun counter on it. Then Frost and Flame Dragon deals 5 damage to up to one other target creature an opponent controls.",
+            "rules_text": "Emerge from Elemental or Dragon {5}{UR}\nFlying, double strike\nWhen Frost and Flame Dragon attacks, tap up to one target creature and put a stun counter on it. Then Frost and Flame Dragon deals 5 damage to up to one other target creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -5022,7 +5000,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5035,7 +5013,7 @@
             "number": 197,
             "color_identity": "WR",
             "cost": "{4}{R}{R}{W}{W}",
-            "rules_text": "The Creator enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]\nWhenever you attack, you may discard a card. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.\nMadness {1}{R}{R}{W}{W}",
+            "rules_text": "The Creator enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]\nWhenever you attack, you may discard a card. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.\nMadness {RW}{RW}{RW}{RW}{RW}",
             "flavor_text": "[i][/i]",
             "pt": "6/8",
             "special_text": "",
@@ -5044,7 +5022,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5066,7 +5044,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5076,7 +5054,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 275,
+            "number": 276,
             "color_identity": "WG",
             "cost": "{1}{GW}",
             "rules_text": "Gift of the Mystical Elf enters tapped.\n{T}: Add {G} or {W}.\n{1}{G}{W}, {T}, Sacrifice Gift of the Mystical Elf: Gain 1 life for each creature you control.",
@@ -5088,7 +5066,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5098,7 +5076,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Artifact",
-            "number": 279,
+            "number": 280,
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "Jar of Greed enters tapped.\n{T}: Add {U} or {R}.\n{U}{R}, {T}, Sacrifice Jar of Greed: Draw a card.",
@@ -5110,7 +5088,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5132,7 +5110,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5154,7 +5132,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5164,7 +5142,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 278,
+            "number": 279,
             "color_identity": "UG",
             "cost": "{1}{GU}",
             "rules_text": "Jam Breeding Machine enters tapped.\n{T}: Add {G} or {U}.\n{3}{G}{U}, {T}, Sacrifice Jam Breeding Machine: Create three 0/1 green and blue Shapeshifter creature tokens with changeling. [i](It's every creature type)[/i]",
@@ -5176,7 +5154,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5198,7 +5176,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5220,7 +5198,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5242,7 +5220,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5264,7 +5242,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5286,7 +5264,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5308,7 +5286,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5330,7 +5308,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5352,7 +5330,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5374,7 +5352,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5396,7 +5374,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5418,7 +5396,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5440,7 +5418,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5462,7 +5440,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5484,7 +5462,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5506,7 +5484,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5528,7 +5506,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5550,7 +5528,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5560,7 +5538,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 285,
+            "number": 286,
             "color_identity": "UB",
             "cost": "{1}{UB}",
             "rules_text": "Destroy target creature an opponent controls. Then, that player gains control of target creature you control.\nFlashback {2}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -5572,7 +5550,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5594,7 +5572,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5616,7 +5594,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5638,7 +5616,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5660,7 +5638,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5673,7 +5651,7 @@
             "number": 210,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "Defense position {RW} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWhenever Fire Princess is turned face up or you gain life, Fire Princess deals 2 damage to any target. This ability only triggers once each turn.",
+            "rules_text": "Defense position {RW} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nLifelink\nWhenever Fire Princess is turned face up or you discard a card, Fire Princess deals 2 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5682,7 +5660,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5704,7 +5682,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5726,7 +5704,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5748,7 +5726,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5770,7 +5748,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5792,7 +5770,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5814,7 +5792,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5836,7 +5814,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5858,7 +5836,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5880,7 +5858,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5890,7 +5868,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 276,
+            "number": 277,
             "color_identity": "BG",
             "cost": "{1}{BG}{BG}",
             "rules_text": "Target creature you control gains Divide {0} until end of turn. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]\nFlashback {3}{B}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -5902,7 +5880,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5924,7 +5902,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5934,7 +5912,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 284,
+            "number": 285,
             "color_identity": "WG",
             "cost": "{1}{GW}{GW}",
             "rules_text": "For each token you control, create a copy of that token.\nYou cannot sacrifice creatures to pay costs until your next turn.\nFlashback {2}{G}{G}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -5946,7 +5924,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5968,7 +5946,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -5990,7 +5968,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6012,7 +5990,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6034,7 +6012,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6056,7 +6034,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6078,7 +6056,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6100,7 +6078,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6122,7 +6100,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": "This card can be played for its discounted cost when a player reanimates a creature, when they emerge a creature, or when they cast a creature for another alternative cost. It's especially good against token decks that do one of these things and then flood the board in the same turn, but can also be effective against aggro decks.\n\nStrong when playing control.",
             "image_type": "jpg",
             "v_mana": ""
@@ -6144,7 +6122,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Exclude",
-            "position": "278",
+            "position": "277",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6166,7 +6144,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Cabal Therapy",
-            "position": "279",
+            "position": "278",
             "notes": "This is a dimir staple.",
             "image_type": "jpg",
             "v_mana": ""
@@ -6188,7 +6166,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6210,7 +6188,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6232,7 +6210,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6254,7 +6232,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6276,7 +6254,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6298,7 +6276,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Heraldic Banner",
-            "position": "285",
+            "position": "284",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6320,7 +6298,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6342,7 +6320,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6364,7 +6342,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6386,7 +6364,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6408,7 +6386,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6430,7 +6408,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6443,7 +6421,7 @@
             "number": 220,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "If a creature you control died this turn after being dealt damage by a source controlled by an opponent, you may pay {BR}{BR} rather than pay this spell's mana cost.\nReturn target creature from your graveyard to the battlefield. Target opponent may pay 2 life. If they do, they may copy this spell and choose a new target for the copy.",
+            "rules_text": "If a creature you control died this turn after being dealt damage by a source controlled by an opponent, you may pay {B}{R} rather than pay this spell's mana cost.\nReturn target creature from your graveyard to the battlefield. Target opponent may pay 2 life. If they do, they may copy this spell and choose a new target for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6452,7 +6430,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6474,7 +6452,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Slagwurm Armor",
-            "position": "293",
+            "position": "292",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6496,7 +6474,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6518,7 +6496,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6540,7 +6518,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6562,7 +6540,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6584,7 +6562,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6606,7 +6584,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6616,7 +6594,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 297,
+            "number": 298,
             "color_identity": "WB",
             "cost": "{3}{WB}{WB}",
             "rules_text": "Destroy all creatures. You gain 2 life for each token destroyed this way.",
@@ -6628,7 +6606,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6650,7 +6628,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6672,7 +6650,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6694,7 +6672,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6716,7 +6694,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6738,7 +6716,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6760,7 +6738,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6782,7 +6760,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6804,7 +6782,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6826,7 +6804,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6848,7 +6826,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6870,7 +6848,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6892,7 +6870,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6914,7 +6892,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6936,7 +6914,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6958,7 +6936,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -6968,7 +6946,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2013 Angel",
-            "number": 36,
+            "number": 37,
             "color_identity": "WB",
             "cost": "{WB}",
             "rules_text": "Flying\n[i](This token's mana cost is {WB}.)[/i]",
@@ -6980,7 +6958,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7002,7 +6980,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7024,7 +7002,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7046,7 +7024,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7068,7 +7046,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7090,7 +7068,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7112,7 +7090,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7134,7 +7112,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7156,7 +7134,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7178,7 +7156,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7200,7 +7178,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7222,7 +7200,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7244,7 +7222,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7254,7 +7232,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2013 Plant",
-            "number": 37,
+            "number": 38,
             "color_identity": "BG",
             "cost": "{BG}",
             "rules_text": "When Necro Fleur dies, you may search your library for a plant creature card and put it into your graveyard, then shuffle.\n[i](This token's mana cost is {BG}.)[/i]",
@@ -7266,7 +7244,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7276,7 +7254,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Token Creature \u2013 Ooze",
-            "number": 38,
+            "number": 39,
             "color_identity": "UG",
             "cost": "{GU}",
             "rules_text": "Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\n[i](This token's mana cost is {GU}.)[/i]",
@@ -7288,29 +7266,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "330",
-            "notes": "",
-            "image_type": "jpg",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Volcanic Rat",
-            "color": "WR",
-            "rarity": "common",
-            "type": "Creature \u2013 Beast",
-            "number": 300,
-            "color_identity": "WR",
-            "cost": "{RW}",
-            "rules_text": "{2}: Volcanic Rat gets +0/+2 until end of turn.\nDivide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
-            "flavor_text": "[i]This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "331",
+            "position": "329",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7332,7 +7288,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "332",
+            "position": "330",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7354,7 +7310,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "333",
+            "position": "331",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7376,7 +7332,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "334",
+            "position": "332",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7398,7 +7354,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "335",
+            "position": "333",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7420,7 +7376,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "336",
+            "position": "334",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7442,7 +7398,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "337",
+            "position": "335",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7464,7 +7420,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "338",
+            "position": "336",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7486,7 +7442,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "339",
+            "position": "337",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7508,7 +7464,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "340",
+            "position": "338",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7530,7 +7486,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "341",
+            "position": "339",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7552,7 +7508,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "342",
+            "position": "340",
             "notes": "[archetype:combat-efficiency]",
             "image_type": "jpg",
             "v_mana": ""
@@ -7574,7 +7530,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "343",
+            "position": "341",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7596,7 +7552,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "344",
+            "position": "342",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7618,7 +7574,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "345",
+            "position": "343",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7640,7 +7596,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "346",
+            "position": "344",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7662,7 +7618,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "347",
+            "position": "345",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7684,7 +7640,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "348",
+            "position": "346",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7706,7 +7662,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "349",
+            "position": "347",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7728,7 +7684,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "350",
+            "position": "348",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7750,7 +7706,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "351",
+            "position": "349",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7772,7 +7728,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "352",
+            "position": "350",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7794,7 +7750,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "353",
+            "position": "351",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7816,7 +7772,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "354",
+            "position": "352",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7838,7 +7794,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "355",
+            "position": "353",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7848,7 +7804,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 280,
+            "number": 281,
             "color_identity": "BG",
             "cost": "{1}{BG}",
             "rules_text": "Mask of Weakness enters tapped.\n{T}: Add {B} or {G}.\n{2}{B}{G}, {T}, Sacrifice Mask of Weakness: Put a -1/-1 counter on each of up to two target creatures.",
@@ -7860,7 +7816,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "356",
+            "position": "354",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7870,7 +7826,7 @@
             "color": "WU",
             "rarity": "common",
             "type": "Artifact",
-            "number": 290,
+            "number": 291,
             "color_identity": "WU",
             "cost": "{1}{WU}",
             "rules_text": "Pharaoh's Treasure enters tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}, {T}, Sacrifice Pharaoh's Treasure: Return target instant or sorcery from your graveyard to your hand.",
@@ -7882,7 +7838,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "357",
+            "position": "355",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7904,7 +7860,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "358",
+            "position": "356",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7914,7 +7870,7 @@
             "color": "WR",
             "rarity": "common",
             "type": "Artifact",
-            "number": 286,
+            "number": 287,
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Mystik Wok enters tapped.\n{T}: Add {W} or {R}.\n{1}{R}{W}, {T}, Sacrifice Mystik Wok: Mystik Wok deals 2 damage to target player and you gain 2 life.",
@@ -7926,7 +7882,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "359",
+            "position": "357",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7948,7 +7904,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "360",
+            "position": "358",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7958,7 +7914,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 277,
+            "number": 278,
             "color_identity": "WG",
             "cost": "{4}{GW}",
             "rules_text": "Vigilance\nWhenever Hercules Beetle deals combat damage to a player, destroy target artifact or enchantment an opponent controls.",
@@ -7970,7 +7926,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "361",
+            "position": "359",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -7992,7 +7948,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "362",
+            "position": "360",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8014,7 +7970,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "363",
+            "position": "361",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8036,7 +7992,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "364",
+            "position": "362",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8058,7 +8014,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "365",
+            "position": "363",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8080,7 +8036,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "366",
+            "position": "364",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8102,7 +8058,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "367",
+            "position": "365",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8124,7 +8080,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "368",
+            "position": "366",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8146,7 +8102,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "369",
+            "position": "367",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8168,7 +8124,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "370",
+            "position": "368",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8190,7 +8146,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "371",
+            "position": "369",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8212,7 +8168,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "372",
+            "position": "370",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8234,7 +8190,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "373",
+            "position": "371",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8256,7 +8212,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "374",
+            "position": "372",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8278,7 +8234,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "375",
+            "position": "373",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8300,7 +8256,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "376",
+            "position": "374",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8322,7 +8278,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "377",
+            "position": "375",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8344,7 +8300,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "378",
+            "position": "376",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8366,7 +8322,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "379",
+            "position": "377",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8388,7 +8344,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "380",
+            "position": "378",
             "notes": "[archetype:toughness-tribal]",
             "image_type": "jpg",
             "v_mana": ""
@@ -8410,7 +8366,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "381",
+            "position": "379",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8432,7 +8388,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "382",
+            "position": "380",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8454,7 +8410,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "383",
+            "position": "381",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8476,7 +8432,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "384",
+            "position": "382",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8498,7 +8454,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "385",
+            "position": "383",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8520,7 +8476,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "386",
+            "position": "384",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8542,7 +8498,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "387",
+            "position": "385",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8564,7 +8520,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "388",
+            "position": "386",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8586,7 +8542,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "389",
+            "position": "387",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8608,7 +8564,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "390",
+            "position": "388",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8630,7 +8586,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "391",
+            "position": "389",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8652,7 +8608,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "392",
+            "position": "390",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8674,7 +8630,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "393",
+            "position": "391",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8696,7 +8652,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "394",
+            "position": "392",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8718,7 +8674,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "395",
+            "position": "393",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8740,7 +8696,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "396",
+            "position": "394",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8762,7 +8718,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "397",
+            "position": "395",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8784,7 +8740,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "398",
+            "position": "396",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8806,7 +8762,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "399",
+            "position": "397",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8828,7 +8784,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "400",
+            "position": "398",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8850,29 +8806,29 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "401",
+            "position": "399",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
         },
         {
-            "card_name": "Typhone #2",
+            "card_name": "Tyhone #2",
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2013 Dragon",
             "number": 256,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
-            "rules_text": "Flying, lifelink, first strike\nWhenever you cast a noncreature spell, Typhone #2 deals damage equal to its power to any target.\nMadness {RW}{RW}{RW}{RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "Flying, lifelink, first strike\nWhenever you cast a noncreature spell, Tyhone #2 deals damage equal to its power to any target.\nMadness {RW}{RW}{RW}{RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "YGM",
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "402",
+            "position": "400",
             "notes": "",
             "image_type": "jpg",
             "v_mana": ""
@@ -8885,11 +8841,55 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen Eyearmor enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n{3}{U}: Create a token copy of this creature.",
+            "rules_text": "Changeling [i](This card is every creature type.)[/i]\nWhen Eyearmor enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n{3}{U}: Create a token copy of this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
+            "position": "401",
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Flamvell Poun",
+            "color": "WR",
+            "rarity": "common",
+            "type": "Creature \u2013 Elemental Beast",
+            "number": 274,
+            "color_identity": "WR",
+            "cost": "{RW}",
+            "rules_text": "{2}: Flamvell Poun gets +1/+1 until end of turn.\nDivide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]\nMadness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
+            "position": "402",
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Flamvell Poun",
+            "color": "WR",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Elemental Beast",
+            "number": 36,
+            "color_identity": "WR",
+            "cost": "{RW}",
+            "rules_text": "{2}: This token gets +1/+1 until end of turn.\nMadness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
             "set": "YGM",
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
