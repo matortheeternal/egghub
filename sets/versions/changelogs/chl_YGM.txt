@@ -1,4 +1,373 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Necklace of Command added.
+D.3.S. Frog added.
+
+Deepsea Shark removed.
+Arcane Barrier removed.
+
+Launcher Spider
+rules_text: Defense position {5} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Flash
+Reach
+When Launcher Spider enters you may have it deal damage equal to its power to target creature an opponent controls with flying. => Defense position {5} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Reach
+When Launcher Spider enters or is turned face up you may have it deal damage equal to its power to target creature an opponent controls with flying.
+
+Ameba
+rules_text: Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When an opponent gains control of Ameba, Ameba deals 5 damage to them.
+Divide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When an opponent gains control of Ameba, Ameba deals 5 damage to them.
+Divide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Bubonic Vermin
+rules_text: Defense position {BG} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {BG} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Defense position {BG} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Fox Fire
+type: Creature — Beast => Creature — Elemental Fox
+
+Gogiga Gagagigo
+rules_text: Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}
+Trample, ward {3}
+{4}: Move up to two counters from target creature you control on to Gogiga Gagagigo.
+When Gogiga Gagagigo dies, draw a card for each counter on it. => Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}
+Trample, ward {3}
+{4}: Move up to three counters from target creature you control on to Gogiga Gagagigo.
+When Gogiga Gagagigo dies, draw a card for each counter on it.
+
+Armored Starfish
+rules_text: Graft 2 [i](This creature enters with two +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When a +1/+1 counter is removed from Armored Starfish, scry 1. => Graft 2 [i](This creature enters with two +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+Whenever a +1/+1 counter is removed from Armored Starfish, scry 1.
+
+Burning Spear
+rules_text: Equipped creature has +3/-1.
+When equipped creature dies, add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+{2}: Attach this Equipment to target creature you control. => Equipped creature has “{T}, Unattach Burning Spear: This creature deals 2 damage to any target.”
+Equip {2}
+
+Revival Jam
+rules_text: When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+When Revival Jam dies you may pay 2 life. If you do, return it to the battlefield at the beginning of the next end step. => When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+When Revival Jam is put into your graveyard from the battlefield you may pay 2 life. If you do, return it to the battlefield at the beginning of the next end step.
+
+The World Tree
+
+Goblin's Secret Remedy
+
+Tower of Babel
+
+Ceal, Shooting Star Bow
+
+Giltia the D. Knight
+
+Humanoid Worm Drake
+
+Giant Red Seasnake
+
+Graydle Split
+
+Ancient Lizard Warrior
+
+Multiply
+
+Tricky Spell 4
+
+Lightning Vortex
+
+Final Destiny
+
+Needle Ceiling
+
+Wild Nature's Release
+
+Forced Back
+
+Rain Storm
+
+Time-Space Trap Hole
+
+Royal Surrender
+
+Mind Crush
+
+Dark Cure
+
+Lord Poison
+
+Human-Wave Tactics
+
+Sand Stone
+
+Blaze Accelerator
+
+Banner of Courage
+
+Gyaku-Gire Panda
+
+Twinheaded Beast
+
+Guarded Treasure
+
+Kaiser Glider
+
+Gather Your Mind
+
+A Feather of the Phoenix
+
+The Grave of Enkindling
+
+Raregold Armor
+
+The Tricky
+
+Magic Planter
+
+Dragon's Gunfire
+
+Patrol Robo
+
+Kaiser Colosseum
+
+Time Machine
+
+Token Thanksgiving
+
+Copy
+
+Angel
+
+Warrior
+
+Leogun
+
+Watapon
+
+Change Slime
+
+Dupe Frog
+
+Space Mambo
+
+Evil Thorn
+
+Invader from Another Dimension
+
+Big Koala
+
+Fairy King Truesdale
+
+Nimble Momonga
+
+Plant
+
+Wolf
+
+Mokey Mokey
+
+Ameba
+
+Bubonic Vermin
+
+Giant Germ
+
+Burning Algae
+
+Invasion of Flames
+
+Souls of the Forgotten
+
+Spirit of the Breeze
+
+Abyss Flower
+
+The All-Seeing White Tiger
+
+Anti-Aircraft Flower
+
+The Drdek
+
+Flame Viper
+
+Necro Fleur
+
+Slime Toad
+
+Compass
+
+Slime
+
+Robot
+
+Bat Construct
+
+Steel Scorpion
+
+Phyrexian Germ
+
+Giga-Tech Wolf
+
+Robotic Knight
+
+Ancient Jar
+
+Legendary Sword
+
+Maha Vailo
+
+Sonic Bird
+
+Spear Cretin
+
+Mother Grizzly
+
+Firewing Pegasus
+
+Eternal Rest
+
+Cold Wave
+
+Fairy Meteor Crush
+
+Wingbeat of a Giant Dragon
+
+After the Struggle
+
+Cyber Soldier
+
+Performance of Sword
+
+Commencement Dance
+
+Mask of Weakness
+
+Pharaoh's Treasure
+rules_text: Pharaoh's Treasure enters tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}, {T}, Sacrifice Pharaoh's Treasure: Return target instant or sorcery from your graveyard to your hand. => Pharaoh's Treasure enters tapped.
+{T}: Add {W} or {U}.
+{3}{W}{U}, {T}, Sacrifice Pharaoh's Treasure: Return target instant or sorcery card from your graveyard to your hand.
+
+Horror
+
+Mystik Wok
+
+Bait Doll
+
+Hercules Beetle
+rules_text: Vigilance
+Whenever Hercules Beetle deals combat damage to a player, destroy target artifact or enchantment an opponent controls. => Vigilance
+Whenever Hercules Beetle deals combat damage to an opponent, destroy target artifact or enchantment that player controls.
+
+Token Collector
+
+Monster Reincarnation
+
+Divine Wrath
+
+Dark Core
+
+Hallowed Life Barrier
+
+Cost Down
+
+Return of the Doomed
+
+Beckoning Light
+
+Raigeki Break
+
+Serial Spell
+
+Dark Deal
+rules_text: You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.
+Change the text of target instant or sorcery spell to “Discard a card.” => You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.
+Counter target noncreature spell. Its controller discards a card.
+
+Double Spell
+
+Nobleman of Extermination
+
+Dust Tornado
+
+Sinister Seeds
+
+Smashing Ground
+
+Plant
+
+Illusion
+
+Weapon Change
+
+Rising Energy
+
+Seed Cannon
+
+Empress Mantis
+
+Deal of Phantom
+
+Temple of the Sun
+
+Murmur of the Forest
+
+The Fountain in the Sky
+
+Ebon Sun
+
+Lost Paradise
+
+Sunset Beat
+
+Worm Call
+
+Temple of the Six
+
+The Hidden City
+
+Chaos Zone
+
+Dreamsprite
+
+Mother Grizzly
+
+Illusionist Faceless Mage
+
+Sword
+
+Armory Call
+
+Doma The Angel of Silence
+
+Raging Mad Plants
+
+Tyhone #2
+
+Eyearmor
+
+Flamvell Poun
+rules_text: {2}: Flamvell Poun gets +1/+1 until end of turn.
+Divide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Madness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => {2}: Flamvell Poun gets +1/+1 until end of turn.
+Divide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Flamvell Poun
+rules_text: {2}: This token gets +1/+1 until end of turn.
+Madness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => {2}: This token gets +1/+1 until end of turn.
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Dark Necrofear
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

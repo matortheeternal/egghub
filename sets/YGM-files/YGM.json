@@ -256,7 +256,7 @@
             "number": 320,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "Defense position {5} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nFlash\nReach\nWhen Launcher Spider enters you may have it deal damage equal to its power to target creature an opponent controls with flying.",
+            "rules_text": "Defense position {5} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nReach\nWhen Launcher Spider enters or is turned face up you may have it deal damage equal to its power to target creature an opponent controls with flying.",
             "flavor_text": "[i][/i]",
             "pt": "6/7",
             "special_text": "",
@@ -373,7 +373,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 213,
+            "number": 212,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Enchant nonartifact creature\nEnchanted creature has \u201cCumulative upkeep: Put two -1/-1 counters on this creature.\u201d\nWhen enchanted creature dies, return Germ Infection to the battlefield at the beginning of the next end step.",
@@ -676,7 +676,7 @@
             "number": 185,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhen an opponent gains control of Ameba, Ameba deals 5 damage to them.\nDivide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
+            "rules_text": "Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhen an opponent gains control of Ameba, Ameba deals 5 damage to them.\nDivide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -693,7 +693,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Germ",
-            "number": 214,
+            "number": 213,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "Flash\nWhen Giant Germ dies, Giant Germ deals 2 damage to target creature an opponent controls.\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -713,7 +713,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Sphinx",
-            "number": 221,
+            "number": 220,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
             "rules_text": "Defense position {2}{W}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWhen Guardian Sphinx is turned face-up, return all face-up creatures to their owners' hands.",
@@ -733,7 +733,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2014 Demon Warrior",
-            "number": 227,
+            "number": 226,
             "color_identity": "BR",
             "cost": "{4}{B}{R}",
             "rules_text": "Haste\n{T}, Sacrifice another creature: Judge Man deals damage equal to that creature's mana value to any target.",
@@ -753,7 +753,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2014 Warrior",
-            "number": 257,
+            "number": 256,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
             "rules_text": "Fusion {1}{B}{G} \u2014 Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nVigilance, reach\nWhen Warrior of Tradition attacks, return up to one target creature from your graveyard to your hand.",
@@ -773,7 +773,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 267,
+            "number": 266,
             "color_identity": "BR",
             "cost": "{4}{BR}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or pay 2 life.\nMenace",
@@ -793,7 +793,7 @@
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elemental Warrior",
-            "number": 212,
+            "number": 211,
             "color_identity": "WUG",
             "cost": "{8}{G}{W}{U}",
             "rules_text": "Fusion {2}{G}{W}{U} \u2014 Three Warriors\nFlash\nVigilance, reach\n{2}{W}: Prevent all damage that would be dealt by target creature this turn.\n{3}{G}: Gate Guardian fights target creature.\n{4}{U}: Draw 2 cards.",
@@ -833,7 +833,7 @@
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Artifact Creature \u2014 Golem",
-            "number": 207,
+            "number": 206,
             "color_identity": "WU",
             "cost": "{4}{W}{W}{U}{U}",
             "rules_text": "Emerge from creature with defender {4}{WU}{WU} [i](You may cast this spell by sacrificing a creature with defender and paying the emerge cost reduced by that creature with defender's mana value.)[/i]\nReach, defender, ward {4}\nWhenever a creature with defender enters or is turned face-up, gain life equal to its toughness and draw a card.",
@@ -993,7 +993,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 236,
+            "number": 235,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Whenever an opponent attacks you or targets a permanent you control with a spell or ability, they choose a card in your hand and guess creature, land, or other. Reveal that card. If they guessed right, put a trial counter on Ordeal of a Traveler, otherwise return target creature to its owners hand.\nWhen there are three or more trial counters on Ordeal of a Traveler, sacrifice it",
@@ -1053,7 +1053,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem",
-            "number": 219,
+            "number": 218,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWhen Gonogo enters or is turned face-up, exile another target creature, then set it under its owner's control.",
@@ -1276,7 +1276,7 @@
             "number": 192,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Defense position {BG} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]\nDivide {BG} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
+            "rules_text": "Defense position {BG} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]\nDivide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1313,7 +1313,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Plant Beast",
-            "number": 275,
+            "number": 274,
             "color_identity": "BG",
             "cost": "{3}{BG}{BG}",
             "rules_text": "Fusion {1}{BG}{BG} \u2014 A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nMenace, wither [i](This creature can't be blocked except by two or more creatures. This deals damage to creatures in the form of -1/-1 counters.)[/i]",
@@ -1413,7 +1413,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Beast",
-            "number": 232,
+            "number": 231,
             "color_identity": "RG",
             "cost": "{5}{R}{R}{G}{G}",
             "rules_text": "Fusion {4}{RG}{RG}{RG} \u2014 Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nTrample, reach",
@@ -1513,7 +1513,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Plant Construct",
-            "number": 209,
+            "number": 208,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Flying\nDefense position {1}{U}{B}\nWhen Fiber Jar is flipped face up, each player shuffles their hand and graveyard into their library, mills ten cards, then draws seven cards.",
@@ -1593,7 +1593,7 @@
             "color": "BG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Plant",
-            "number": 216,
+            "number": 215,
             "color_identity": "BG",
             "cost": "{5}{B}{G}",
             "rules_text": "Emerge from Plant or Insect {5}{BG}\nPersist, reach\nWhile Gigaplant has a counter on it, during each of your turns, you may cast an insect and a plant card from your graveyard without paying their mana costs.",
@@ -1633,7 +1633,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Creature \u2014 Plant",
-            "number": 262,
+            "number": 261,
             "color_identity": "WG",
             "cost": "{GW}",
             "rules_text": "Reach, defender\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -1693,7 +1693,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Faerie",
-            "number": 205,
+            "number": 204,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Flying\nWhenever one or more +1/+1 counters are put on Dreamsprite, you may create a 1/1 green Plant creature token.\nDivide {1}{GU} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -1733,7 +1733,7 @@
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Bird God",
-            "number": 247,
+            "number": 246,
             "color_identity": "WG",
             "cost": "{5}{G}{W}",
             "rules_text": "Emerge from creature with flying {4}{GW}{GW} [i](You may cast this spell by sacrificing a creature with flying and paying the emerge cost reduced by that creature with flying's mana value.)[/i]\nFlying, first strike, lifelink\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.",
@@ -2013,7 +2013,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Demon",
-            "number": 226,
+            "number": 225,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Ward\u2014Sacrifice a creature\nWhenever a creature dies, Invasion of Flames deals 1 damage to that creature's controller.\nDivide {4} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -2032,7 +2032,7 @@
             "card_name": "Fox Fire",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2014 Elemental Fox",
             "number": 127,
             "color_identity": "R",
             "cost": "{R}",
@@ -2053,7 +2053,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature \u2014 Faerie",
-            "number": 239,
+            "number": 238,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Flying, riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]\nWhenever Raging Flame Sprite deals combat damage to a player, put a +1/+1 counter on it.\nWhen Raging Flame Sprite dies, it deals damage to any target equal to its power.",
@@ -2133,7 +2133,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Angel Cleric",
-            "number": 251,
+            "number": 250,
             "color_identity": "WB",
             "cost": "{5}{W}{B}",
             "rules_text": "Fusion {3}{W}{B} \u2014 A Cleric and an Angel [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nLifelink\nExhaust \u2014 Pay X life: Return target creature card with mana value X from your graveyard to the battlefield.",
@@ -2273,7 +2273,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Elf Shaman",
-            "number": 223,
+            "number": 222,
             "color_identity": "WG",
             "cost": "{4}{G}{W}",
             "rules_text": "Emerge {4}{GW} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nCreatures you control with mana value 3 or less get +1/+1 and have \u201c{T}: Add {G} or {W}.\u201d",
@@ -2373,7 +2373,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2014 Angel",
-            "number": 283,
+            "number": 282,
             "color_identity": "WB",
             "cost": "{WB}",
             "rules_text": "Flying\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -2413,7 +2413,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Angel",
-            "number": 284,
+            "number": 283,
             "color_identity": "WB",
             "cost": "{2}{WB}{WB}{WB}",
             "rules_text": "Fusion {WB}{WB}{WB} \u2014 Three Angels [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nFlying\nWhen Mokey Mokey King enters or dies, create four 1/1 black and white Angel creature tokens with flying named Mokey Mokey.",
@@ -2453,7 +2453,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Plant Cleric",
-            "number": 206,
+            "number": 205,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
             "rules_text": "Flash\nRiot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]\nThe next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco, Mystical Spirit of the Forest deals damage equal to the damage prevented this way to the source's controller.",
@@ -2573,7 +2573,7 @@
             "color": "UBG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demon Beast",
-            "number": 231,
+            "number": 230,
             "color_identity": "UBG",
             "cost": "{5}{B}{G}{U}",
             "rules_text": "Trample\nDeathtouch\nWard\u2014Sacrifice two creatures. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices two creatures.)[/i]",
@@ -2653,7 +2653,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2014 Elf Warlock",
-            "number": 268,
+            "number": 267,
             "color_identity": "BR",
             "cost": "{BR}{BR}",
             "rules_text": "When Dark Elf attacks, you lose 2 life.",
@@ -2693,7 +2693,7 @@
             "color": "UB",
             "rarity": "common",
             "type": "Creature \u2014 Horror",
-            "number": 271,
+            "number": 270,
             "color_identity": "UB",
             "cost": "{UB}",
             "rules_text": "When The Drdek dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -2853,7 +2853,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Creature \u2014 Fish Beast",
-            "number": 261,
+            "number": 260,
             "color_identity": "UR",
             "cost": "{4}{UR}",
             "rules_text": "Flash\nWhen Amphibian Beast attacks, you may discard a card. If you do, draw a card.",
@@ -2933,7 +2933,7 @@
             "color": "UBR",
             "rarity": "rare",
             "type": "Creature \u2014 Spirit",
-            "number": 238,
+            "number": 237,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
             "rules_text": "Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]\n{U}{B}{R}, {T}, Sacrifice Possessed Dark Soul: Gain control of all creatures target opponent controls with mana value 2 or less.",
@@ -3013,7 +3013,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Creature \u2014 Beast",
-            "number": 273,
+            "number": 272,
             "color_identity": "RG",
             "cost": "{RG}",
             "rules_text": "Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]\nDivide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -3293,7 +3293,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Creature \u2014 Fish",
-            "number": 282,
+            "number": 281,
             "color_identity": "UG",
             "cost": "{4}{GU}",
             "rules_text": "Graft 4 [i](This creature enters with four +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nReach [i](This creature can block creatures with flying.)[/i]",
@@ -3313,10 +3313,10 @@
             "color": "UG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Lizard Leviathan",
-            "number": 218,
+            "number": 217,
             "color_identity": "UG",
             "cost": "{4}{G}{G}{U}{U}",
-            "rules_text": "Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}\nTrample, ward {3}\n{4}: Move up to two counters from target creature you control on to Gogiga Gagagigo.\nWhen Gogiga Gagagigo dies, draw a card for each counter on it.",
+            "rules_text": "Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}\nTrample, ward {3}\n{4}: Move up to three counters from target creature you control on to Gogiga Gagagigo.\nWhen Gogiga Gagagigo dies, draw a card for each counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -3513,10 +3513,10 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Starfish",
-            "number": 264,
+            "number": 262,
             "color_identity": "UG",
             "cost": "{1}{GU}",
-            "rules_text": "Graft 2 [i](This creature enters with two +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhen a +1/+1 counter is removed from Armored Starfish, scry 1.",
+            "rules_text": "Graft 2 [i](This creature enters with two +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhenever a +1/+1 counter is removed from Armored Starfish, scry 1.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -3633,7 +3633,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 242,
+            "number": 241,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nRock Bombardment deals damage equal to the sacrificed creature's toughness to any target.\nMadness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
@@ -3673,7 +3673,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 246,
+            "number": 245,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Until end of turn, creatures assign combat damage equal to their toughness rather than their power. Creatures with defender you control may attack this turn as though they didn't have defender.\nFlashback {3}{WU} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -3893,7 +3893,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Knight",
-            "number": 245,
+            "number": 244,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Haste\nAt the beginning of combat on your turn, choose an opponent. That player may discard a card to tap Shadowknight Archfiend.\nWard\u2014Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]",
@@ -4056,7 +4056,7 @@
             "number": 116,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Equipped creature has +3/-1.\nWhen equipped creature dies, add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\n{2}: Attach this Equipment to target creature you control.",
+            "rules_text": "Equipped creature has \u201c{T}, Unattach Burning Spear: This creature deals 2 damage to any target.\u201d\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4513,7 +4513,7 @@
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elemental Dragon",
-            "number": 211,
+            "number": 210,
             "color_identity": "UR",
             "cost": "{5}{U}{R}",
             "rules_text": "Emerge from Elemental or Dragon {5}{UR}\nFlying, double strike\nWhen Frost and Flame Dragon attacks, tap up to one target creature and put a stun counter on it. Then Frost and Flame Dragon deals 5 damage to up to one other target creature.",
@@ -4573,7 +4573,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 276,
+            "number": 275,
             "color_identity": "WG",
             "cost": "{1}{GW}",
             "rules_text": "Gift of the Mystical Elf enters tapped.\n{T}: Add {G} or {W}.\n{1}{G}{W}, {T}, Sacrifice Gift of the Mystical Elf: Gain 1 life for each creature you control.",
@@ -4593,7 +4593,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Artifact",
-            "number": 280,
+            "number": 279,
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "Jar of Greed enters tapped.\n{T}: Add {U} or {R}.\n{U}{R}, {T}, Sacrifice Jar of Greed: Draw a card.",
@@ -4613,7 +4613,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Artifact",
-            "number": 266,
+            "number": 264,
             "color_identity": "BR",
             "cost": "{1}{BR}",
             "rules_text": "Blast with Chain enters tapped.\n{T}: Add {B} or {R}.\n{4}{B}{R}, {T}, Sacrifice Blast with Chain: Deal 5 damage to target creature an opponent controls. If that creature would die this turn, exile it instead.",
@@ -4633,7 +4633,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Artifact",
-            "number": 269,
+            "number": 268,
             "color_identity": "WB",
             "cost": "{1}{WB}",
             "rules_text": "Dark World Grimoire enters tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}, {T}, Sacrifice Dark World Grimoire: Return target creature from your graveyard to your hand.",
@@ -4653,7 +4653,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 279,
+            "number": 278,
             "color_identity": "UG",
             "cost": "{1}{GU}",
             "rules_text": "Jam Breeding Machine enters tapped.\n{T}: Add {G} or {U}.\n{3}{G}{U}, {T}, Sacrifice Jam Breeding Machine: Create three 0/1 green and blue Shapeshifter creature tokens with changeling. [i](It's every creature type)[/i]",
@@ -4673,7 +4673,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 253,
+            "number": 252,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Split Second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]\nCounter target noncreature spell.",
@@ -4713,7 +4713,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 248,
+            "number": 247,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Whenever a card would be put into an opponent's graveyard from anywhere, exile it. Whenever a card is exiled this way, Skull Invitation deals 1 damage to that player.",
@@ -4733,7 +4733,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 233,
+            "number": 232,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Creatures you control get \n+2/+0 and have trample.",
@@ -4753,7 +4753,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 203,
+            "number": 202,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "At the beginning of each player's upkeep, if that player has no cards in hand, that player draws 2 cards.\nWhenever an oppponent draws a card, Destructive Draw deals 1 damage to them.",
@@ -4813,7 +4813,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 243,
+            "number": 242,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Return target creature that died this turn from your graveyard to the battlefield and put two +1/+1 counters on it.",
@@ -4833,10 +4833,10 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Ooze Horror",
-            "number": 241,
+            "number": 240,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nWhen Revival Jam dies you may pay 2 life. If you do, return it to the battlefield at the beginning of the next end step.",
+            "rules_text": "When Revival Jam enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nWhen Revival Jam is put into your graveyard from the battlefield you may pay 2 life. If you do, return it to the battlefield at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -4853,7 +4853,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Instant \u2014 Trap",
-            "number": 252,
+            "number": 251,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
             "rules_text": "If two or more creatures have entered the battlefield under an opponent's control this turn, you may pay {1}{W}{U} rather than pay this spell's mana cost.\nReturn all nonland permanents to their owner's hands.",
@@ -4973,7 +4973,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem",
-            "number": 234,
+            "number": 233,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "When Muka Muka enters, gain life equal to its toughness.\nMuka Muka's power and toughness are each equal to the number of cards in your hand.",
@@ -4993,7 +4993,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Spirit",
-            "number": 230,
+            "number": 229,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nDefender\nWhenever Maharaghi blocks or becomes blocked, scry 2, then return it to its owner's hand.",
@@ -5013,7 +5013,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 286,
+            "number": 285,
             "color_identity": "UB",
             "cost": "{1}{UB}",
             "rules_text": "Destroy target creature an opponent controls. Then, that player gains control of target creature you control.\nFlashback {2}{U}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -5093,7 +5093,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Robot Warrior",
-            "number": 244,
+            "number": 243,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Haste, double strike\nWhenever Sasuke Samurai blocks or becomes blocked by a face-down creature, destroy that creature.",
@@ -5113,7 +5113,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Noble Cleric",
-            "number": 210,
+            "number": 209,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Defense position {RW} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nLifelink\nWhenever Fire Princess is turned face up or you discard a card, Fire Princess deals 2 damage to any target.",
@@ -5149,31 +5149,11 @@
             "notes": ""
         },
         {
-            "card_name": "Deepsea Shark",
-            "color": "UG",
-            "rarity": "rare",
-            "type": "Creature \u2014 Fish",
-            "number": 202,
-            "color_identity": "UG",
-            "cost": "{4}{G}{U}",
-            "rules_text": "Fusion {1}{G}{U} \u2014 Two Fish [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nGraft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhen one or more counters are moved off of Deepsea Shark, draw a card.",
-            "flavor_text": "[i][/i]",
-            "pt": "0/0",
-            "special_text": "",
-            "shape": "normal",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "257",
-            "notes": ""
-        },
-        {
             "card_name": "The World Tree",
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Enchantment",
-            "number": 259,
+            "number": 258,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The World Tree.\n{G}: Move a counter from The World Tree onto another target permanent.\n{U}{U}, Remove two counters from The World Tree: Draw a card.",
@@ -5185,7 +5165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": ""
         },
         {
@@ -5205,7 +5185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5225,7 +5205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": ""
         },
         {
@@ -5245,7 +5225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": ""
         },
         {
@@ -5253,7 +5233,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warrior",
-            "number": 217,
+            "number": 216,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
             "rules_text": "Fusion {1}{G}{W} \u2014 Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nWhen Giltia the D. Knight enters, create four 1/1 white Warrior creature tokens.",
@@ -5265,7 +5245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5273,7 +5253,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 225,
+            "number": 224,
             "color_identity": "UG",
             "cost": "{X}{G}{U}",
             "rules_text": "Fusion {X}{GU} \u2014 A shapeshifter and another creature\nChangeling [i](This card is every creature type.)[/i]\nWhen you cast this spell you gain half X life and draw half X cards. Round down each time.\nHumanoid Worm Drake enters the battlefield with X +1/+1 counters on it.",
@@ -5285,7 +5265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5293,7 +5273,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Serpent",
-            "number": 215,
+            "number": 214,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Menace\nWhenever Giant Red Seasnake enters or attacks, you may discard a card. If you do, draw a card and Giant Red Seasnake deals 1 damage to any target.",
@@ -5305,7 +5285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": ""
         },
         {
@@ -5313,7 +5293,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 277,
+            "number": 276,
             "color_identity": "BG",
             "cost": "{1}{BG}{BG}",
             "rules_text": "Target creature you control gains Divide {0} until end of turn. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]\nFlashback {3}{B}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -5325,7 +5305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5345,7 +5325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": ""
         },
         {
@@ -5353,10 +5333,30 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 285,
+            "number": 284,
             "color_identity": "WG",
             "cost": "{1}{GW}{GW}",
             "rules_text": "For each token you control, create a copy of that token.\nYou cannot sacrifice creatures to pay costs until your next turn.\nFlashback {2}{G}{G}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
+            "position": "266",
+            "notes": ""
+        },
+        {
+            "card_name": "Tricky Spell 4",
+            "color": "UG",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 253,
+            "color_identity": "UG",
+            "cost": "{4}{G}{U}",
+            "rules_text": "Emerge {5}{GU} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nCreate a number of 4/4 blue Illusion creature tokens with defender equal to the number of creatures your opponents control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5369,14 +5369,14 @@
             "notes": ""
         },
         {
-            "card_name": "Tricky Spell 4",
-            "color": "UG",
+            "card_name": "Lightning Vortex",
+            "color": "UR",
             "rarity": "rare",
-            "type": "Instant",
-            "number": 254,
-            "color_identity": "UG",
-            "cost": "{4}{G}{U}",
-            "rules_text": "Emerge {5}{GU} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nCreate a number of 4/4 blue Illusion creature tokens with defender equal to the number of creatures your opponents control.",
+            "type": "Kindred Sorcery \u2014 Elemental",
+            "number": 227,
+            "color_identity": "UR",
+            "cost": "{1}{U}{R}{R}",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nLightning Vortex deals X damage to each creature your opponents control, where X is the mana value of the discarded card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5389,14 +5389,14 @@
             "notes": ""
         },
         {
-            "card_name": "Lightning Vortex",
-            "color": "UR",
-            "rarity": "rare",
-            "type": "Kindred Sorcery \u2014 Elemental",
-            "number": 228,
-            "color_identity": "UR",
-            "cost": "{1}{U}{R}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nLightning Vortex deals X damage to each creature your opponents control, where X is the mana value of the discarded card.",
+            "card_name": "Final Destiny",
+            "color": "BR",
+            "rarity": "uncommon",
+            "type": "Instant",
+            "number": 271,
+            "color_identity": "BR",
+            "cost": "{BR}{BR}{BR}",
+            "rules_text": "As an additional cost to cast this spell, discard your hand.\nChoose a creature you control at random, then destroy all other creatures and artifacts.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5409,14 +5409,14 @@
             "notes": ""
         },
         {
-            "card_name": "Final Destiny",
-            "color": "BR",
-            "rarity": "uncommon",
-            "type": "Instant",
-            "number": 272,
-            "color_identity": "BR",
-            "cost": "{BR}{BR}{BR}",
-            "rules_text": "As an additional cost to cast this spell, discard your hand.\nChoose a creature you control at random, then destroy all other creatures and artifacts.",
+            "card_name": "Needle Ceiling",
+            "color": "WR",
+            "rarity": "rare",
+            "type": "Instant \u2014 Trap",
+            "number": 234,
+            "color_identity": "WR",
+            "cost": "{4}{R}{W}",
+            "rules_text": "If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {1}{R}{W} rather than pay this spell's mana cost.\nNeedle Ceiling deals 6 damage to each face-up creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5429,31 +5429,11 @@
             "notes": ""
         },
         {
-            "card_name": "Needle Ceiling",
-            "color": "WR",
-            "rarity": "rare",
-            "type": "Instant \u2014 Trap",
-            "number": 235,
-            "color_identity": "WR",
-            "cost": "{4}{R}{W}",
-            "rules_text": "If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {1}{R}{W} rather than pay this spell's mana cost.\nNeedle Ceiling deals 6 damage to each face-up creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "271",
-            "notes": ""
-        },
-        {
             "card_name": "Wild Nature's Release",
             "color": "RG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 258,
+            "number": 257,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Target creature you control gets +4/+0 and gains haste until end of turn. Regenerate it. [i](The next time that permanent would be destroyed this turn, it isn't. Instead tap it.)[/i]",
@@ -5465,7 +5445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5485,7 +5465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5505,7 +5485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5525,7 +5505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "This card can be played for its discounted cost when a player reanimates a creature, when they emerge a creature, or when they cast a creature for another alternative cost. It's especially good against token decks that do one of these things and then flood the board in the same turn, but can also be effective against aggro decks.\n\nStrong when playing control."
         },
         {
@@ -5545,7 +5525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Exclude",
-            "position": "276",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5565,7 +5545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Cabal Therapy",
-            "position": "277",
+            "position": "276",
             "notes": "This is a dimir staple."
         },
         {
@@ -5585,7 +5565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5593,7 +5573,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Plant Horror",
-            "number": 229,
+            "number": 228,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Flash\nWither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]\nWhen Lord Poison dies, return another target plant creature card from your graveyard to the battlefield tapped.",
@@ -5605,7 +5585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5613,7 +5593,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 224,
+            "number": 223,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Non-token creatures you control with power 2 or less have Divide {1}. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -5625,7 +5605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5645,7 +5625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": ""
         },
         {
@@ -5665,7 +5645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5685,7 +5665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Heraldic Banner",
-            "position": "283",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5693,7 +5673,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Beast",
-            "number": 222,
+            "number": 221,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "Trample, riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]\nWhen Gyaku-Gire Panda attacks, it gets +1/+0 for each creature defending player controls.",
@@ -5705,7 +5685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5713,7 +5693,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Beast",
-            "number": 255,
+            "number": 254,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
             "rules_text": "Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]\nWhen Twinheaded Beast attacks, you may pay {3}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.\nMadness {RG}{RG}{RG}{RG}",
@@ -5725,7 +5705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5745,7 +5725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5765,7 +5745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5785,7 +5765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5793,7 +5773,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 208,
+            "number": 207,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "As an additional cost to cast this spell, discard a card.\nReturn two creature cards at random from your graveyard to your hand.\nMadness {RG} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
@@ -5805,7 +5785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": ""
         },
         {
@@ -5813,7 +5793,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Instant \u2014 Trap",
-            "number": 220,
+            "number": 219,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
             "rules_text": "If a creature you control died this turn after being dealt damage by a source controlled by an opponent, you may pay {B}{R} rather than pay this spell's mana cost.\nReturn target creature from your graveyard to the battlefield. Target opponent may pay 2 life. If they do, they may copy this spell and choose a new target for the copy.",
@@ -5825,7 +5805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5845,7 +5825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "Slagwurm Armor",
-            "position": "291",
+            "position": "290",
             "notes": ""
         },
         {
@@ -5865,7 +5845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": ""
         },
         {
@@ -5885,7 +5865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": ""
         },
         {
@@ -5905,7 +5885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": ""
         },
         {
@@ -5925,7 +5905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": ""
         },
         {
@@ -5945,7 +5925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": ""
         },
         {
@@ -5965,7 +5945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": ""
         },
         {
@@ -5985,7 +5965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6005,7 +5985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6025,7 +6005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6045,7 +6025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": ""
         },
         {
@@ -6065,7 +6045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": ""
         },
         {
@@ -6085,7 +6065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": ""
         },
         {
@@ -6105,7 +6085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": ""
         },
         {
@@ -6125,7 +6105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": ""
         },
         {
@@ -6145,7 +6125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6165,7 +6145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": ""
         },
         {
@@ -6185,7 +6165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": ""
         },
         {
@@ -6205,7 +6185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": ""
         },
         {
@@ -6225,7 +6205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": ""
         },
         {
@@ -6245,7 +6225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": ""
         },
         {
@@ -6265,7 +6245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": ""
         },
         {
@@ -6285,7 +6265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6305,7 +6285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": ""
         },
         {
@@ -6325,7 +6305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": ""
         },
         {
@@ -6345,7 +6325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6365,7 +6345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": ""
         },
         {
@@ -6385,7 +6365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": ""
         },
         {
@@ -6405,7 +6385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": ""
         },
         {
@@ -6413,7 +6393,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Spirit",
-            "number": 249,
+            "number": 248,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "Whenever another creature dies, put a +1/+1 counter on this creature.\nDivide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -6425,7 +6405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": ""
         },
         {
@@ -6433,7 +6413,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Creature \u2014 Spirit",
-            "number": 250,
+            "number": 249,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Flying\nAt the beginning of your upkeep, you gain 1 life.\nDivide {GW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -6445,7 +6425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": ""
         },
         {
@@ -6453,7 +6433,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Plant",
-            "number": 260,
+            "number": 259,
             "color_identity": "WB",
             "cost": "{1}{WB}{WB}",
             "rules_text": "Wither\nWhen Abyss Flower dies, proliferate.\nDivide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]",
@@ -6465,7 +6445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": ""
         },
         {
@@ -6485,7 +6465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": ""
         },
         {
@@ -6505,7 +6485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": ""
         },
         {
@@ -6525,7 +6505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": ""
         },
         {
@@ -6545,7 +6525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "notes": ""
         },
         {
@@ -6565,7 +6545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "notes": ""
         },
         {
@@ -6585,7 +6565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "notes": ""
         },
         {
@@ -6605,7 +6585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "notes": ""
         },
         {
@@ -6625,7 +6605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "330",
+            "position": "329",
             "notes": ""
         },
         {
@@ -6645,7 +6625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "331",
+            "position": "330",
             "notes": ""
         },
         {
@@ -6665,7 +6645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "332",
+            "position": "331",
             "notes": ""
         },
         {
@@ -6685,7 +6665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "333",
+            "position": "332",
             "notes": ""
         },
         {
@@ -6705,7 +6685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "334",
+            "position": "333",
             "notes": ""
         },
         {
@@ -6725,7 +6705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "335",
+            "position": "334",
             "notes": ""
         },
         {
@@ -6745,7 +6725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "336",
+            "position": "335",
             "notes": ""
         },
         {
@@ -6765,7 +6745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "337",
+            "position": "336",
             "notes": ""
         },
         {
@@ -6785,7 +6765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "338",
+            "position": "337",
             "notes": ""
         },
         {
@@ -6805,7 +6785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "339",
+            "position": "338",
             "notes": "[archetype:combat-efficiency]"
         },
         {
@@ -6825,7 +6805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "340",
+            "position": "339",
             "notes": ""
         },
         {
@@ -6845,7 +6825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "341",
+            "position": "340",
             "notes": ""
         },
         {
@@ -6865,7 +6845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "342",
+            "position": "341",
             "notes": ""
         },
         {
@@ -6885,7 +6865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "343",
+            "position": "342",
             "notes": ""
         },
         {
@@ -6905,7 +6885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "344",
+            "position": "343",
             "notes": ""
         },
         {
@@ -6925,7 +6905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "345",
+            "position": "344",
             "notes": ""
         },
         {
@@ -6945,7 +6925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "346",
+            "position": "345",
             "notes": ""
         },
         {
@@ -6965,7 +6945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "347",
+            "position": "346",
             "notes": ""
         },
         {
@@ -6985,7 +6965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "348",
+            "position": "347",
             "notes": ""
         },
         {
@@ -7005,7 +6985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "349",
+            "position": "348",
             "notes": ""
         },
         {
@@ -7013,7 +6993,7 @@
             "color": "WUR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Illusion Warrior",
-            "number": 237,
+            "number": 236,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
             "rules_text": "Vigilance\n{1}{U}, {T}: Copy target triggered or activated ability. You may choose new targets for the copy.\n{1}{W}, {T}: Untap target attacking creature and remove it from combat.\n{1}{R}, {T}: Target creature gains haste until end of turn.",
@@ -7025,7 +7005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "350",
+            "position": "349",
             "notes": ""
         },
         {
@@ -7045,27 +7025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "351",
-            "notes": ""
-        },
-        {
-            "card_name": "Arcane Barrier",
-            "color": "UB",
-            "rarity": "common",
-            "type": "Artifact",
-            "number": 263,
-            "color_identity": "UB",
-            "cost": "{1}{UB}",
-            "rules_text": "Arcane Barrier enters tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}, {T}, Sacrifice Arcane Barrier: Until end of turn, spells cost {1} more to cast.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "YGM",
-            "loyalty": "",
-            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
-            "alias": "",
-            "position": "352",
+            "position": "350",
             "notes": ""
         },
         {
@@ -7073,7 +7033,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 281,
+            "number": 280,
             "color_identity": "BG",
             "cost": "{1}{BG}",
             "rules_text": "Mask of Weakness enters tapped.\n{T}: Add {B} or {G}.\n{2}{B}{G}, {T}, Sacrifice Mask of Weakness: Put a -1/-1 counter on each of up to two target creatures.",
@@ -7085,7 +7045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "353",
+            "position": "351",
             "notes": ""
         },
         {
@@ -7096,7 +7056,7 @@
             "number": 291,
             "color_identity": "WU",
             "cost": "{1}{WU}",
-            "rules_text": "Pharaoh's Treasure enters tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}, {T}, Sacrifice Pharaoh's Treasure: Return target instant or sorcery from your graveyard to your hand.",
+            "rules_text": "Pharaoh's Treasure enters tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}, {T}, Sacrifice Pharaoh's Treasure: Return target instant or sorcery card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7105,7 +7065,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "354",
+            "position": "352",
             "notes": ""
         },
         {
@@ -7125,7 +7085,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "355",
+            "position": "353",
             "notes": ""
         },
         {
@@ -7133,7 +7093,7 @@
             "color": "WR",
             "rarity": "common",
             "type": "Artifact",
-            "number": 287,
+            "number": 286,
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Mystik Wok enters tapped.\n{T}: Add {W} or {R}.\n{1}{R}{W}, {T}, Sacrifice Mystik Wok: Mystik Wok deals 2 damage to target player and you gain 2 life.",
@@ -7145,7 +7105,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "356",
+            "position": "354",
             "notes": ""
         },
         {
@@ -7153,7 +7113,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Artifact",
-            "number": 265,
+            "number": 263,
             "color_identity": "RG",
             "cost": "{1}{RG}",
             "rules_text": "Bait Doll enters tapped.\n{T}: Add {G} or {R}.\n{3}{R}{G}, {T}, Sacrifice Bait Doll: Target creature you control fights target creature an opponent controls.",
@@ -7165,7 +7125,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "357",
+            "position": "355",
             "notes": ""
         },
         {
@@ -7173,10 +7133,10 @@
             "color": "WG",
             "rarity": "common",
             "type": "Creature \u2014 Insect",
-            "number": 278,
+            "number": 277,
             "color_identity": "WG",
             "cost": "{4}{GW}",
-            "rules_text": "Vigilance\nWhenever Hercules Beetle deals combat damage to a player, destroy target artifact or enchantment an opponent controls.",
+            "rules_text": "Vigilance\nWhenever Hercules Beetle deals combat damage to an opponent, destroy target artifact or enchantment that player controls.",
             "flavor_text": "[i]A massive beetle with a tough carapace and a dangerous horn.[/i]",
             "pt": "3/6",
             "special_text": "",
@@ -7185,7 +7145,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "358",
+            "position": "356",
             "notes": ""
         },
         {
@@ -7205,7 +7165,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "359",
+            "position": "357",
             "notes": ""
         },
         {
@@ -7225,7 +7185,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "360",
+            "position": "358",
             "notes": ""
         },
         {
@@ -7245,7 +7205,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "361",
+            "position": "359",
             "notes": ""
         },
         {
@@ -7265,7 +7225,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "362",
+            "position": "360",
             "notes": ""
         },
         {
@@ -7285,7 +7245,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "363",
+            "position": "361",
             "notes": ""
         },
         {
@@ -7305,7 +7265,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "364",
+            "position": "362",
             "notes": ""
         },
         {
@@ -7325,7 +7285,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "365",
+            "position": "363",
             "notes": ""
         },
         {
@@ -7345,7 +7305,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "366",
+            "position": "364",
             "notes": ""
         },
         {
@@ -7365,7 +7325,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "367",
+            "position": "365",
             "notes": ""
         },
         {
@@ -7385,7 +7345,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "368",
+            "position": "366",
             "notes": ""
         },
         {
@@ -7396,7 +7356,7 @@
             "number": 200,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.\nChange the text of target instant or sorcery spell to \u201cDiscard a card.\u201d",
+            "rules_text": "You may pay 4 life and exile a blue card and a black card from your graveyard rather than pay this spell's mana cost.\nCounter target noncreature spell. Its controller discards a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7405,7 +7365,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "369",
+            "position": "367",
             "notes": ""
         },
         {
@@ -7413,7 +7373,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 204,
+            "number": 203,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost. If that spell would be put into their graveyard, exile it instead.\nFlashback {2}{UR}{UR} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
@@ -7425,7 +7385,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "370",
+            "position": "368",
             "notes": ""
         },
         {
@@ -7445,7 +7405,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "371",
+            "position": "369",
             "notes": ""
         },
         {
@@ -7465,7 +7425,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "372",
+            "position": "370",
             "notes": ""
         },
         {
@@ -7485,7 +7445,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "373",
+            "position": "371",
             "notes": ""
         },
         {
@@ -7505,7 +7465,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "374",
+            "position": "372",
             "notes": ""
         },
         {
@@ -7525,7 +7485,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "375",
+            "position": "373",
             "notes": ""
         },
         {
@@ -7545,7 +7505,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "376",
+            "position": "374",
             "notes": ""
         },
         {
@@ -7565,7 +7525,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "377",
+            "position": "375",
             "notes": "[archetype:toughness-tribal]"
         },
         {
@@ -7585,7 +7545,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "378",
+            "position": "376",
             "notes": ""
         },
         {
@@ -7605,7 +7565,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "379",
+            "position": "377",
             "notes": ""
         },
         {
@@ -7625,7 +7585,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "380",
+            "position": "378",
             "notes": ""
         },
         {
@@ -7645,7 +7605,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "381",
+            "position": "379",
             "notes": ""
         },
         {
@@ -7665,7 +7625,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "382",
+            "position": "380",
             "notes": ""
         },
         {
@@ -7685,7 +7645,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "383",
+            "position": "381",
             "notes": ""
         },
         {
@@ -7705,7 +7665,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "384",
+            "position": "382",
             "notes": ""
         },
         {
@@ -7725,7 +7685,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "385",
+            "position": "383",
             "notes": ""
         },
         {
@@ -7745,7 +7705,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "386",
+            "position": "384",
             "notes": ""
         },
         {
@@ -7765,7 +7725,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "387",
+            "position": "385",
             "notes": ""
         },
         {
@@ -7785,7 +7745,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "388",
+            "position": "386",
             "notes": ""
         },
         {
@@ -7805,7 +7765,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "389",
+            "position": "387",
             "notes": ""
         },
         {
@@ -7825,7 +7785,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "390",
+            "position": "388",
             "notes": ""
         },
         {
@@ -7845,7 +7805,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "391",
+            "position": "389",
             "notes": ""
         },
         {
@@ -7865,7 +7825,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "392",
+            "position": "390",
             "notes": ""
         },
         {
@@ -7885,7 +7845,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "393",
+            "position": "391",
             "notes": ""
         },
         {
@@ -7905,7 +7865,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "394",
+            "position": "392",
             "notes": ""
         },
         {
@@ -7925,7 +7885,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "395",
+            "position": "393",
             "notes": ""
         },
         {
@@ -7945,7 +7905,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "396",
+            "position": "394",
             "notes": ""
         },
         {
@@ -7953,7 +7913,7 @@
             "color": "UB",
             "rarity": "common",
             "type": "Creature \u2014 Angel Horror",
-            "number": 270,
+            "number": 269,
             "color_identity": "UB",
             "cost": "{4}{UB}",
             "rules_text": "Defense position {2}{UB} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]\nWhen Doma The Angel of Silence enters or is turned face-up, target creature an opponent controls loses all abilities and becomes a 1/1 Worm until end of turn.",
@@ -7965,7 +7925,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "397",
+            "position": "395",
             "notes": ""
         },
         {
@@ -7973,7 +7933,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Instant",
-            "number": 240,
+            "number": 239,
             "color_identity": "WG",
             "cost": "{6}{G}{W}",
             "rules_text": "This spell costs {1} less to cast for each token that died this turn.\nCreate a 2/2 green Plant creature token for each creature that died this turn.",
@@ -7985,7 +7945,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "398",
+            "position": "396",
             "notes": ""
         },
         {
@@ -7993,7 +7953,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Dragon",
-            "number": 256,
+            "number": 255,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
             "rules_text": "Flying, lifelink, first strike\nWhenever you cast a noncreature spell, Tyhone #2 deals damage equal to its power to any target.\nMadness {RW}{RW}{RW}{RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
@@ -8005,7 +7965,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "399",
+            "position": "397",
             "notes": ""
         },
         {
@@ -8025,7 +7985,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "400",
+            "position": "398",
             "notes": ""
         },
         {
@@ -8033,10 +7993,10 @@
             "color": "WR",
             "rarity": "common",
             "type": "Creature \u2014 Elemental Beast",
-            "number": 274,
+            "number": 273,
             "color_identity": "WR",
             "cost": "{RW}",
-            "rules_text": "{2}: Flamvell Poun gets +1/+1 until end of turn.\nDivide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]\nMadness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "{2}: Flamvell Poun gets +1/+1 until end of turn.\nDivide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]\nMadness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -8045,7 +8005,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "401",
+            "position": "399",
             "notes": ""
         },
         {
@@ -8056,7 +8016,7 @@
             "number": 36,
             "color_identity": "WR",
             "cost": "{RW}",
-            "rules_text": "{2}: This token gets +1/+1 until end of turn.\nMadness {0} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "{2}: This token gets +1/+1 until end of turn.\nMadness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -8065,7 +8025,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "402",
+            "position": "400",
             "notes": ""
         },
         {
@@ -8085,7 +8045,7 @@
             "loyalty": "",
             "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias": "",
-            "position": "403",
+            "position": "401",
             "card_name2": "Dark Embrace",
             "color2": "UB",
             "type2": "Enchantment \u2014 Aura",
@@ -8098,7 +8058,47 @@
             "artist2": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
             "alias2": "",
             "notes": ""
+        },
+        {
+            "card_name": "Necklace of Command",
+            "color": "UB",
+            "rarity": "common",
+            "type": "Artifact",
+            "number": 287,
+            "color_identity": "UB",
+            "cost": "{1}{UB}",
+            "rules_text": "Necklace of Command enters tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}, {T}, Sacrifice Necklace of Command: Target opponent discards a card at random.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
+            "position": "402",
+            "notes": ""
+        },
+        {
+            "card_name": "D.3.S. Frog",
+            "color": "UG",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Frog",
+            "number": 265,
+            "color_identity": "UG",
+            "cost": "{5}{G}{GU}{U}",
+            "rules_text": "Fusion {2}{G}{U} \u2014 Three green or blue creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]\nGraft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]\nWhenever one or more counters are moved off of D.3.S. Frog, draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/0",
+            "special_text": "",
+            "shape": "normal",
+            "set": "YGM",
+            "loyalty": "",
+            "artist": "Studio Dice/SHUEISHA, TV TOKYO, KONAMI",
+            "alias": "",
+            "position": "403",
+            "notes": ""
         }
     ],
-    "version": 13
+    "version": 14
 }
