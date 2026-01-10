@@ -23,7 +23,7 @@
 		{
 			"name": "Slot Machine",
 			"rarity": "uncommon",
-			"mana_cost": "{9}",
+			"mana_cost": "{7}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "333",
 			"image_uris": {
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B/R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/38.jpg"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B/G}{B/G}",
 			"type": "Creature — Plant Beast",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/65.jpg"
 			}
@@ -1004,7 +1004,7 @@
 			"name": "Invasion of Flames",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
-			"type": "Creature — Elemental Demon",
+			"type": "Creature — Elemental",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/100.jpg"
@@ -1185,7 +1185,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Creature — Angel",
-			"collector_number": "282",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/118.jpg"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/B}{W/B}{W/B}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "283",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/120.jpg"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Creature — Elf Warlock",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/132.jpg"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/B}",
 			"type": "Creature — Horror",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/134.jpg"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}",
 			"type": "Creature — Beast",
-			"collector_number": "272",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/150.jpg"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/U}",
 			"type": "Creature — Fish",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/164.jpg"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Artifact",
-			"collector_number": "275",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/228.jpg"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Artifact",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/229.jpg"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
 			"type": "Artifact",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/231.jpg"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Artifact",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/232.jpg"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/264.jpg"
 			}
@@ -2695,7 +2695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}{B/R}",
 			"type": "Instant",
-			"collector_number": "271",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/269.jpg"
 			}
@@ -2844,7 +2844,7 @@
 			"name": "Twinheaded Beast",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature — Elemental Beast",
 			"collector_number": "254",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/284.jpg"
@@ -2864,7 +2864,7 @@
 			"name": "Kaiser Glider",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Dragon",
+			"type": "Artifact Creature — Dragon Construct",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/286.jpg"
@@ -3291,10 +3291,10 @@
 			}
 		},
 		{
-			"name": "Slime",
+			"name": "Shapeshifter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Ooze",
+			"type": "Token Creature — Shapeshifter",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/329.jpg"
@@ -3515,7 +3515,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Artifact",
-			"collector_number": "280",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/351.jpg"
 			}
@@ -3565,7 +3565,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/W}",
 			"type": "Creature — Insect",
-			"collector_number": "277",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/356.jpg"
 			}
@@ -3955,7 +3955,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U/B}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/395.jpg"
 			}
@@ -3995,7 +3995,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/399.jpg"
 			}
@@ -4038,11 +4038,11 @@
 			}
 		},
 		{
-			"name": "D.3.S. Frog",
+			"name": "Mr. Frog",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G/U}{U}",
 			"type": "Legendary Creature — Frog",
-			"collector_number": "265",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/403.jpg"
 			}
@@ -4154,7 +4154,7 @@
 	2 Raging Mad Plants
 	2 Tyhone #2
 	2 Dark Necrofear
-	2 D.3.S. Frog
+	2 Mr. Frog
 [uncommon(3)]
 	4 Labyrinth Wall
 	4 Labyrinth Tank
@@ -4772,7 +4772,7 @@
 	12 Flamvell Poun
 	2 Dark Necrofear
 	12 Necklace of Command
-	2 D.3.S. Frog
+	2 Mr. Frog
 [wildcard(1)]
 	15 Labyrinth Wall
 	15 Labyrinth Tank
@@ -5133,4 +5133,4 @@
 	6 Flamvell Poun
 	7 Dark Necrofear
 	6 Necklace of Command
-	7 D.3.S. Frog
+	7 Mr. Frog

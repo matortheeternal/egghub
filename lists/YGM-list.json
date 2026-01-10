@@ -1358,7 +1358,7 @@
     },
     {
         "card_name": "Dark Elf",
-        "number": 267,
+        "number": 266,
         "shape": "normal",
         "set": "YGM",
         "position": "132"
@@ -1533,7 +1533,7 @@
     },
     {
         "card_name": "Final Destiny",
-        "number": 271,
+        "number": 270,
         "shape": "normal",
         "set": "YGM",
         "position": "269"
@@ -1561,7 +1561,7 @@
     },
     {
         "card_name": "The Drdek",
-        "number": 270,
+        "number": 269,
         "shape": "normal",
         "set": "YGM",
         "position": "134"
@@ -1575,7 +1575,7 @@
     },
     {
         "card_name": "Flame Viper",
-        "number": 272,
+        "number": 271,
         "shape": "normal",
         "set": "YGM",
         "position": "150"
@@ -1596,14 +1596,14 @@
     },
     {
         "card_name": "Doma The Angel of Silence",
-        "number": 269,
+        "number": 268,
         "shape": "normal",
         "set": "YGM",
         "position": "395"
     },
     {
         "card_name": "Dark Blade",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "YGM",
         "position": "38"
@@ -1617,7 +1617,7 @@
     },
     {
         "card_name": "Hercules Beetle",
-        "number": 277,
+        "number": 276,
         "shape": "normal",
         "set": "YGM",
         "position": "356"
@@ -1652,7 +1652,7 @@
     },
     {
         "card_name": "Gift of the Mystical Elf",
-        "number": 275,
+        "number": 274,
         "shape": "normal",
         "set": "YGM",
         "position": "228"
@@ -1744,7 +1744,7 @@
     },
     {
         "card_name": "Mokey Mokey King",
-        "number": 283,
+        "number": 282,
         "shape": "normal",
         "set": "YGM",
         "position": "120"
@@ -1806,8 +1806,8 @@
         "position": "397"
     },
     {
-        "card_name": "D.3.S. Frog",
-        "number": 265,
+        "card_name": "Mr. Frog",
+        "number": 283,
         "shape": "normal",
         "set": "YGM",
         "position": "403"
@@ -1863,7 +1863,7 @@
     },
     {
         "card_name": "Graydle Split",
-        "number": 276,
+        "number": 275,
         "shape": "normal",
         "set": "YGM",
         "position": "264"
@@ -1898,7 +1898,7 @@
     },
     {
         "card_name": "Flower Wolf",
-        "number": 274,
+        "number": 273,
         "shape": "normal",
         "set": "YGM",
         "position": "65"
@@ -1954,7 +1954,7 @@
     },
     {
         "card_name": "Mokey Mokey",
-        "number": 282,
+        "number": 281,
         "shape": "normal",
         "set": "YGM",
         "position": "118"
@@ -1975,7 +1975,7 @@
     },
     {
         "card_name": "Flamvell Poun",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "YGM",
         "position": "399"
@@ -2017,28 +2017,28 @@
     },
     {
         "card_name": "Misairuzame",
-        "number": 281,
+        "number": 280,
         "shape": "normal",
         "set": "YGM",
         "position": "164"
     },
     {
         "card_name": "Dark World Grimoire",
-        "number": 268,
+        "number": 267,
         "shape": "normal",
         "set": "YGM",
         "position": "231"
     },
     {
         "card_name": "Jar of Greed",
-        "number": 279,
+        "number": 278,
         "shape": "normal",
         "set": "YGM",
         "position": "229"
     },
     {
         "card_name": "Mask of Weakness",
-        "number": 280,
+        "number": 279,
         "shape": "normal",
         "set": "YGM",
         "position": "351"
@@ -2052,7 +2052,7 @@
     },
     {
         "card_name": "Jam Breeding Machine",
-        "number": 278,
+        "number": 277,
         "shape": "normal",
         "set": "YGM",
         "position": "232"
@@ -2901,7 +2901,7 @@
         "position": "80"
     },
     {
-        "card_name": "Slime",
+        "card_name": "Shapeshifter",
         "number": 29,
         "shape": "token",
         "set": "YGM",

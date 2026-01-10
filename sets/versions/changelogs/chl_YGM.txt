@@ -1,4 +1,131 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Shapeshifter added.
+Mr. Frog added.
+
+Slime removed.
+D.3.S. Frog removed.
+
+Slot Machine
+cost: {9} => {7}
+
+Dimension Jar
+rules_text: Defense position {1} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When this creature is turned face up for its Defense position cost, exile target nonland permanent an opponent controls. Then, exile target nonland permanent you control. => Defense position {1} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Dimension Jar is turned face up, exile target nonland permanent an opponent controls until it leaves the battlefield.
+
+Decoyroid
+rules_text: Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+When Decoyroid becomes a creature, you may change the target of a spell or ability with a single target to Decoyroid. => Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever Decoyroid becomes a creature, you may change the target of a spell or ability with a single target to Decoyroid.
+
+Dummy Golem
+rules_text: Defense position {2} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Dummy Golem is turned face-up, target opponent chooses a creature they control. Exchange control of Dummy Golem and the chosen creature. => Defense position {2} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Dummy Golem is turned face up, target opponent chooses a creature they control. Exchange control of Dummy Golem and the chosen creature.
+
+Invasion of Flames
+type: Creature — Elemental Demon => Creature — Elemental
+
+Eco, Mystical Spirit of the Forest
+rules_text: Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+The next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco, Mystical Spirit of the Forest deals damage equal to the damage prevented this way to the source's controller. => Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+The next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco deals damage equal to the damage prevented this way to the source's controller.
+
+Gogiga Gagagigo
+rules_text: Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}
+Trample, ward {3}
+{4}: Move up to three counters from target creature you control on to Gogiga Gagagigo.
+When Gogiga Gagagigo dies, draw a card for each counter on it. => Emerge from Merfolk, Fish, Serpent, Dinosaur, Turtle, Frog, or Lizard {4}{GU}{GU}{GU}
+Trample, ward {3}
+{4}: Move up to three counters from target creature you control on to Gogiga Gagagigo.
+When Gogiga Gagagigo leaves the battlefield, draw a card for each counter on it.
+
+Perfect Machine King
+rules_text: Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+Perfect Machine King enters with two shield counters on it.
+{3}: Create a 2/2 Robot artifact creature token.
+Whenever an artifact enters under your control, put a +1/+1 counter on Perfect Machine King. => Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+Perfect Machine King enters with a shield counter on it.
+{3}: Create a 2/2 Robot artifact creature token.
+Whenever an artifact enters under your control, put a +1/+1 counter on each artifact creature you control.
+pt: 7/4 => 7/5
+
+7 Colored Fish
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+{1}: Add one mana of any color. Activate only once per turn. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+{1}: Add one mana of any color. Activate only once each turn.
+
+Swordstalker
+rules_text: Emerge {6}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Whenever a creature dies, each opponent loses 1 life and you gain 1 life. => Emerge {6}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Whenever Swordstalker enters or attacks, each opponent loses 2 life, and you gain 2 life.
+
+Mass Driver
+rules_text: {1}, Discard a card: Mass Driver deals 1 damage to any target.
+{1}, Sacrifice a creature: Mass Driver deals 1 damage to any target. => {1}, Discard a card: Mass Driver deals 1 damage to target player.
+{1}, Sacrifice a creature: Mass Driver deals 1 damage to target creature.
+
+Machine King
+rules_text: Emerge {8}
+When Machine King enters, if it was cast for its emerge cost, create X 1/1 colorless Bat Construct artifact creature tokens with flying, where X is the mana value of the creature sacrificed for the emerge cost.
+Tap three untapped Constructs you control: Draw a card. => Emerge {7}
+When Machine King enters, create X 1/1 colorless Bat Construct artifact creature tokens with flying, where X is the number of artifacts you control.
+Tap three untapped Constructs you control: Draw a card.
+
+Jam Breeding Machine
+rules_text: Jam Breeding Machine enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}, {T}, Sacrifice Jam Breeding Machine: Create three 0/1 green and blue Shapeshifter creature tokens with changeling. [i](It's every creature type)[/i] => Jam Breeding Machine enters tapped.
+{T}: Add {G} or {U}.
+{3}{G}{U}, {T}, Sacrifice Jam Breeding Machine: Create three 0/1 green and blue Shapeshifter creature tokens with changeling. [i](They're every creature type)[/i]
+
+Skull Invitation
+rules_text: Whenever a card would be put into an opponent's graveyard from anywhere, exile it. Whenever a card is exiled this way, Skull Invitation deals 1 damage to that player. => Whenever a card would be put into an opponent's graveyard from anywhere, exile it and Skull Invitation deals 1 damage to that player.
+
+Torrential Tribute
+rules_text: If two or more creatures have entered the battlefield under an opponent's control this turn, you may pay {1}{W}{U} rather than pay this spell's mana cost.
+Return all nonland permanents to their owner's hands. => If two or more creatures entered the battlefield under an opponent's control this turn, you may pay {1}{W}{U} rather than pay this spell's mana cost.
+Return all nonland permanents to their owner's hands.
+
+Needle Ceiling
+rules_text: If an opponent had two or more creatures enter the battlefield under their control this turn, you may pay {1}{R}{W} rather than pay this spell's mana cost.
+Needle Ceiling deals 6 damage to each face-up creature. => If a creature an opponent controls was turned face up this turn, you may pay {1}{R}{W} rather than pay this spell's mana cost.
+Needle Ceiling deals 6 damage to each face-up creature.
+
+Lord Poison
+rules_text: Flash
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When Lord Poison dies, return another target plant creature card from your graveyard to the battlefield tapped. => Flash
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When Lord Poison dies, return another target Plant creature card from your graveyard to the battlefield tapped.
+
+Twinheaded Beast
+type: Creature — Beast => Creature — Elemental Beast
+
+Kaiser Glider
+type: Artifact Creature — Dragon => Artifact Creature — Dragon Construct
+rules_text: Flying
+If a player would gain control of a creature you control, you may pay {R} to have Kaiser Glider deal 2 damage to them instead.
+Madness {3}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flying
+If a player would gain control of a creature you control, you may pay {1}{R} to have Kaiser Glider deal 2 damage to them instead.
+Madness {3}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Robotic Knight
+rules_text: Creatures you control have haste.
+{3}: Creatures you control gain +1/+0 until end of turn. => Creatures you control have haste.
+{3}: Creatures you control get +1/+0 until end of turn.
+
+Cyber Soldier
+rules_text: Trample
+Tap two artifacts you control: Cyber Soldier gets +4/+4 until end of turn. Activate this ability only once each turn. => Trample
+Tap two untapped artifacts you control: Cyber Soldier gets +4/+4 until end of turn. Activate only once each turn.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Necklace of Command added.
