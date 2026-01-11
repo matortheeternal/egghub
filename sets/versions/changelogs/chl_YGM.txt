@@ -1,4 +1,249 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Millenium Shield
+rules_text: Defender
+Equipped creature gets +0/+7.
+When Millenium Shield becomes attached to a creature, put a shield counter on that creature. This ability triggers only once per turn.
+Reconfigure {4} [i]({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Defender
+Equipped creature gets +0/+7.
+When Millenium Shield becomes attached to a creature, put a shield counter on that creature.
+Reconfigure {4} [i]({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Suijin
+rules_text: Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Exhaust — {2}{U}: Draw 3 cards. [i](Activate each exhaust ability only once.)[/i] => Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Exhaust — {2}{U}: Draw 2 cards. [i](Activate each exhaust ability only once.)[/i]
+
+Maju Garzett
+rules_text: Lifelink
+As Maju Garzett enters, exile any number of creatures you control until Maju Garzett leaves the battlefield.
+Maju Garzett's power and toughness are each equal to the total power of the cards exiled with it. => Trample, lifelink
+As Maju Garzett enters, exile any number of creatures you control until Maju Garzett leaves the battlefield.
+Maju Garzett's power and toughness are each equal to the total power of the cards exiled with it.
+
+Ultimate Obedient Fiend
+rules_text: Emerge {8}{R} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Haste, trample
+Ultimate Obedient Fiend cannot attack unless you have no cards in hand and control no other creatures.
+Madness {5}{R}{R} => Emerge {8}{R} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Haste, trample
+Ultimate Obedient Fiend cannot attack unless you have no cards in hand and control no other creatures.
+Madness {3}{R}{R}{R}
+
+Great Spirit
+rules_text: Defense position {0}
+Defender
+When Great Spirit enters or is turned face-up, target creature assigns combat damage equal to its toughness rather than its power until end of turn and may attack as though it didn't have defender. => Defense position {0} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+When Great Spirit enters or is turned face-up, target creature assigns combat damage equal to its toughness rather than its power and may attack as though it didn't have defender until end of turn.
+
+Criosphinx
+rules_text: Emerge {4}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+Whenever one or more creatures are returned from the battlefield to their owner's hand, draw a card. => Emerge {4}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+Whenever one or more creatures are turned face up, draw a card.
+
+Creature Swap
+cost: {2}{U} => {3}{U}
+rules_text: Target player chooses a creature they control, and you choose a creature you control. Exchange control of those creatures. => Choose target creature an opponent controls and a creature you control. Exchange control of those creatures.
+
+Barrier Statue of the Drought
+rules_text: Flash
+Defender
+When Barrier Statue of the Drought enters or is turned face-up, creatures you control gain indestructible until end of turn. => Flash
+Defender
+When Barrier Statue of the Drought enters or is turned face-up, up to two target creatures you control gain indestructible until end of turn.
+
+Revival Rose
+rules_text: Lifelink
+Whenever a Plant you control dies, you may return Revival Rose from your graveyard to the battlefield tapped.
+Swampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Lifelink
+Whenever a creature you control with a counter on it dies, you may return Revival Rose from your graveyard to the battlefield tapped.
+Swampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Darklord Marie
+rules_text: Flying, lifelink
+At the beginning of your upkeep, if Darklord Marie is in your graveyard, you may pay {B} to surveil 1 and gain 1 life. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Flying, lifelink
+At the beginning of your upkeep, if Darklord Marie is in your graveyard, you may pay {B}. If you do, gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Wingweaver
+rules_text: Emerge {3}{W}{W}{W}
+Flash
+Flying
+When this creature enters, prevent all combat damage that would be dealt this turn. => Emerge {3}{W}{W}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Flying
+When Wingweaver enters, prevent all combat damage that would be dealt this turn.
+
+Sinister Serpent
+rules_text: Flying
+{U}, Exile Sinister Serpent from your graveyard: Scry 3.
+If a player would gain control of Sinister Serpent, you may draw a card instead. => Flying
+{U}, Exile Sinister Serpent from your graveyard: Surveil 2.
+If an opponent would gain control of Sinister Serpent, you may draw a card instead.
+
+Barrier Statue of the Heavens
+rules_text: Flash
+Defender
+When Barrier Statue of the Heavens enters or is turned face-up, for each creature you control create a 1/1 white Angel creature token with flying, then creatures you control get +0/+4 until end of turn. => Flash
+Defender
+When Barrier Statue of the Heavens enters or is turned face-up, create two 1/1 white Angel creature token with flying, then creatures you control get +0/+2 until end of turn.
+
+Dragon Seeker
+rules_text: Emerge {5}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+When Dragon Seeker enters, destroy target non-black, non-artifact creature. If it was a dragon, draw a card. => Emerge {5}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+When Dragon Seeker enters, destroy target nonblack, nonartifact creature. If it was a dragon, draw a card.
+
+Jowls of Dark Demise
+rules_text: Defense position {3}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Jowls of Dark Demise enters or is turned face-up, gain control of target nonland permanent.
+{1}{U}, {T}: Surveil 3. => Defense position {4}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Jowls of Dark Demise enters or is turned face-up, gain control of target nonland permanent.
+{U}, {T}: Surveil 1.
+
+Possessed Dark Soul
+rules_text: Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+{U}{B}{R}, {T}, Sacrifice Possessed Dark Soul: Gain control of all creatures target opponent controls with mana value 2 or less. => Menace
+{U}{B}{R}, {T}, Sacrifice Possessed Dark Soul: Gain control of all creatures target opponent controls with mana value 2 or less.
+
+Fear from the Dark
+rules_text: Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+When Fear from the Dark is put into your graveyard from your library, you may pay {1}{B}. If you do, put it onto the battlefield. => Menace
+When Fear from the Dark is put into your graveyard from your library, you may pay {1}{B}. If you do, put it onto the battlefield.
+
+Barrier Statue of the Abyss
+rules_text: Flash
+Defender
+When Barrier Statue of the Abyss enters or is turned face-up, choose target creature card in a graveyard. Put that card onto the battlefield under your control. => Flash
+Defender
+When Barrier Statue of the Abyss enters or is turned face-up, choose up to two target creature cards in any graveyard with mana value 2 or less. Put those cards onto the battlefield under your control.
+
+Barrier Statue of the Torrent
+rules_text: Flash
+Defender
+When Barrier Statue of the Torrent enters or is turned face-up, draw three cards. => Flash
+Defender
+When Barrier Statue of the Torrent enters or is turned face-up, scry 2, then draw two cards.
+
+Enchanted Javelin
+rules_text: If you lost life this turn, you may cast this spell by paying {W} instead of its mana cost.
+Target creature gets +4/+0 and gains first strike and lifelink until end of turn. => If you lost life this turn, you may cast this spell by paying {W} instead of its mana cost.
+Target creature gets +4/+0 and gains first strike until end of turn.
+
+Ekibyo Drakmord
+cost: {3}{U} => {2}{U}
+rules_text: Vanishing 2
+Enchant creature
+Enchanted creature can't attack and its activated abilities can't be activated.
+When the last vanishing counter is removed from Ekibyo Drakmord, destroy enchanted creature. If a creature dies this way, return Ekibyo Drakmord to its owner's hand. => Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+{3}{U}: Destroy enchanted creature and return Ekibyo Drakmord to its owner's hand.
+
+Spiral Serpent
+rules_text: Defense position {5}{U}
+When Spiral Serpent enters or is turned face up, choose target permanent. Its owner puts it on the bottom of their library, then mills cards equal to its mana cost. => Defense position {5}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Spiral Serpent enters or is turned face up, choose target permanent. Its owner puts it on the bottom of their library, then mills cards equal to its mana value.
+
+Ray of Hope
+rules_text: If two or more creatures you controlled died this turn, you may pay {W}{W} rather than Ray of Hope's mana cost.
+Return two target white permanent cards from your graveyard to the battlefield. => If two or more creatures you controlled died this turn, you may pay {2}{W}{W} rather than Ray of Hope's mana cost.
+Return two target white permanent cards from your graveyard to the battlefield.
+
+The Fiend Megacyber
+rules_text: If an opponent controls at least 3 more creatures than you do, you may pay {1}{B} rather than pay The Fiend Megacyber's mana cost.
+Menace => If an opponent controls at least three more creatures than you do, you may pay {1}{B} rather than pay The Fiend Megacyber's mana cost.
+Menace
+
+Mirage Knight
+rules_text: Emerge from white creature {5}{W}{W}
+First strike, deathtouch
+When Mirage Knight enters, draw 2 cards.
+At the beginning of each end step, if Mirage Knight attacked or blocked this turn, exile it.
+You may cast Mirage Knight from exile. => Emerge from white creature {5}{W}{W}
+First strike, deathtouch
+Whenever Mirage Knight enters or leaves the battlefield, draw a card.
+At the beginning of each end step, if Mirage Knight attacked or blocked this turn, exile it.
+You may cast Mirage Knight from exile.
+
+Sword Hunter
+rules_text: Emerge {5}{W}
+Vigilance
+Whenever one or more creatures you control die during combat, create a colorless Sword Equipment artifact token with “Equipped creature gets +1/+0” and “Equip {1}.” => Emerge {5}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Vigilance
+Whenever one or more creatures you control die during combat, create a colorless Sword Equipment artifact token with “Equipped creature gets +1/+0” and “Equip {1}.”
+
+Graverobber
+rules_text: Exile target card in an opponent's graveyard. You may cast it this turn by paying 3 life in addition to its other costs and you may spend mana as though it were mana of any color to cast it.
+Flashback {2}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Exile target card in an opponent's graveyard with mana value 5 or less. You may cast it this turn by paying 3 life in addition to its other costs and you may spend mana as though it were mana of any color to cast it.
+
+Cyber Shark
+rules_text: Emerge {3}{U}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+When this creature enters, counter target creature spell. => Emerge {3}{U}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+When this creature enters, counter target creature spell unless its controller pays {2}.
+
+Mind Crush
+type: Instant => Sorcery
+rules_text: Name a nonland card. Target player reveals their hand and discards all cards with that name.
+Flashback—-Sacrifice a creature. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Name a nonland card. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Gather Your Mind
+rules_text: Draw a card.
+Exile Gather Your Mind.
+You may cast Gather Your Mind from exile. It costs {2} more to cast for each time you've cast a spell named Gather Your Mind this game. => Draw a card and get a meditation counter.
+Exile Gather Your Mind.
+You may cast Gather Your Mind from exile. It costs {2} more to cast for each meditation counter you have.
+
+Maha Vailo
+rules_text: Maha Vailo gets +1/+0 for each equipment or aura attached to him.
+{T}: Attach target equipment or aura you control to Maha Vailo. => Maha Vailo gets +1/+0 for each Equipment or Aura attached to him.
+{T}: Attach target Equipment or Aura you control to Maha Vailo.
+
+Eternal Rest
+rules_text: Choose one —
+• Destroy target unmodified creature
+• Destroy all modified creatures. [i](Equipment, auras controlled by the creature's controller, and counters are modifications.)[/i] => Choose one —
+• Destroy target creature that is not modified.
+• Destroy all modified creatures. [i](Equipment, auras controlled by the creature's controller, and counters are modifications.)[/i]
+
+Divine Wrath
+rules_text: If an opponent activated a creature's ability this turn, you may pay {1}{W} rather than pay this spell's mana cost.
+Counter up to one target activated or triggered ability.
+Destroy target creature. => If an opponent activated the ability of a creature this turn, you may pay {1}{W} rather than pay this spell's mana cost.
+Counter up to one target activated or triggered ability.
+Destroy target creature.
+
+Dark Core
+rules_text: As an additional cost to cast this spell, discard a card.
+Exile target face-up creature. => As an additional cost to cast this spell, discard a card.
+Exile target creature.
+
+Return of the Doomed
+cost: {1}{B} => {2}{B}
+rules_text: Return target creature that died this turn to the battlefield under your control.
+Madness {B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control with a finality counter on it.
+Madness {1}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Nobleman of Extermination
+rules_text: As an additional cost to play this spell, discard a card or pay {2}.
+Destroy target creature and each other creature that shares a name with it. => As an additional cost to play this spell, discard a card or pay {2}.
+Exile target creature and each other creature that shares a name with it.
+
+Deal of Phantom
+rules_text: Target creature you control gets +X/+0 and gains lifelink until end of turn, where X is the number of creature cards in your graveyard. => Target creature you control gets +3/+0 until end of turn. Sacrifice it at end of turn and gain life equal to its toughness.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Shapeshifter added.

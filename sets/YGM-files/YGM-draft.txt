@@ -513,7 +513,7 @@
 		{
 			"name": "Creature Swap",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
 			"collector_number": "47",
 			"image_uris": {
@@ -1853,7 +1853,7 @@
 		{
 			"name": "Ekibyo Drakmord",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "52",
 			"image_uris": {
@@ -2764,7 +2764,7 @@
 			"name": "Mind Crush",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/276.jpg"
@@ -3633,7 +3633,7 @@
 		{
 			"name": "Return of the Doomed",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
