@@ -1763,7 +1763,7 @@
 		{
 			"name": "Berserk Dragon",
 			"rarity": "mythic",
-			"mana_cost": "",
+			"mana_cost": "{6}{B}{B}{R}{R}",
 			"type": "Legendary Creature — Zombie Dragon",
 			"collector_number": "189",
 			"image_uris": {
@@ -2883,7 +2883,7 @@
 		{
 			"name": "A Feather of the Phoenix",
 			"rarity": "rare",
-			"mana_cost": "{R}{G}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "207",
 			"image_uris": {
@@ -3092,7 +3092,7 @@
 		},
 		{
 			"name": "Fairy King Truesdale",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant Noble",
 			"collector_number": "161",
@@ -3772,7 +3772,7 @@
 		},
 		{
 			"name": "Seed Cannon",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Kindred Instant — Plant",
 			"collector_number": "178",
@@ -4138,7 +4138,6 @@
 	2 The Grave of Enkindling
 	1 Time Machine
 	2 Token Thanksgiving
-	2 Fairy King Truesdale
 	2 Burning Algae
 	2 Souls of the Forgotten
 	2 Spirit of the Breeze
@@ -4150,6 +4149,7 @@
 	1 Monster Reincarnation
 	2 Cost Down
 	2 Dark Deal
+	2 Seed Cannon
 	2 Armory Call
 	2 Raging Mad Plants
 	2 Tyhone #2
@@ -4265,6 +4265,7 @@
 	4 Magic Planter
 	4 Patrol Robo
 	4 Kaiser Colosseum
+	4 Fairy King Truesdale
 	4 Nimble Momonga
 	4 Abyss Flower
 	4 Giga-Tech Wolf
@@ -4286,7 +4287,6 @@
 	4 Sinister Seeds
 	4 Weapon Change
 	4 Rising Energy
-	4 Seed Cannon
 	4 Empress Mantis
 [common(7)]
 	8 Mechanicalchaser
@@ -4705,7 +4705,7 @@
 	1 Time Machine
 	2 Token Thanksgiving
 	12 Big Koala
-	2 Fairy King Truesdale
+	6 Fairy King Truesdale
 	6 Nimble Momonga
 	2 Burning Algae
 	2 Souls of the Forgotten
@@ -4750,7 +4750,7 @@
 	12 Smashing Ground
 	6 Weapon Change
 	6 Rising Energy
-	6 Seed Cannon
+	2 Seed Cannon
 	6 Empress Mantis
 	12 Deal of Phantom
 	12 Temple of the Sun
@@ -5066,7 +5066,7 @@
 	4 Time Machine
 	7 Token Thanksgiving
 	6 Big Koala
-	7 Fairy King Truesdale
+	15 Fairy King Truesdale
 	15 Nimble Momonga
 	7 Burning Algae
 	7 Souls of the Forgotten
@@ -5111,7 +5111,7 @@
 	6 Smashing Ground
 	15 Weapon Change
 	15 Rising Energy
-	15 Seed Cannon
+	7 Seed Cannon
 	15 Empress Mantis
 	6 Deal of Phantom
 	6 Temple of the Sun

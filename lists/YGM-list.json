@@ -168,11 +168,11 @@
         "position": "29"
     },
     {
-        "card_name": "Fairy King Truesdale",
-        "number": 161,
+        "card_name": "Kazejin",
+        "number": 169,
         "shape": "normal",
         "set": "YGM",
-        "position": "309"
+        "position": "31"
     },
     {
         "card_name": "Ray of Hope",
@@ -203,11 +203,11 @@
         "position": "345"
     },
     {
-        "card_name": "Kazejin",
-        "number": 169,
+        "card_name": "Seed Cannon",
+        "number": 178,
         "shape": "normal",
         "set": "YGM",
-        "position": "31"
+        "position": "377"
     },
     {
         "card_name": "Moai Interceptor Cannons",
@@ -483,11 +483,11 @@
         "position": "342"
     },
     {
-        "card_name": "Empress Mantis",
-        "number": 160,
+        "card_name": "Fairy King Truesdale",
+        "number": 161,
         "shape": "normal",
         "set": "YGM",
-        "position": "378"
+        "position": "309"
     },
     {
         "card_name": "Gradius",
@@ -518,11 +518,11 @@
         "position": "286"
     },
     {
-        "card_name": "Cyber-Tech Alligator",
-        "number": 156,
+        "card_name": "Empress Mantis",
+        "number": 160,
         "shape": "normal",
         "set": "YGM",
-        "position": "211"
+        "position": "378"
     },
     {
         "card_name": "Millenium Shield",
@@ -553,11 +553,11 @@
         "position": "203"
     },
     {
-        "card_name": "Overdrive",
-        "number": 174,
+        "card_name": "Cyber-Tech Alligator",
+        "number": 156,
         "shape": "normal",
         "set": "YGM",
-        "position": "215"
+        "position": "211"
     },
     {
         "card_name": "United We Stand",
@@ -588,11 +588,11 @@
         "position": "202"
     },
     {
-        "card_name": "Ceal, Shooting Star Bow",
-        "number": 155,
+        "card_name": "Overdrive",
+        "number": 174,
         "shape": "normal",
         "set": "YGM",
-        "position": "260"
+        "position": "215"
     },
     {
         "card_name": "Beckoning Light",
@@ -623,11 +623,11 @@
         "position": "221"
     },
     {
-        "card_name": "Magic Planter",
-        "number": 171,
+        "card_name": "Ceal, Shooting Star Bow",
+        "number": 155,
         "shape": "normal",
         "set": "YGM",
-        "position": "292"
+        "position": "260"
     },
     {
         "card_name": "Weapon Change",
@@ -658,11 +658,11 @@
         "position": "281"
     },
     {
-        "card_name": "Seed Cannon",
-        "number": 178,
+        "card_name": "Magic Planter",
+        "number": 171,
         "shape": "normal",
         "set": "YGM",
-        "position": "377"
+        "position": "292"
     },
     {
         "card_name": "Hallowed Life Barrier",

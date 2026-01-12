@@ -1,4 +1,382 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Labyrinth Tank
+rules_text: Fusion {5} — Two Constructs [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Trample
+Labyrinth Tank can't be blocked by creatures with defender or Walls. => Fusion {5}—Two Constructs [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Trample
+Labyrinth Tank can't be blocked by creatures with defender or Walls.
+
+Blast Juggler
+rules_text: Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+{1}{R}, {T}, Sacrifice Blast Juggler: Deal 3 damage to each of up to two target creatures. => Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+When Blast Juggler dies, it deals 2 damage to each of up to two target creatures.
+
+Jigen Bakudan
+
+Metal Dragon
+rules_text: Fusion {4} — A Dragon and a Construct [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+{2}: Metal Dragon gets +1/+0 until end of turn. => Fusion {4}—A Dragon and a Construct [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+{2}: Metal Dragon gets +1/+0 until end of turn.
+
+Germ Infection
+rules_text: Enchant nonartifact creature
+Enchanted creature has “Cumulative upkeep: Put two -1/-1 counters on this creature.”
+When enchanted creature dies, return Germ Infection to the battlefield at the beginning of the next end step. => Enchant nonartifact creature
+Enchanted creature has “Cumulative upkeep: Put a -1/-1 counter on this creature.”
+When enchanted creature dies, return Germ Infection to the battlefield at the beginning of the next end step.
+
+Suijin
+rules_text: Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Exhaust — {2}{U}: Draw 2 cards. [i](Activate each exhaust ability only once.)[/i] => Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Exhaust — {2}{U}: Draw two cards. [i](Activate each exhaust ability only once.)[/i]
+
+Ultimate Obedient Fiend
+rules_text: Emerge {8}{R} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Haste, trample
+Ultimate Obedient Fiend cannot attack unless you have no cards in hand and control no other creatures.
+Madness {3}{R}{R}{R} => Emerge {8}{R} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Haste, trample
+Ultimate Obedient Fiend cannot attack unless you have no cards in hand.
+Madness {3}{R}{R}{R}
+
+Giant Germ
+rules_text: Flash
+When Giant Germ dies, Giant Germ deals 2 damage to target creature an opponent controls.
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When Giant Germ dies it deals 2 damage to target creature an opponent controls.
+Divide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Guardian Sphinx
+rules_text: Defense position {2}{W}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Guardian Sphinx is turned face-up, return all face-up creatures to their owners' hands. => Defense position {2}{W}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Guardian Sphinx is turned face up, return all other face up creatures to their owner's hands.
+
+Warrior of Tradition
+rules_text: Fusion {1}{B}{G} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Vigilance, reach
+When Warrior of Tradition attacks, return up to one target creature from your graveyard to your hand. => Fusion {1}{B}{G}—Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Vigilance, reach
+When Warrior of Tradition attacks, return up to one target creature from your graveyard to your hand.
+
+Gate Guardian
+rules_text: Fusion {2}{G}{W}{U} — Three Warriors
+Flash
+Vigilance, reach
+{2}{W}: Prevent all damage that would be dealt by target creature this turn.
+{3}{G}: Gate Guardian fights target creature.
+{4}{U}: Draw 2 cards. => Fusion {2}{G}{W}{U}—Three Warriors
+Flash
+Vigilance, reach
+{2}{W}: Prevent all damage that would be dealt by target creature this turn.
+{3}{G}: Gate Guardian fights target creature.
+{4}{U}: Draw two cards.
+
+Exxod, Master of the Guard
+rules_text: Emerge from creature with defender {4}{WU}{WU} [i](You may cast this spell by sacrificing a creature with defender and paying the emerge cost reduced by that creature with defender's mana value.)[/i]
+Reach, defender, ward {4}
+Whenever a creature with defender enters or is turned face-up, gain life equal to its toughness and draw a card. => Emerge from creature with defender {4}{W}{U} [i](You may cast this spell by sacrificing a creature with defender and paying the emerge cost reduced by that creature with defender's mana value.)[/i]
+Reach, defender, ward {4}
+Whenever another creature with defender enters or is turned face-up, gain life equal to its toughness and draw a card.
+
+Creature Swap
+rules_text: Choose target creature an opponent controls and a creature you control. Exchange control of those creatures. => Choose target creature an opponent controls and target creature you control. Exchange control of those creatures.
+
+Flower Wolf
+rules_text: Fusion {1}{BG}{BG} — A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, wither [i](This creature can't be blocked except by two or more creatures. This deals damage to creatures in the form of -1/-1 counters.)[/i] => Fusion {1}{BG}{BG}—A Beast and a Plant [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, wither [i](This creature can't be blocked except by two or more creatures. This deals damage to creatures in the form of -1/-1 counters.)[/i]
+
+Master of Oz
+rules_text: Fusion {4}{RG}{RG}{RG} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Trample, reach => Fusion {4}{RG}{RG}{RG}—Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Trample, reach
+
+Behemoth, the King of All Animals
+rules_text: Emerge from Beast {6}{RG}
+Trample
+When Behemoth enters, return a beast with power 5 or less from your graveyard to the battlefield, then creatures you control get +2/+2 and gain haste and trample until end of turn. => Emerge from Beast {6}{R}{G}
+Trample
+When Behemoth enters, return a beast with power 5 or less from your graveyard to the battlefield, then creatures you control get +2/+2 and gain haste and trample until end of turn.
+
+Fiber Jar
+rules_text: Flying
+Defense position {1}{U}{B}
+When Fiber Jar is flipped face up, each player shuffles their hand and graveyard into their library, mills ten cards, then draws seven cards. => Flying
+Defense position {1}{U}{B} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Fiber Jar is flipped face up, each player shuffles their hand and graveyard into their library, mills ten cards, then draws seven cards.
+
+Evil Thorn
+rules_text: Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+{B}, Sacrifice Evil Thorn: Deal 1 damage to any target.
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+{B}, Sacrifice Evil Thorn: Evil Thorn deals 1 damage to any target.
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Gigaplant
+rules_text: Emerge from Plant or Insect {5}{BG}
+Persist, reach
+While Gigaplant has a counter on it, during each of your turns, you may cast an insect and a plant card from your graveyard without paying their mana costs. => Emerge from Plant or Insect {5}{B}{G}
+Persist, reach
+As long as Gigaplant has a counter on it, during each of your turns, you may cast an Insect spell and a Plant spell from your graveyard without paying their mana costs.
+
+Simorgh, Bird of Divinity
+rules_text: Emerge from creature with flying {4}{GW}{GW} [i](You may cast this spell by sacrificing a creature with flying and paying the emerge cost reduced by that creature with flying's mana value.)[/i]
+Flying, first strike, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead. => Emerge from creature with flying {5}{G}{W} [i](You may cast this spell by sacrificing a creature with flying and paying the emerge cost reduced by that creature with flying's mana value.)[/i]
+Flying, first strike, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+
+Mr. Volcano
+rules_text: If a player would gain control of Mr. Volcano, he deals 1 damage to himself instead.
+[i]Enrage[/i]—When Mr. Volcano is dealt damage, he deals 1 damage to each creature your opponents control. => If a player would gain control of Mr. Volcano, he deals 1 damage to himself instead.
+[i]Enrage[/i] — When Mr. Volcano is dealt damage, he deals 1 damage to each creature your opponents control.
+
+Lady Assailant of Flames
+rules_text: Whenever you discard a card, Lady Assailant of Flames deals 2 damage to target player.
+{R}, {T}: Discard a card, then draw a card. => Whenever you discard a card, Lady Assailant of Flames deals 1 damage to each player.
+{R}, {T}: Discard a card, then draw a card.
+
+Flame Ruler
+rules_text: {T}: Flame Ruler's mana value becomes {6} until end of turn.
+Exhaust — {R}, {T}: Flame Ruler deals 2 damage to target creature. => {T}: Flame Ruler's mana value becomes 6 until end of turn.
+Exhaust — {R}, {T}: Flame Ruler deals 2 damage to target creature. Activate only as a sorcery.
+
+St. Joan
+rules_text: Fusion {3}{W}{B} — A Cleric and an Angel [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Lifelink
+Exhaust — Pay X life: Return target creature card with mana value X from your graveyard to the battlefield. => Fusion {3}{W}{B}—A Cleric and an Angel [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Lifelink
+Exhaust — Pay X life: Return target creature card with mana value X from your graveyard to the battlefield.
+
+Sinister Serpent
+rules_text: Flying
+{U}, Exile Sinister Serpent from your graveyard: Surveil 2.
+If an opponent would gain control of Sinister Serpent, you may draw a card instead. => Flying
+{U}, Exile Sinister Serpent from your graveyard: Surveil 2.
+When an opponent gains control of Sinister Serpent, draw a card.
+
+Gyakutenno Megami
+rules_text: Emerge {4}{GW} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Creatures you control with mana value 3 or less get +1/+1 and have “{T}: Add {G} or {W}.” => Emerge {4}{G}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Creatures you control with mana value 3 or less get +1/+1 and have “{T}: Add {G} or {W}.”
+
+Zolga
+rules_text: Flash
+When Zolga is sacrificed, draw a card and gain 2 life. => Flash
+When you sacrifice Zolga, draw a card and gain 2 life.
+
+Archlord Zerato
+rules_text: Emerge from Demon or Angel {5}{WB}{WB} [i](You may cast this spell by sacrificing a Demon or Angel and paying the emerge cost reduced by that Demon or Angel's mana value.)[/i]
+Flying, lifelink
+Sacrifice two creatures: Destroy target nonland permanent an opponent controls. Activate only as a sorcery and only once each turn. => Emerge from Demon or Angel {5}{W}{B} [i](You may cast this spell by sacrificing a Demon or Angel and paying the emerge cost reduced by that Demon or Angel's mana value.)[/i]
+Flying, lifelink
+Sacrifice two creatures: Destroy target nonland permanent an opponent controls. Activate only as a sorcery and only once each turn.
+
+Mokey Mokey King
+rules_text: Fusion {WB}{WB}{WB} — Three Angels [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When Mokey Mokey King enters or dies, create four 1/1 black and white Angel creature tokens with flying named Mokey Mokey. => Fusion {WB}{WB}{WB}—Three Angels [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When Mokey Mokey King enters or dies, create four 1/1 black and white Angel creature tokens with flying named Mokey Mokey.
+
+Eco, Mystical Spirit of the Forest
+rules_text: Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+The next time a source of your choice would deal damage to you, prevent that damage. If damage is prevented this way, Eco deals damage equal to the damage prevented this way to the source's controller. => Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Eco enters the battlefield, choose a source.
+The next time that source would deal damage to you this turn, prevent that damage.
+When damage is prevented this way, Eco deals that much damage to that source's controller.
+
+Charubin the Fire Knight
+rules_text: Fusion {WB}{R} — An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Charubin the Fire Knight enters, destroy target creature an opponent controls. => Fusion {WB}{R}—An Elemental and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Charubin the Fire Knight enters, destroy target creature an opponent controls.
+
+End of the World
+rules_text: Ritual 8 — {2}{B}{B}{B}{B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 8 or more and pay {2}{B}{B}{B}{B} instead of this card's mana cost.)[/i]
+Search your library for a black card, reveal it, put it into your hand, then shuffle. Then if you paid the Ritual cost put a card named Demise, King of Armageddon from your hand onto the battlefield tapped. Otherwise, you gain 8 life. => Ritual 8—{2}{B}{B}{B}{B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 8 or more and pay {2}{B}{B}{B}{B} instead of this card's mana cost.)[/i]
+Search your library for a black card, reveal it, put it into your hand, then shuffle. Then if you paid the Ritual cost put a card named Demise, King of Armageddon from your hand onto the battlefield tapped. Otherwise, you gain 8 life.
+
+The Masked Beast
+rules_text: Trample
+Deathtouch
+Ward—Sacrifice two creatures. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices two creatures.)[/i] => Trample, deathtouch
+Ward—Sacrifice two creatures. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices two creatures.)[/i]
+
+Curse of the Masked Beast
+rules_text: Ritual 8 — {2G}{2U}{2B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 8 or more and pay {2G}{2U}{2B} instead of this card's mana cost.)[/i]
+You may search your library for a creature card, reveal it, put it into your hand, then shuffle. If you paid the Ritual cost, you may put The Masked Beast from your hand onto the battlefield. => Ritual 8—{2}{2G}{2U}{2B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 8 or more and pay {2}{2G}{2U}{2B} instead of this card's mana cost.)[/i]
+You may search your library for a creature card, reveal it, put it into your hand, then shuffle. If you paid the Ritual cost, you may put The Masked Beast from your hand onto the battlefield.
+
+Cosmo Queen
+rules_text: You may cast Cosmo Queen from your graveyard. If you do, it enters with a finality counter on it.
+Flying, ward {2}
+Whenever Cosmo Queen enters or a creature is put into a graveyard from anywhere, draw a card. => You may cast Cosmo Queen from your graveyard. If you do, it enters with a finality counter on it.
+Flying, ward {2}
+Whenever Cosmo Queen enters or a creature card is put into a graveyard from anywhere, draw a card.
+
+Space Mambo
+pt: 4/2 => 3/2
+
+Berserk Dragon
+cost:  => {6}{B}{B}{R}{R}
+rules_text: Emerge {6}{BR}{BR}
+Flying, haste
+{1}: Berserk Dragon deals damage to target creature equal to its power. Put a -1/-0 counter on Berserk Dragon. At the beginning of the next end step, sacrifice Berserk Dragon. => Emerge {6}{B}{BR}{R}
+Flying, haste
+{1}: Berserk Dragon deals damage to target creature equal to its power. Put a -1/-1 counter on Berserk Dragon. At the beginning of the next end step, sacrifice Berserk Dragon.
+pt: 9/1 => 9/9
+
+Burning Spear
+rules_text: Equipped creature has “{T}, Unattach Burning Spear: This creature deals 2 damage to any target.”
+Equip {2} => Equipped creature has “{T}, Unattach Burning Spear: This creature deals 2 damage to any target. Activate only as a sorcery.”
+Equip {2}
+
+Blessings of the Nile
+rules_text: At the beginning of your upkeep, discard a card, then draw a card and gain 2 life. => At the beginning of your upkeep, discard a card, then you draw a card and gain 2 life.
+
+Good Goblin Housekeeping
+rules_text: Discard a card, then draw cards equal to one plus the number of cards named Good Goblin Housekeeping in all graveyards.
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Discard a card, then draw cards equal to the number of cards named Good Goblin Housekeeping in all graveyards plus one.
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Frost and Flame Dragon
+rules_text: Emerge from Elemental or Dragon {5}{UR}
+Flying, double strike
+When Frost and Flame Dragon attacks, tap up to one target creature and put a stun counter on it. Then Frost and Flame Dragon deals 5 damage to up to one other target creature. => Emerge from Elemental or Dragon {5}{U}{R}
+Flying, double strike
+When Frost and Flame Dragon attacks, tap up to one target creature and put a stun counter on it. Then Frost and Flame Dragon deals 5 damage to up to one other target creature.
+
+The Creator
+rules_text: The Creator enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever you attack, you may discard a card. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.
+Madness {RW}{RW}{RW}{RW}{RW} => The Creator enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever you attack, you may discard a card. If you do, return target creature card from your graveyard to the battlefield tapped and attacking.
+Madness {R}{R}{RW}{W}{W}
+
+Destructive Draw
+rules_text: At the beginning of each player's upkeep, if that player has no cards in hand, that player draws 2 cards.
+Whenever an oppponent draws a card, Destructive Draw deals 1 damage to them. => At the beginning of each player's upkeep, if that player has no cards in hand, that player draws two cards.
+Whenever an oppponent draws a card, Destructive Draw deals 1 damage to them.
+
+Shift
+rules_text: Draw a card, then choose one —
+• Change the target of target spell or ability with a single target to target creature you control.
+• The next time target creature an opponent controls would deal damage this turn, prevent that damage. If damage is prevented this way, Shift deals that much damage to target creature you control. => Draw a card, then choose one —
+• Change the target of target spell or ability with a single target that could target a creature you control to target creature you control.
+• The next time target creature an opponent controls would deal damage this turn, prevent that damage. If damage is prevented this way, Shift deals that much damage to target creature you control.
+
+Brain Jacker
+rules_text: Flying
+Defense position {2}{UB}
+When Brain Jacker is turned face-up for its defense position cost, it becomes an aura attached to target creature an opponent controls.
+You control enchanted creature. Enchanted creature has flying. => Flying
+Defense position {2}{UB} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Brain Jacker is turned face-up for its defense position cost, it becomes an Aura enchantment with enchant creature attached to target creature an opponent controls and loses all other card types.
+You control enchanted creature. Enchanted creature has flying.
+
+Fire Princess
+rules_text: Defense position {RW} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Lifelink
+Whenever Fire Princess is turned face up or you discard a card, Fire Princess deals 2 damage to any target. => Defense position {R}{W} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Lifelink
+Whenever Fire Princess is turned face up or you discard a card, Fire Princess deals 1 damage to any target.
+
+Giltia the D. Knight
+rules_text: Fusion {1}{G}{W} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Giltia the D. Knight enters, create four 1/1 white Warrior creature tokens. => Fusion {2}{G}{W}—Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Giltia the D. Knight enters, create four 1/1 white Warrior creature tokens.
+
+Humanoid Worm Drake
+rules_text: Fusion {X}{GU} — A shapeshifter and another creature
+Changeling [i](This card is every creature type.)[/i]
+When you cast this spell you gain half X life and draw half X cards. Round down each time.
+Humanoid Worm Drake enters the battlefield with X +1/+1 counters on it. => Fusion {X}{GU}—A Shapeshifter and another creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Changeling [i](This card is every creature type.)[/i]
+When you cast this spell you gain half X life and draw half X cards. Round down each time.
+Humanoid Worm Drake enters the battlefield with X +1/+1 counters on it.
+
+Dark Cure
+rules_text: Target creature gains wither, persist, and lifelink until end of turn.
+Flashback {3}{WB}{WB} => Target creature gains wither, persist, and lifelink until end of turn.
+Flashback {3}{W}{B}
+
+Human-Wave Tactics
+rules_text: Non-token creatures you control with power 2 or less have Divide {1}. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Nontoken creatures you control with power 2 or less have Divide {1}. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Kaiser Glider
+rules_text: Flying
+If a player would gain control of a creature you control, you may pay {1}{R} to have Kaiser Glider deal 2 damage to them instead.
+Madness {3}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flying
+If a player would gain control of a creature you control, you may instead pay {1}{R} to have Kaiser Glider deal 2 damage to them.
+Madness {3}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+A Feather of the Phoenix
+cost: {R}{G} => {1}{R}{G}
+rules_text: As an additional cost to cast this spell, discard a card.
+Return two creature cards at random from your graveyard to your hand.
+Madness {RG} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Return two creature cards from your graveyard to your hand.
+Madness {R}{G} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Fairy King Truesdale
+rules_text: Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Plant creatures you control get +1/+1.
+Divide {3}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Other plant creatures you control get +1/+1.
+Divide {3}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Nimble Momonga
+rules_text: When this creature dies, you gain 3 life.
+Defense position {G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Divide {G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When this creature dies, you gain 2 life.
+Defense position {G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Divide {G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Giant Germ
+rules_text: When Giant Germ dies, Giant Germ deals 2 damage to target creature an opponent controls.
+[i](This token's mana cost is {R}{G}.)[/i] => When this token dies it deals 2 damage to target creature an opponent controls.
+[i](This token's mana cost is {R}{G}.)[/i]
+
+Burning Algae
+rules_text: Lifelink
+When Burning Algae dies it deals 2 damage to each opponent.
+Divide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Lifelink
+When Burning Algae dies it deals 1 damage to each opponent.
+Divide {4} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Wingbeat of a Giant Dragon
+rules_text: You may return a creature with flying you control to your hand rather than pay this spell's mana cost.
+Destroy all artifacts and enchantments your opponents control. => You may return a creature with flying you control to your hand and pay {G} rather than pay this spell's mana cost.
+Destroy all artifacts and enchantments your opponents control.
+
+Commencement Dance
+rules_text: Ritual 6 — {1}{UR} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 6 or more and pay {1}{UR} instead of this card's mana cost.)[/i]
+Search your library for a multicolor card, reveal it, put it into your hand, then shuffle. You may put a creature named Performance of Sword from your hand onto the battlefield. If you do, it gains haste. => Ritual 6—{1}{UR} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 6 or more and pay {1}{UR} instead of this card's mana cost.)[/i]
+Search your library for a multicolor card, reveal it, put it into your hand, then shuffle. You may put a creature named Performance of Sword from your hand onto the battlefield. If you do, it gains haste.
+
+Seed Cannon
+
+Dark Necrofear
+
+Mr. Frog
+rules_text: Fusion {2}{G}{U} — Three green or blue creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Graft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+Whenever one or more counters are moved off of Mr. Frog, draw a card. => Fusion {2}{G}{U}—Three green or blue creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Graft 6 [i](This creature enters with six +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+Whenever one or more counters are moved off of Mr. Frog, draw a card.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
