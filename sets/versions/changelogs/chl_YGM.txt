@@ -1,4 +1,483 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Labyrinth Wall
+rules_text: Emerge {5} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Defender
+{T}: Untap target attacking creature and remove it from combat. => Emerge {5} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Defender
+{2}, {T}: Untap target attacking creature and remove it from combat.
+
+Steel Scorpion
+rules_text: Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Cannon Soldier
+rules_text: {2}, Sacrifice a creature: Cannon Soldier deals 2 damage to any target. => {2}, {T}, Sacrifice a creature: Cannon Soldier deals 2 damage to any target.
+
+Dimension Jar
+cost: {2} => {4}
+rules_text: Defense position {1} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Dimension Jar is turned face up, exile target nonland permanent an opponent controls until it leaves the battlefield. => Defense position {3} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Dimension Jar enters or is turned face up, exile target nonland permanent an opponent controls until it leaves the battlefield.
+
+Decoyroid
+rules_text: Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever Decoyroid becomes a creature, you may change the target of a spell or ability with a single target to Decoyroid. => Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever Decoyroid becomes a creature, you may change the target of a spell or ability that could target a creature you control with a single target to Decoyroid.
+
+Roulette Barrel
+rules_text: Haste
+{T}: Roll two d6 and choose one result. Destroy target permanent with mana value equal to that result. => Haste
+{T}, Roll two d6 and choose one result: Destroy target permanent with mana value equal to that result.
+
+Sanga of the Thunder
+rules_text: Emerge {5}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Vigilance
+Exhaust — {W}: Prevent all damage that would be dealt by creatures target player controls this turn. [i](Activate each exhaust ability only once.)[/i] => Emerge {5}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Vigilance
+Sanga of the Thunder enters with a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Suijin
+rules_text: Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Exhaust — {2}{U}: Draw two cards. [i](Activate each exhaust ability only once.)[/i] => Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Exhaust — {2}{U}: Draw three cards. [i](Activate each exhaust ability only once.)[/i]
+
+Beautiful Headhuntress
+rules_text: Flash
+Whenever a creature dealt damage by Beautiful Headhuntress this turn dies, you may return another target creature card with mana value 3 or less from your graveyard to your hand. => Whenever a creature dealt damage by Beautiful Headhuntress this turn dies, you may return another target creature card with mana value 3 or less from your graveyard to your hand.
+
+Kazejin
+rules_text: Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+Exhaust — {2}{G}: Kazejin fights target creature. Then, you may have Kazejin fight another target creature. [i](Activate each exhaust ability only once.)[/i] => Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+Exhaust — {2}{G}: Kazejin fights target creature. [i](Activate each exhaust ability only once.)[/i]
+
+Ameba
+rules_text: Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When an opponent gains control of Ameba, Ameba deals 5 damage to them.
+Divide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+When an opponent gains control of Ameba, Ameba deals 5 damage to them.
+Divide {0} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Giant Germ
+rules_text: When Giant Germ dies it deals 2 damage to target creature an opponent controls.
+Divide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When Giant Germ dies it deals 2 damage to target creature an opponent controls.
+Divide {3} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Gate Guardian
+rules_text: Fusion {2}{G}{W}{U}—Three Warriors
+Flash
+Vigilance, reach
+{2}{W}: Prevent all damage that would be dealt by target creature this turn.
+{3}{G}: Gate Guardian fights target creature.
+{4}{U}: Draw two cards. => Fusion {2}{G}{W}{U}—Three Warriors
+Vigilance, reach
+Gate Guardian enters with a shield counter.
+Exhaust — {3}{G}: Gate Guardian fights target creature.
+Exhaust — {4}{U}: Draw two cards. [i](Activate each Exhaust ability only once)[/i]
+
+Golem Sentry
+rules_text: Defense position {3} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+When Golem Sentry enters or is turned face-up, return target creature to its owner's hand. => Defense position {3} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+When Golem Sentry is turned face up, return target creature an opponent controls to its owner's hand.
+
+Shien's Spy
+type: Instant => Sorcery
+rules_text: Target player gains control of target face-up creature you control.
+Draw three cards. => Target opponent gains control of target face-up creature you control.
+Draw three cards.
+
+Gonogo
+rules_text: Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Gonogo enters or is turned face-up, exile another target creature, then set it under its owner's control. => Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+When Gonogo enters or is turned face-up, exile another target creature, then set it under its owner's control. [i](To set a card, put it onto the battlefield face down as a 2/2 creature with defender. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Bubonic Vermin
+rules_text: Defense position {BG} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {0} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+pt: 1/1 => 2/1
+
+The All-Seeing White Tiger
+rules_text: First strike, trample
+Divide {1}{GW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Trample
+Divide {1}{GW} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+pt: 3/1 => 3/2
+
+Silver Fang
+rules_text: Flash
+When Silver Fang enters the battlefield it gains first strike until end of turn.
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flash
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Thousand Needles
+cost: {1}{W}{W}{W} => {2}{W}{W}
+rules_text: Defense position {1}{W}{W} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+First strike
+Thousand Needles assigns combat damage to creatures equal to its toughness rather than its power. => Defense position {1}{W}{W} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Thousand Needles assigns combat damage to creatures equal to its toughness rather than its power.
+
+Necro Fleur
+rules_text: When Necro Fleur dies, you may search your library for a Plant creature card and put it into your graveyard, then shuffle.
+Divide {1} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When Necro Fleur dies, you may search your library for a Plant creature card and put it into your graveyard, then shuffle.
+Divide {1} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Evil Thorn
+rules_text: Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+{B}, Sacrifice Evil Thorn: Evil Thorn deals 1 damage to any target.
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+{B}, Sacrifice Evil Thorn: Evil Thorn deals 1 damage to any target.
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Anti-Aircraft Flower
+rules_text: Reach, defender
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Reach, defender
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Dreamsprite
+rules_text: Flying
+Whenever one or more +1/+1 counters are put on Dreamsprite, you may create a 1/1 green Plant creature token.
+Divide {1}{GU} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Flying
+Whenever one or more +1/+1 counters are put on Dreamsprite, you may create a 1/1 green Plant creature token. This ability triggers only once each turn.
+Divide {1}{GU} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Simorgh, Bird of Divinity
+rules_text: Emerge from creature with flying {5}{G}{W} [i](You may cast this spell by sacrificing a creature with flying and paying the emerge cost reduced by that creature with flying's mana value.)[/i]
+Flying, first strike, lifelink
+If one or more tokens would be created under your control, twice that many of those tokens are created instead. => Emerge from creature with flying {5}{G}{W} [i](You may cast this spell by sacrificing a creature with flying and paying the emerge cost reduced by that creature with flying's mana value.)[/i]
+Flying, trample
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+
+Invasion of Flames
+rules_text: Ward—Sacrifice a creature
+Whenever a creature dies, Invasion of Flames deals 1 damage to that creature's controller.
+Divide {4} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Ward—Sacrifice a creature
+Whenever a creature dies, Invasion of Flames deals 1 damage to that creature's controller.
+Divide {4} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Wingweaver
+rules_text: Emerge {3}{W}{W}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Flying
+When Wingweaver enters, prevent all combat damage that would be dealt this turn. => Emerge {3}{W}{W}{W} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flash
+Flying
+
+Zolga
+rules_text: Flash
+When you sacrifice Zolga, draw a card and gain 2 life. => When you sacrifice Zolga, draw a card and gain 2 life.
+
+Mokey Mokey
+rules_text: Flying
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Flying
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Watapon
+rules_text: Miracle {0} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Divide {W} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Miracle {0} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Divide {W} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Eco, Mystical Spirit of the Forest
+rules_text: Flash
+Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+When Eco enters the battlefield, choose a source.
+The next time that source would deal damage to you this turn, prevent that damage.
+When damage is prevented this way, Eco deals that much damage to that source's controller. => Flash
+Lifelink
+When Eco enters the battlefield, the next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Eco deals that much damage to that source's controller.
+
+The Drdek
+rules_text: When The Drdek dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When The Drdek dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Illusionist Faceless Mage
+rules_text: When Illusionist Faceless Mage enters, each player sacrifices a creature.
+Divide {4} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When Illusionist Faceless Mage enters, each player sacrifices a creature.
+Divide {4} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Space Mambo
+rules_text: Flying
+Divide {4}{U} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Islandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+Divide {4}{U} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Islandcycling {1} [i]({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Invader from Another Dimension
+rules_text: Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Divide {2}{B} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Divide {2}{B} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Change Slime
+rules_text: Defense position {0} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Changeling [i](This card is every creature type.)[/i]
+Divide {1}{U} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Defense position {0} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Changeling [i](This card is every creature type.)[/i]
+Divide {1}{U} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Possessed Dark Soul
+cost: {U}{B}{R} => {2}{U}{B}{R}
+rules_text: Menace
+{U}{B}{R}, {T}, Sacrifice Possessed Dark Soul: Gain control of all creatures target opponent controls with mana value 2 or less. => Menace
+When Possessed Dark Soul enters, gain control of all creatures target opponent controls with mana value 2 or less.
+Evoke {U}{B}{R} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Prisman
+rules_text: Defender
+Exhaust — {2}{W}, {T}: Return target attacking creature to its owner's hand. => Defender
+Exhaust — {3}, {T}: Return target attacking creature to its owner's hand.
+
+Flame Viper
+rules_text: Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Wall of Illusion
+rules_text: Defense position {2}{WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+When Wall of Illusion enters or is turned face up, return target creature to its owner's hand. => Defense position {2}{WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+When Wall of Illusion enters or is turned face up, return another target creature to its owner's hand.
+pt: 2/7 => 2/6
+
+Slime Toad
+rules_text: Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+Divide {2} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Graft 1 [i](This creature enters with a +1/+1 counter on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+Divide {2} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Dupe Frog
+rules_text: Dupe Frog can block any number of creatures.
+When Dupe Frog dies, each player mills three cards.
+Divide {5} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Dupe Frog can block any number of creatures.
+When Dupe Frog dies, each player mills three cards.
+Divide {5} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Piranha Army
+rules_text: Flash
+Menace
+When Piranha Army attacks and is not blocked, it gets +2/+0 until end of turn. => Menace
+When Piranha Army attacks and is not blocked, it gets +2/+0 until end of turn.
+
+Leogun
+rules_text: First strike
+Divide {2}{W} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Vigilance
+Divide {3}{W} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+pt: 2/4 => 4/5
+
+Rock Bombardment
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Rock Bombardment deals damage equal to the sacrificed creature's toughness to any target.
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => As an additional cost to cast this spell, sacrifice a creature.
+Rock Bombardment deals damage equal to the sacrificed creature's toughness to any target.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Enchanted Javelin
+rules_text: If you lost life this turn, you may cast this spell by paying {W} instead of its mana cost.
+Target creature gets +4/+0 and gains first strike until end of turn. => If you lost life this turn, you may cast this spell by paying {W} instead of its mana cost.
+Target creature gets +2/+0 and gains first strike until end of turn.
+
+Shadowknight Archfiend
+rules_text: Haste
+At the beginning of combat on your turn, choose an opponent. That player may discard a card to tap Shadowknight Archfiend.
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i] => Haste
+Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+At the beginning of combat on your turn, choose an opponent. That player may discard a card. If they do, tap Shadowknight Archfiend.
+
+Mirage Knight
+rules_text: Emerge from white creature {5}{W}{W}
+First strike, deathtouch
+Whenever Mirage Knight enters or leaves the battlefield, draw a card.
+At the beginning of each end step, if Mirage Knight attacked or blocked this turn, exile it.
+You may cast Mirage Knight from exile. => Emerge from white creature {5}{W}{W} [i](You may cast this spell by sacrificing a white creature and paying the emerge cost reduced by that white creature's mana value.)[/i]
+Vigilance, first strike [i](Attacking doesn't cause this creature to tap. This creature deals combat damage before creatures without first strike.)[/i]
+{2}{W}{W}: Mirage Knight gets +5/+0 until end of turn. Activate this ability only once each turn.
+
+Burning Spear
+rules_text: Equipped creature has “{T}, Unattach Burning Spear: This creature deals 2 damage to any target. Activate only as a sorcery.”
+Equip {2} => Equipped creature gets +3/+0.
+Equipped creature has “{T}, Sacrifice Burning Spear: This creature deals 3 damage to any target. Activate only as a sorcery.”
+Equip {3}
+
+Cyber-Tech Alligator
+rules_text: Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+Flying, trample
+Graft 4 [i](This creature enters with four +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i] => Affinity for Artifacts [i](This spell costs {1} less to cast for each Artifact you control.)[/i]
+Flying, trample
+Graft 3 [i](This creature enters with three +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)[/i]
+
+Skull Invitation
+cost: {1}{B}{R} => {2}{B}{R}
+rules_text: Whenever a card would be put into an opponent's graveyard from anywhere, exile it and Skull Invitation deals 1 damage to that player. => If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+{4}{B}{B}{R}{R}, Sacrifice Skull Invitation: Deal X damage to target player, where X is the number of cards that player owns in exile.
+
+Meteorain
+rules_text: Creatures you control get 
++2/+0 and have trample. => Attacking creatures you control get 
++2/+0 and have trample.
+
+Invigoration
+rules_text: Enchant land
+Enchanted land has “{G}, {T}: Put a +1/+1 counter on target creature you control.” => Enchant land
+Enchanted land has “{G}, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.”
+
+Nightmare's Steelcage
+cost: {2} => {4}
+rules_text: Vanishing 4 [i](This permanent enters with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Creatures have defender. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Creatures have defender.
+
+The Big March of Animals
+cost: {1}{G}{G} => {2}{G}{G}
+
+Muka Muka
+rules_text: When Muka Muka enters, gain life equal to its toughness.
+Muka Muka's power and toughness are each equal to the number of cards in your hand. => When Muka Muka enters, gain life equal to its toughness.
+Muka Muka's power and toughness are each equal to the number of cards in your hand plus one.
+
+Maharaghi
+rules_text: Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+Whenever Maharaghi blocks or becomes blocked, scry 2, then return it to its owner's hand. => Defense position {WU} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Defender
+Whenever Maharaghi blocks, scry 2, then return it to its owner's hand.
+
+Tricky Spell 4
+type: Instant => Sorcery
+rules_text: Emerge {5}{GU} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Create a number of 4/4 blue Illusion creature tokens with defender equal to the number of creatures your opponents control. => Emerge {5}{GU} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Create a number of 2/2 blue Illusion creature tokens with defender equal to the number of creatures your opponents control.
+
+Lightning Vortex
+cost: {1}{U}{R}{R} => {2}{U}{R}{R}
+
+Wild Nature's Release
+rules_text: Target creature you control gets +4/+0 and gains haste until end of turn. Regenerate it. [i](The next time that permanent would be destroyed this turn, it isn't. Instead tap it.)[/i] => Target creature you control gets +4/+0 and gains haste and indestructible until end of turn.
+
+Human-Wave Tactics
+rules_text: Nontoken creatures you control with power 2 or less have Divide {1}. [i](When a creature with divide dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Nontoken creatures you control with power 2 or less have Divide {1}. [i](When a creature with divide dies on your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Raregold Armor
+rules_text: Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +0/+6 and has Lifelink.
+Equip {3} => Living weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +0/+6 and has Lifelink.
+Equip {5}
+
+Kaiser Colosseum
+rules_text: Kaiser Colosseum enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}, Sacrifice Kaiser Colosseum: Target creature you control gets +1/+0 and gains double strike until end of turn. Activate only as a sorcery. => Kaiser Colosseum enters tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}, {T}, Sacrifice Kaiser Colosseum: Target creature you control gets +1/+0 and gains first strike until end of turn. Activate only as a sorcery.
+
+Token Thanksgiving
+rules_text: Destroy all creatures. You gain 2 life for each token destroyed this way. => Destroy all creatures. You gain 1 life for each token destroyed this way.
+
+Leogun
+rules_text: Flash
+First strike
+[i](This token's mana cost is {4}{W}.)[/i] => Vigilance
+[i](This token's mana cost is {4}{W}.)[/i]
+
+Invader from Another Dimension
+
+Big Koala
+rules_text: Emerge {7}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+When Big Koala enters, put a +1/+1 counter on target creature you control.
+Divide {3}{G}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Emerge {7}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+When Big Koala enters, put a +1/+1 counter on target creature you control.
+Divide {3}{G}{G} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Fairy King Truesdale
+rules_text: Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Other plant creatures you control get +1/+1.
+Divide {3}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Other plant creatures you control get +1/+1.
+Divide {3}{G} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Nimble Momonga
+rules_text: When this creature dies, you gain 2 life.
+Defense position {G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Divide {G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => When this creature dies, you gain 2 life.
+Defense position {G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up at any time for its mana cost, or for its defense position cost if it is blocking.)[/i]
+Divide {G} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Burning Algae
+rules_text: Lifelink
+When Burning Algae dies it deals 1 damage to each opponent.
+Divide {4} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Lifelink
+When Burning Algae dies it deals 1 damage to each opponent.
+Divide {4} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Souls of the Forgotten
+rules_text: Whenever another creature dies, put a +1/+1 counter on this creature.
+Divide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Whenever another creature dies, put a +1/+1 counter on this creature.
+Divide {3} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Spirit of the Breeze
+rules_text: Flying
+At the beginning of your upkeep, you gain 1 life.
+Divide {GW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Flying
+At the beginning of your upkeep, you gain 1 life.
+Divide {2}{GW} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Abyss Flower
+rules_text: Wither
+When Abyss Flower dies, proliferate.
+Divide {3} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Wither
+When Abyss Flower dies, proliferate.
+Divide {3} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+The All-Seeing White Tiger
+rules_text: First strike, trample
+[i](This token's mana cost is {1}{G}{W}.)[/i] => Trample
+[i](This token's mana cost is {1}{G}{W}.)[/i]
+
+Cold Wave
+rules_text: Until your next turn, players can't untap more than one permanent during their untap steps.
+Flashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Tap all creatures and put a stun counter on each of them.
+Flashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Illusion
+pt: 4/4 => 2/2
+
+Dreamsprite
+rules_text: Flying
+Whenever one or more +1/+1 counters are put on this token, you may create a 1/1 green Plant creature token.
+[i](This token's mana cost is {G}{U})[/i] => Flying
+Whenever one or more +1/+1 counters are put on this token, you may create a 1/1 green Plant creature token. The ability triggers only once each turn.
+[i](This token's mana cost is {G}{U})[/i]
+
+Mother Grizzly
+rules_text: Divide {1}{G} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i] => Divide {1}{G} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+
+Tyhone #2
+rules_text: Flying, lifelink, first strike
+Whenever you cast a noncreature spell, Tyhone #2 deals damage equal to its power to any target.
+Madness {RW}{RW}{RW}{RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flying, lifelink
+Whenever you cast a noncreature spell, Tyhone #2 deals damage equal to its power to any target.
+Madness {R}{R}{W}{W} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Flamvell Poun
+rules_text: {2}: Flamvell Poun gets +1/+1 until end of turn.
+Divide {1}{RW} [i](When this creature dies, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => {2}: Flamvell Poun gets +1/+1 until end of turn.
+Divide {1}{RW} [i](When this creature dies during your turn, you may pay its divide cost to create two tapped token copies of it, except they lose divide.)[/i]
+Madness {RW} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

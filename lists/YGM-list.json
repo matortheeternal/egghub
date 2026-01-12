@@ -364,11 +364,11 @@
         "position": "171"
     },
     {
-        "card_name": "Beautiful Headhuntress",
-        "number": 77,
+        "card_name": "Invader from Another Dimension",
+        "number": 98,
         "shape": "normal",
         "set": "YGM",
-        "position": "27"
+        "position": "144"
     },
     {
         "card_name": "Lady Assailant of Flames",
@@ -637,11 +637,11 @@
         "position": "375"
     },
     {
-        "card_name": "Shien's Spy",
-        "number": 67,
+        "card_name": "Rain Storm",
+        "number": 65,
         "shape": "normal",
         "set": "YGM",
-        "position": "50"
+        "position": "273"
     },
     {
         "card_name": "Mind Crush",
@@ -672,11 +672,11 @@
         "position": "361"
     },
     {
-        "card_name": "Rain Storm",
-        "number": 65,
+        "card_name": "Shien's Spy",
+        "number": 67,
         "shape": "normal",
         "set": "YGM",
-        "position": "273"
+        "position": "50"
     },
     {
         "card_name": "Return of the Doomed",
@@ -819,11 +819,11 @@
         "position": "110"
     },
     {
-        "card_name": "Invader from Another Dimension",
-        "number": 98,
+        "card_name": "Man Eater",
+        "number": 100,
         "shape": "normal",
         "set": "YGM",
-        "position": "144"
+        "position": "138"
     },
     {
         "card_name": "Fire Kraken",
@@ -854,11 +854,11 @@
         "position": "170"
     },
     {
-        "card_name": "Man Eater",
-        "number": 100,
+        "card_name": "Beautiful Headhuntress",
+        "number": 77,
         "shape": "normal",
         "set": "YGM",
-        "position": "138"
+        "position": "27"
     },
     {
         "card_name": "Fireyarou",
@@ -2080,13 +2080,6 @@
         "position": "39"
     },
     {
-        "card_name": "Possessed Dark Soul",
-        "number": 237,
-        "shape": "normal",
-        "set": "YGM",
-        "position": "146"
-    },
-    {
         "card_name": "Charubin the Fire Knight",
         "number": 194,
         "shape": "normal",
@@ -2099,6 +2092,13 @@
         "shape": "normal",
         "set": "YGM",
         "position": "122"
+    },
+    {
+        "card_name": "Possessed Dark Soul",
+        "number": 237,
+        "shape": "normal",
+        "set": "YGM",
+        "position": "146"
     },
     {
         "card_name": "The Masked Beast",
@@ -2225,13 +2225,6 @@
         "position": "9"
     },
     {
-        "card_name": "Dimension Jar",
-        "number": 312,
-        "shape": "normal",
-        "set": "YGM",
-        "position": "6"
-    },
-    {
         "card_name": "Dummy Golem",
         "number": 313,
         "shape": "normal",
@@ -2251,6 +2244,13 @@
         "shape": "normal",
         "set": "YGM",
         "position": "294"
+    },
+    {
+        "card_name": "Dimension Jar",
+        "number": 312,
+        "shape": "normal",
+        "set": "YGM",
+        "position": "6"
     },
     {
         "card_name": "Robotic Knight",
@@ -2705,6 +2705,13 @@
         "position": "306"
     },
     {
+        "card_name": "Invader from Another Dimension",
+        "number": 13,
+        "shape": "token",
+        "set": "YGM",
+        "position": "307"
+    },
+    {
         "card_name": "Dupe Frog",
         "number": 7,
         "shape": "token",
@@ -2787,13 +2794,6 @@
         "shape": "token",
         "set": "YGM",
         "position": "303"
-    },
-    {
-        "card_name": "Invader from Another Dimension",
-        "number": 13,
-        "shape": "token",
-        "set": "YGM",
-        "position": "307"
     },
     {
         "card_name": "Mother Grizzly",

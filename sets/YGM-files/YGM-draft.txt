@@ -63,7 +63,7 @@
 		{
 			"name": "Dimension Jar",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
+			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "312",
 			"image_uris": {
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Beautiful Headhuntress",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Warrior",
 			"collector_number": "77",
@@ -504,7 +504,7 @@
 			"name": "Shien's Spy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/50.jpg"
@@ -683,7 +683,7 @@
 		{
 			"name": "Thousand Needles",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "36",
 			"image_uris": {
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"name": "Invader from Another Dimension",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Alien Insect",
 			"collector_number": "98",
@@ -1463,7 +1463,7 @@
 		{
 			"name": "Possessed Dark Soul",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}{R}",
+			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Spirit",
 			"collector_number": "237",
 			"image_uris": {
@@ -2353,7 +2353,7 @@
 		{
 			"name": "Skull Invitation",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "247",
 			"image_uris": {
@@ -2433,7 +2433,7 @@
 		{
 			"name": "Nightmare's Steelcage",
 			"rarity": "rare",
-			"mana_cost": "{2}",
+			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "327",
 			"image_uris": {
@@ -2453,7 +2453,7 @@
 		{
 			"name": "The Big March of Animals",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
@@ -2674,7 +2674,7 @@
 			"name": "Tricky Spell 4",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{U}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "253",
 			"image_uris": {
 				"en": "https://matortheeternal.github.io/egghub/sets/YGM-files/img/267.jpg"
@@ -2683,7 +2683,7 @@
 		{
 			"name": "Lightning Vortex",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}{R}",
+			"mana_cost": "{2}{U}{R}{R}",
 			"type": "Kindred Sorcery — Elemental",
 			"collector_number": "227",
 			"image_uris": {
@@ -3072,7 +3072,7 @@
 		},
 		{
 			"name": "Invader from Another Dimension",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Token Creature — Alien Insect",
 			"collector_number": "13",
@@ -4174,7 +4174,6 @@
 	4 Luminous Spark
 	4 Millenium Shield
 	4 Queen's Double
-	4 Beautiful Headhuntress
 	4 Kagemusha of the Blue Flame
 	4 Criosphinx
 	4 Sand Moth
@@ -4211,6 +4210,7 @@
 	4 Dark Jeroid
 	4 Tribe-Infecting Virus
 	4 Lekunga
+	4 Invader from Another Dimension
 	4 Dark King of the Abyss
 	4 Swordsman of Landstar
 	4 Hayabusa Knight
@@ -4294,6 +4294,7 @@
 	8 Cannon Soldier
 	8 Launcher Spider
 	8 Blast Juggler
+	8 Beautiful Headhuntress
 	8 Sonic Maid
 	8 Dark Blade
 	8 Great Spirit
@@ -4332,7 +4333,6 @@
 	8 Ryu-Ran
 	8 Amphibian Beast
 	8 Space Mambo
-	8 Invader from Another Dimension
 	8 Change Slime
 	8 Fear from the Dark
 	8 Prisman
@@ -4440,7 +4440,7 @@
 	2 Sanga of the Thunder
 	6 Queen's Double
 	2 Suijin
-	6 Beautiful Headhuntress
+	12 Beautiful Headhuntress
 	2 Maju Garzett
 	2 Ultimate Obedient Fiend
 	6 Kagemusha of the Blue Flame
@@ -4551,7 +4551,7 @@
 	12 Ryu-Ran
 	12 Amphibian Beast
 	12 Space Mambo
-	12 Invader from Another Dimension
+	6 Invader from Another Dimension
 	12 Change Slime
 	2 Possessed Dark Soul
 	12 Fear from the Dark
@@ -4801,7 +4801,7 @@
 	7 Sanga of the Thunder
 	15 Queen's Double
 	7 Suijin
-	15 Beautiful Headhuntress
+	6 Beautiful Headhuntress
 	7 Maju Garzett
 	7 Ultimate Obedient Fiend
 	15 Kagemusha of the Blue Flame
@@ -4912,7 +4912,7 @@
 	6 Ryu-Ran
 	6 Amphibian Beast
 	6 Space Mambo
-	6 Invader from Another Dimension
+	15 Invader from Another Dimension
 	6 Change Slime
 	7 Possessed Dark Soul
 	6 Fear from the Dark
